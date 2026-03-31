@@ -1,0 +1,854 @@
+{
+  "General": {
+    "connects_to": [
+        "Ophilia Protag",
+        "Cyrus Protag",
+        "Tressa Protag",
+        "Olberic Protag",
+        "Primrose Protag",
+        "Alfyn Protag",
+        "Therion Protag",
+        "H'aanit Protag",
+        "Goal"
+    ],
+    "requires": "",
+    "starting": true
+  },
+  "Tutorial Side Story": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Ophilia Protag": {
+    "connects_to": [
+        "Flamesgrace"
+    ],
+    "requires": "|Ophilia (Protagonist)|"
+  },
+  "Cyrus Protag": {
+    "connects_to": [
+        "Atlasdam"
+    ],
+    "requires": "|Cyrus (Protagonist)|"
+  },
+  "Tressa Protag": {
+    "connects_to": [
+        "Rippletide"
+    ],
+    "requires": "|Tressa (Protagonist)|"
+  },
+  "Olberic Protag": {
+    "connects_to": [
+        "Cobbleston"
+    ],
+    "requires": "|Olberic (Protagonist)|"
+  },
+  "Primrose Protag": {
+    "connects_to": [
+        "Sunshade"
+    ],
+    "requires": "|Primrose (Protagonist)|"
+  },
+  "Alfyn Protag": {
+    "connects_to": [
+        "Clearbrook"
+    ],
+    "requires": "|Alfyn (Protagonist)|"
+  },
+  "Therion Protag": {
+    "connects_to": [
+        "Bolderfall"
+    ],
+    "requires": "|Therion (Protagonist)|"
+  },
+  "H'aanit Protag": {
+    "connects_to": [
+        "S'warkii"
+    ],
+    "requires": "|H'aanit (Protagonist)|"
+  },
+  "Ophilia - Chapter 1": {
+    "connects_to": [
+        "Cleric",
+        "Ophilia - Chapter 2",
+        "Cave of Origin"
+    ],
+    "requires": "(|Ophilia Clement| AND |Ophilia Chapter|) OR |Ophilia (Protagonist)|"
+  },
+  "Ophilia - Chapter 2": {
+    "connects_to": [
+        "Ophilia - Chapter 3"
+    ],
+    "requires": "|Ophilia| AND |Ophilia Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Saintsbridge|"
+  },
+  "Ophilia - Chapter 3": {
+    "connects_to": [
+        "Ophilia - Chapter 4"
+    ],
+    "requires": "|Ophilia Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Goldshore|"
+  },
+  "Ophilia - Chapter 4": {
+    "connects_to": [],
+    "requires": "|Ophilia Chapter:4| AND (|@Traveler:4| OR {YamlEnabled(solo_run)}) AND |Wispermill|"
+  },
+  "Cleric": {
+    "connects_to": [],
+    "requires": "|Cleric Job|"
+  },
+  "Cyrus - Chapter 1": {
+    "connects_to": [
+        "Subterranean Study",
+        "Scholar",
+        "Cyrus - Chapter 2"
+    ],
+    "requires": "(|Cyrus Albright| AND |Cyrus Chapter|) OR |Cyrus (Protagonist)|"
+  },
+  "Cyrus - Chapter 2": {
+    "connects_to": [
+        "Cyrus - Chapter 3"
+    ],
+    "requires": "|Cyrus| AND |Cyrus Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Quarrycrest|"
+  },
+  "Cyrus - Chapter 3": {
+    "connects_to": [
+        "Cyrus - Chapter 4"
+    ],
+    "requires": "|Cyrus Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Stonegard|"
+  },
+  "Cyrus - Chapter 4": {
+    "connects_to": [],
+    "requires": "|Cyrus Chapter:4| AND (|@Traveler:4| OR {YamlEnabled(solo_run)}) AND |Duskbarrow|"
+  },
+  "Subterranean Study": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Scholar": {
+    "connects_to": [],
+    "requires": "|Scholar Job|"
+  },
+  "Tressa - Chapter 1": {
+    "connects_to": [
+        "Merchant",
+        "Tressa - Chapter 2",
+        "Caves of Maiya"
+    ],
+    "requires": "(|Tressa Colzione| AND |Tressa Chapter|) OR |Tressa (Protagonist)|"
+  },
+  "Tressa - Chapter 2": {
+    "connects_to": [
+        "Tressa - Chapter 3"
+    ],
+    "requires": "|Tressa| AND |Tressa Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Quarrycrest|"
+  },
+  "Tressa - Chapter 3": {
+    "connects_to": [
+        "Tressa - Chapter 4"
+    ],
+    "requires": "|Tressa Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Victors Hollow|"
+  },
+  "Tressa - Chapter 4": {
+    "connects_to": [],
+    "requires": "|Tressa Chapter:4| AND (|@Traveler:4| OR {YamlEnabled(solo_run)}) AND |Grandport|"
+  },
+  "Merchant": {
+    "connects_to": [],
+    "requires": "|Merchant Job|"
+  },
+  "Olberic - Chapter 1": {
+    "connects_to": [
+        "Warrior",
+        "Olberic - Chapter 2",
+        "Brigands' Den"
+    ],
+    "requires": "(|Olberic Eisenberg| AND |Olberic Chapter|) OR |Olberic (Protagonist)|"
+  },
+  "Olberic - Chapter 2": {
+    "connects_to": [
+        "Olberic - Chapter 3"
+    ],
+    "requires": "|Olberic| AND |Olberic Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Victors Hollow|"
+  },
+  "Olberic - Chapter 3": {
+    "connects_to": [
+        "Olberic - Chapter 4"
+    ],
+    "requires": "|Olberic Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Wellspring|"
+  },
+  "Olberic - Chapter 4": {
+    "connects_to": [],
+    "requires": "|Olberic Chapter:4| AND (|@Traveler:4| OR {YamlEnabled(solo_run)}) AND |Riverford|"
+  },
+  "Warrior": {
+    "connects_to": [],
+    "requires": "|Warrior Job|"
+  },
+  "Primrose - Chapter 1": {
+    "connects_to": [
+        "Dancer",
+        "Primrose - Chapter 2",
+        "Sunshade Catacombs"
+    ],
+    "requires": "(|Primrose Azelhart| AND |Primrose Chapter|) OR |Primrose (Protagonist)|"
+  },
+  "Primrose - Chapter 2": {
+    "connects_to": [
+        "Primrose - Chapter 3"
+    ],
+    "requires": "|Primrose| AND |Primrose Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Stillsnow|"
+  },
+  "Primrose - Chapter 3": {
+    "connects_to": [
+        "Primrose - Chapter 4"
+    ],
+    "requires": "|Primrose Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Noblecourt|"
+  },
+  "Primrose - Chapter 4": {
+    "connects_to": [],
+    "requires": "|Primrose Chapter:4| AND (|@Traveler:4| OR {YamlEnabled(solo_run)}) AND |Everhold|"
+  },
+  "Dancer": {
+    "connects_to": [],
+    "requires": "|Dancer Job|"
+  },
+  "Alfyn - Chapter 1": {
+    "connects_to": [
+        "Apothecary",
+        "Alfyn - Chapter 2",
+        "Cave of Rhiyo"
+    ],
+    "requires": "(|Alfyn Greengrass| AND |Alfyn Chapter|) OR |Alfyn (Protagonist)|"
+  },
+  "Alfyn - Chapter 2": {
+    "connects_to": [
+        "Alfyn - Chapter 3"
+    ],
+    "requires": "|Alfyn| AND |Alfyn Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Goldshore|"
+  },
+  "Alfyn - Chapter 3": {
+    "connects_to": [
+        "Alfyn - Chapter 4"
+    ],
+    "requires": "|Alfyn Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Saintsbridge|"
+  },
+  "Alfyn - Chapter 4": {
+    "connects_to": [],
+    "requires": "|Alfyn Chapter:4| AND (|@Traveler:4| OR {YamlEnabled(solo_run)}) AND |Orewell|"
+  },
+  "Apothecary": {
+    "connects_to": [],
+    "requires": "|Apothecary Job|"
+  },
+  "Therion - Chapter 1": {
+    "connects_to": [
+        "Thief",
+        "Therion - Chapter 2",
+        "Ravus Manor"
+    ],
+    "requires": "(|Therion| AND |Therion Chapter|) OR |Therion (Protagonist)|"
+  },
+  "Therion - Chapter 2": {
+    "connects_to": [
+        "Therion - Chapter 3"
+    ],
+    "requires": "|Therion the Thief| AND |Therion Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Noblecourt|"
+  },
+  "Therion - Chapter 3": {
+    "connects_to": [
+        "Therion - Chapter 4"
+    ],
+    "requires": "|Therion Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Wellspring|"
+  },
+  "Therion - Chapter 4": {
+    "connects_to": [],
+    "requires": "|Therion Chapter:4| AND (|@Traveler:4| OR {YamlEnabled(solo_run)}) AND |Northreach|"
+  },
+  "Thief": {
+    "connects_to": [],
+    "requires": "|Thief Job|"
+  },
+  "H'aanit - Chapter 1": {
+    "connects_to": [
+        "Hunter",
+        "H'aanit - Chapter 2",
+        "The Whisperwood"
+    ],
+    "requires": "(|H'aanit| AND |H'aanit Chapter|) OR |H'aanit (Protagonist)|"
+  },
+  "H'aanit - Chapter 2": {
+    "connects_to": [
+        "H'aanit - Chapter 3"
+    ],
+    "requires": "|H'aanit the Hunter| AND |H'aanit Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Stonegard|"
+  },
+  "H'aanit - Chapter 3": {
+    "connects_to": [
+        "H'aanit - Chapter 4"
+    ],
+    "requires": "|H'aanit Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Stillsnow|"
+  },
+  "H'aanit - Chapter 4": {
+    "connects_to": [],
+    "requires": "|H'aanit Chapter:4| AND (|@Traveler:4| OR {YamlEnabled(solo_run)}) AND |Marsalim|"
+  },
+  "Hunter": {
+    "connects_to": [],
+    "requires": "|Hunter Job|"
+  },
+  "Starseer": {
+    "connects_to": [],
+    "requires": "|Starseer Job|"
+  },
+  "Runelord": {
+    "connects_to": [],
+    "requires": "|Runelord Job|"
+  },
+  "Warmaster": {
+    "connects_to": [],
+    "requires": "|Warmaster Job|"
+  },
+  "Sorcerer": {
+    "connects_to": [],
+    "requires": "|Sorcerer Job|"
+  },
+  "Frostlands Tier 1": {
+    "connects_to": [
+        "Flamesgrace",
+        "Woodlands Tier 1",
+        "Flatlands Tier 1",
+        "Hoarfrost Grotto",
+        "Tutorial Side Story"
+    ],
+    "requires": "|Frostlands Map Piece| OR |Frostlands Tier 1 Map|"
+  },
+  "Flamesgrace": {
+    "connects_to": [
+        "Ophilia - Chapter 1",
+        "Frostlands Tier 1"
+    ],
+    "requires": "|Flamesgrace Pass| OR |Ophilia (Protagonist)|"
+  },
+  "Cave of Origin": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Hoarfrost Grotto": {
+    "connects_to": [],
+    "requires": "|Hoarfrost Grotto Dungeon Map| AND |Chapter 2|"
+  },
+  "Frostlands Tier 2": {
+    "connects_to": [
+        "Frostlands Tier 3",
+        "Tomb of the Imperator",
+        "Shrine of the Flamebringer",
+        "Stillsnow"
+    ],
+    "requires": "|Frostlands Map Piece:2| OR |Frostlands Tier 2 Map|"
+  },
+  "Shrine of the Flamebringer": {
+    "connects_to": [
+        "Cleric"
+    ],
+    "requires": "|Cleric Job|"
+  },
+  "Stillsnow": {
+    "connects_to": [],
+    "requires": "|Stillsnow Pass|"
+  },
+  "Tomb of the Imperator": {
+    "connects_to": [],
+    "requires": "|Tomb of the Imperator Dungeon Map| AND |Chapter 3|"
+  },
+  "Frostlands Tier 3": {
+    "connects_to": [
+        "Maw of the Ice Dragon",
+        "Northreach"
+    ],
+    "requires": "|Frostlands Map Piece:3| OR |Frostlands Tier 3 Map|"
+  },
+  "Northreach": {
+    "connects_to": [],
+    "requires": "|Northreach Pass|"
+  },
+  "Maw of the Ice Dragon": {
+    "connects_to": [],
+    "requires": "|Maw of the Ice Dragon Dungeon Map| AND |Chapter 4|"
+  },
+  "Flatlands Tier 1": {
+    "connects_to": [
+        "Atlasdam",
+        "Flatlands Tier 2",
+        "Coastlands Tier 1",
+        "Frostlands Tier 1",
+        "The Whistlewood",
+        "Tutorial Side Story"
+    ],
+    "requires": "|Flatlands Map Piece| OR |Flatlands Tier 1 Map|"
+  },
+  "Atlasdam": {
+    "connects_to": [
+        "Cyrus - Chapter 1",
+        "Flatlands Tier 1"
+    ],
+    "requires": "|Atlasdam Pass| OR |Cyrus (Protagonist)|"
+  },
+  "The Whistlewood": {
+    "connects_to": [],
+    "requires": "|The Whistlewood Dungeon Map|"
+  },
+  "Flatlands Tier 2": {
+    "connects_to": [
+        "Noblecourt",
+        "Flatlands Tier 3",
+        "The Hollow Throne",
+        "Shrine of the Sage"
+    ],
+    "requires": "|Flatlands Map Piece:2| OR |Flatlands Tier 2 Map|"
+  },
+  "Shrine of the Sage": {
+    "connects_to": [
+        "Scholar"
+    ],
+    "requires": "|Scholar Job|"
+  },
+  "Noblecourt": {
+    "connects_to": [],
+    "requires": "|Noblecourt Pass|"
+  },
+  "The Hollow Throne": {
+    "connects_to": [],
+    "requires": "|The Hollow Throne Dungeon Map| AND |Chapter 2|"
+  },
+  "Flatlands Tier 3": {
+    "connects_to": [
+        "Shrine of the Starseer",
+        "Forest of Purgation",
+        "Wispermill"
+    ],
+    "requires": "|Flatlands Map Piece:3| OR |Flatlands Tier 3 Map|"
+  },
+  "Shrine of the Starseer": {
+    "connects_to": [
+        "Starseer"
+    ],
+    "requires": "|Starseer Job|"
+  },
+  "Wispermill": {
+    "connects_to": [],
+    "requires": "|Wispermill Pass|"
+  },
+  "Forest of Purgation": {
+    "connects_to": [],
+    "requires": "|Forest of Purgation Dungeon Map| AND |Chapter 4|"
+  },
+  "Coastlands Tier 1": {
+    "connects_to": [
+        "Rippletide",
+        "Flatlands Tier 1",
+        "Highlands Tier 1",
+        "Undertow Cove",
+        "Tutorial Side Story"
+    ],
+    "requires": "|Coastlands Map Piece| OR |Coastlands Tier 1 Map|"
+  },
+  "Rippletide": {
+    "connects_to": [
+        "Tressa - Chapter 1",
+        "Coastlands Tier 1"
+    ],
+    "requires": "|Rippletide Pass| OR |Tressa (Protagonist)|"
+  },
+  "Caves of Maiya": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Undertow Cove": {
+    "connects_to": [],
+    "requires": "|Undertow Cove Dungeon Map| AND |Chapter 4|"
+  },
+  "Coastlands Tier 2": {
+    "connects_to": [
+        "Shrine of the Trader",
+        "Coastlands Tier 3",
+        "Captains' Bain",
+        "Goldshore"
+    ],
+    "requires": "|Coastlands Map Piece:2| OR |Coastlands Tier 2 Map|"
+  },
+  "Shrine of the Trader": {
+    "connects_to": [
+        "Merchant"
+    ],
+    "requires": "|Merchant Job|"
+  },
+  "Goldshore": {
+    "connects_to": [],
+    "requires": "|Goldshore Pass|"
+  },
+  "Captains' Bain": {
+    "connects_to": [],
+    "requires": "|Captains' Bain Dungeon Map| AND |Chapter 3|"
+  },
+  "Coastlands Tier 3": {
+    "connects_to": [
+        "Grandport",
+        "Loch of the Lost King"
+    ],
+    "requires": "|Coastlands Map Piece:3| OR |Coastlands Tier 3 Map|"
+  },
+  "Grandport": {
+    "connects_to": [],
+    "requires": "|Grandport Pass|"
+  },
+  "Loch of the Lost King": {
+    "connects_to": [],
+    "requires": "|Loch of the Lost King Dungeon Map| AND |Chapter 4|"
+  },
+  "Highlands Tier 1": {
+    "connects_to": [
+        "Cobbleston",
+        "Coastlands Tier 1",
+        "Highlands Tier 2",
+        "Sunlands Tier 1",
+        "Untouched Sanctum",
+        "Tutorial Side Story"
+    ],
+    "requires": "|Highlands Map Piece| OR |Highlands Tier 1 Map|"
+  },
+  "Cobbleston": {
+    "connects_to": [
+        "Olberic - Chapter 1",
+        "Highlands Tier 1"
+    ],
+    "requires": "|Cobbleston Pass| OR |Olberic (Protagonist)|"
+  },
+  "Brigands' Den": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Untouched Sanctum": {
+    "connects_to": [],
+    "requires": "|Untouched Sanctum Dungeon Map|"
+  },
+  "Highlands Tier 2": {
+    "connects_to": [
+        "Stonegard",
+        "Coastlands Tier 2",
+        "Sunlands Tier 2",
+        "Highlands Tier 3",
+        "Shrine of the Thunderblade",
+        "Tomb of Kings"
+    ],
+    "requires": "|Highlands Map Piece:2| OR |Highlands Tier 2 Map|"
+  },
+  "Shrine of the Thunderblade": {
+    "connects_to": [
+        "Warrior"
+    ],
+    "requires": "|Warrior Job|"
+  },
+  "Stonegard": {
+    "connects_to": [],
+    "requires": "|Stonegard Pass|"
+  },
+  "Tomb of Kings": {
+    "connects_to": [],
+    "requires": "|Tomb of Kings Dungeon Map| AND |Chapter 2|"
+  },
+  "Highlands Tier 3": {
+    "connects_to": [
+        "Everhold",
+        "Shrine of the Runeblade",
+        "Everhold Tunnels"
+    ],
+    "requires": "|Highlands Map Piece:3| OR |Highlands Tier 3 Map|"
+  },
+  "Shrine of the Runeblade": {
+    "connects_to": [
+        "Runelord"
+    ],
+    "requires": "|Runelord Job|"
+  },
+  "Everhold": {
+    "connects_to": [],
+    "requires": "|Everhold Pass|"
+  },
+  "Everhold Tunnels": {
+    "connects_to": [],
+    "requires": "|Everhold Tunnels Dungeon Map| AND |Chapter 4|"
+  },
+  "Sunlands Tier 1": {
+    "connects_to": [
+        "Sunshade",
+        "Sunlands Tier 2",
+        "Highlands Tier 1",
+        "Riverlands Tier 1",
+        "Whistling Cavern",
+        "Tutorial Side Story"
+    ],
+    "requires": "|Sunlands Map Piece| OR |Sunlands Tier 1 Map|"
+  },
+  "Sunshade": {
+    "connects_to": [
+        "Primrose - Chapter 1"
+    ],
+    "requires": "|Sunshade Pass| OR |Primrose (Protagonist)|"
+  },
+  "Sunshade Catacombs": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Whistling Cavern": {
+    "connects_to": [],
+    "requires": "|Whistling Cavern Dungeon Map| AND |Chapter 2|"
+  },
+  "Sunlands Tier 2": {
+    "connects_to": [
+        "Wellspring",
+        "Sunlands Tier 3",
+        "Highlands Tier 2",
+        "Shrine of the Lady of Grace",
+        "Quicksand Caves"
+    ],
+    "requires": "|Sunlands Map Piece:2| OR |Sunlands Tier 2 Map|"
+  },
+  "Shrine of the Lady of Grace": {
+    "connects_to": [
+        "Dancer"
+    ],
+    "requires": "|Dancer Job|"
+  },
+  "Wellspring": {
+    "connects_to": [],
+    "requires": "|Wellspring Pass|"
+  },
+  "Quicksand Caves": {
+    "connects_to": [],
+    "requires": "|Quicksand Caves Dungeon Map| AND |Chapter 3|"
+  },
+  "Sunlands Tier 3": {
+    "connects_to": [
+        "Marsalim",
+        "Marsalim Catacombs"
+    ],
+    "requires": "|Sunlands Map Piece:3| OR |Sunlands Tier 3 Map|"
+  },
+  "Marsalim": {
+    "connects_to": [],
+    "requires": "|Marsalim Pass|"
+  },
+  "Marsalim Catacombs": {
+    "connects_to": [],
+    "requires": "|Marsalim Catacombs Dungeon Map| AND |Chapter 4|"
+  },
+  "Riverlands Tier 1": {
+    "connects_to": [
+        "Clearbrook",
+        "Riverlands Tier 2",
+        "Sunlands Tier 1",
+        "Cliftlands Tier 1",
+        "Twin Falls",
+        "Tutorial Side Story"
+    ],
+    "requires": "|Riverlands Map Piece| OR |Riverlands Tier 1 Map|"
+  },
+  "Clearbrook": {
+    "connects_to": [
+        "Alfyn - Chapter 1",
+        "Riverlands Tier 1"
+    ],
+    "requires": "|Clearbrook Pass| OR |Alfyn (Protagonist)|"
+  },
+  "Cave of Rhiyo": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Twin Falls": {
+    "connects_to": [],
+    "requires": "|Twin Falls Dungeon Map| AND |Chapter 2|"
+  },
+  "Riverlands Tier 2": {
+    "connects_to": [
+        "Saintsbridge",
+        "Shrine of the Healer",
+        "Farshore"
+    ],
+    "requires": "|Riverlands Map Piece:2| OR |Riverlands Tier 2 Map|"
+  },
+  "Shrine of the Healer": {
+    "connects_to": [
+        "Apothecary"
+    ],
+    "requires": "|Apothecary Job|"
+  },
+  "Saintsbridge": {
+    "connects_to": [],
+    "requires": "|Saintsbridge Pass|"
+  },
+  "Farshore": {
+    "connects_to": [],
+    "requires": "|Farshore Dungeon Map| AND |Chapter 3|"
+  },
+  "Riverlands Tier 3": {
+    "connects_to": [
+        "Shrine of the Warbringer",
+        "Refuge Ruins",
+        "Riverford"
+    ],
+    "requires": "|Riverlands Map Piece:3| OR |Riverlands Tier 3 Map|"
+  },
+  "Shrine of the Warbringer": {
+    "connects_to": [
+        "Warmaster"
+    ],
+    "requires": "|Warmaster Job|"
+  },
+  "Riverford": {
+    "connects_to": [],
+    "requires": "|Riverford Pass|"
+  },
+  "Refuge Ruins": {
+    "connects_to": [],
+    "requires": "|Refuge Ruins Dungeon Map| AND |Chapter 4|"
+  },
+  "Cliftlands Tier 1": {
+    "connects_to": [
+        "Bolderfall",
+        "Cliftlands Tier 2",
+        "Riverlands Tier 1",
+        "Woodlands Tier 1",
+        "Carrion Caves",
+        "Tutorial Side Story"
+    ],
+    "requires": "|Cliftlands Map Piece| OR |Cliftlands Tier 1 Map|"
+  },
+  "Bolderfall": {
+    "connects_to": [
+        "Therion - Chapter 1",
+        "Cliftlands Tier 1"
+    ],
+    "requires": "|Bolderfall Pass| OR |Therion (Protagonist)|"
+  },
+  "Carrion Caves": {
+    "connects_to": [],
+    "requires": "|Carrion Caves Dungeon Map| AND |Chapter 2|"
+  },
+  "Ravus Manor": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Cliftlands Tier 2": {
+    "connects_to": [
+        "Shrine of the Prince of Thieves",
+        "Derelict Mine",
+        "Cliftlands Tier 3",
+        "Quarrycrest"
+    ],
+    "requires": "|Cliftlands Map Piece:2| OR |Cliftlands Tier 2 Map|"
+  },
+  "Shrine of the Prince of Thieves": {
+    "connects_to": [
+        "Thief"
+    ],
+    "requires": "|Thief Job|"
+  },
+  "Quarrycrest": {
+    "connects_to": [],
+    "requires": "|Quarrycrest Pass|"
+  },
+  "Derelict Mine": {
+    "connects_to": [],
+    "requires": "|Derelict Mine Dungeon Map| AND |Chapter 3|"
+  },
+  "Cliftlands Tier 3": {
+    "connects_to": [
+        "Orewell",
+        "Riverlands Tier 3",
+        "Dragonsong Fane"
+    ],
+    "requires": "|Cliftlands Map Piece:3| OR |Cliftlands Tier 3 Map|"
+  },
+  "Orewell": {
+    "connects_to": [],
+    "requires": "|Orewell Pass|"
+  },
+  "Dragonsong Fane": {
+    "connects_to": [],
+    "requires": "|Dragonsong Fane Dungeon Map| AND |Chapter 4|"
+  },
+  "Woodlands Tier 1": {
+    "connects_to": [
+        "S'warkii",
+        "Woodlands Tier 2",
+        "Cliftlands Tier 1",
+        "Frostlands Tier 1",
+        "Tutorial Side Story",
+        "Path of Beasts"
+    ],
+    "requires": "|Woodlands Map Piece| OR |Woodlands Tier 1 Map|"
+  },
+  "S'warkii": {
+    "connects_to": [
+        "H'aanit - Chapter 1"
+    ],
+    "requires": "|S'warkii Pass| OR |H'aanit (Protagonist)|"
+  },
+  "The Whisperwood": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Path of Beasts": {
+    "connects_to": [],
+    "requires": "|Path of Beasts Dungeon Map|"
+  },
+  "Woodlands Tier 2": {
+    "connects_to": [
+        "Shrine of the Huntress",
+        "Victors Hollow",
+        "Frostlands Tier 2",
+        "Woodlands Tier 3"
+    ],
+    "requires": "|Woodlands Map Piece:2| OR |Woodlands Tier 2 Map|"
+  },
+  "Shrine of the Huntress": {
+    "connects_to": [
+        "Hunter"
+    ],
+    "requires": "|Hunter Job|"
+  },
+  "Victors Hollow": {
+    "connects_to": [
+        "Forest of No Return"
+    ],
+    "requires": "|Victors Hollow Pass|"
+  },
+  "Forest of No Return": {
+    "connects_to": [],
+    "requires": "|Forest of No Return Dungeon Map| AND |Chapter 4|"
+  },
+  "Woodlands Tier 3": {
+    "connects_to": [
+        "Shrine of the Archmagus",
+        "Moldering Ruins",
+        "Duskbarrow"
+    ],
+    "requires": "|Woodlands Map Piece:3| OR |Woodlands Tier 3 Map|"
+  },
+  "Shrine of the Archmagus": {
+    "connects_to": [
+        "Sorcerer"
+    ],
+    "requires": "|Sorcerer Job|"
+  },
+  "Duskbarrow": {
+    "connects_to": [],
+    "requires": "|Duskbarrow Pass|"
+  },
+  "Moldering Ruins": {
+    "connects_to": [],
+    "requires": "|Moldering Ruins Dungeon Map| AND |Chapter 4|"
+  },
+  "Goal": {
+    "connects_to": [],
+    "requires": ""
+  }
+}

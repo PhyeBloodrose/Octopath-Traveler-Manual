@@ -1,0 +1,109 @@
+{
+    "SuperBoss": {
+        "yaml_option": [ "super_boss" ],
+        "hidden": true
+    },
+    "Protag": {
+        "hidden": true
+    },
+    "DUMMY": {
+        "hidden": true
+    },
+    "GalderaGoal": {
+        "yaml_option": [ "galdera_goal", "!solo_run" ],
+        "hidden": true
+    },
+    "OphiliaGoal": {
+        "yaml_option": [ "ophilia_goal" ],
+        "hidden": true
+    },
+    "CyrusGoal": {
+        "yaml_option": [ "cyrus_goal" ],
+        "hidden": true
+    },
+    "TressaGoal": {
+        "yaml_option": [ "tressa_goal" ],
+        "hidden": true
+    },
+    "OlbericGoal": {
+        "yaml_option": [ "olberic_goal" ],
+        "hidden": true
+    },
+    "PrimroseGoal": {
+        "yaml_option": [ "primrose_goal" ],
+        "hidden": true
+    },
+    "AlfynGoal": {
+        "yaml_option": [ "alfyn_goal" ],
+        "hidden": true
+    },
+    "TherionGoal": {
+        "yaml_option": [ "therion_goal" ],
+        "hidden": true
+    },
+    "H'aanitGoal": {
+        "yaml_option": [ "haanit_goal" ],
+        "hidden": true
+    },
+    "HiddenItem": {
+        "yaml_option": [ "hidden_items" ],
+        "hidden": true
+    },
+    "SideStory": {
+        "yaml_option": [ "side_stories" ],
+        "hidden": true
+    },
+    "Chests": {
+        "yaml_option": [ "chestsanity" ],
+        "hidden": true
+    },
+    "SoloRun": {
+        "yaml_option": [ "solo_run" ],
+        "hidden": true
+    },
+    "NotSolo": {
+        "yaml_option": [ "!solo_run" ],
+        "hidden": true
+    },
+    "HighLevel": {
+        "yaml_option": [ "high_level" ],
+        "hidden": true
+    },
+    "Story": {
+        "yaml_option": [ "expanded_chapters" ],
+        "hidden": true
+    },
+    "StoryNot": {
+        "yaml_option": [ "!expanded_chapters" ],
+        "hidden": true
+    },
+    "Accessories": {
+        "yaml_option": [ "accessories" ]
+    },
+    "Weapons - Swords": {
+        "yaml_option": [ "weapons" ]
+    },
+    "Weapons - Polearms": {
+        "yaml_option": [ "weapons" ]
+    },
+    "Weapons - Daggers": {
+        "yaml_option": [ "weapons" ]
+    },
+    "Weapons - Axes": {
+        "yaml_option": [ "weapons" ]
+    },
+    "Weapons - Bows": {
+        "yaml_option": [ "weapons" ]
+    },
+    "Weapons - Staves": {
+        "yaml_option": [ "weapons" ]
+    },
+    "Map Pieces": {
+        "yaml_option": [ "progressive_lands" ],
+        "hidden": true
+    },
+    "Map Tiers": {
+        "yaml_option": [ "!progressive_lands" ],
+        "hidden": true
+    }
+}

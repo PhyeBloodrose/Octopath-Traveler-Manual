@@ -1,0 +1,194 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "_commented_out_option": {
+            "type": "Toggle",
+            "default": true
+        },
+        "super_boss": {
+            "description": [
+                "Include the Secret Bosses and its associated Classes and Skills."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "galdera_goal": {
+            "description": [
+                "Defeating Galdera will be part of the goal to win the game."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Goal Options"
+        },
+        "ophilia_goal": {
+            "description": [
+                "Finishing Ophilia's Chapter 4 will be part of the goal to win the game."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Goal Options"
+        },
+        "cyrus_goal": {
+            "description": [
+                "Finishing Cyrus's Chapter 4 will be part of the goal to win the game."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Goal Options"
+        },
+        "tressa_goal": {
+            "description": [
+                "Finishing Tressa's Chapter 4 will be part of the goal to win the game."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Goal Options"
+        },
+        "olberic_goal": {
+            "description": [
+                "Finishing Olberic's Chapter 4 will be part of the goal to win the game."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Goal Options"
+        },
+        "primrose_goal": {
+            "description": [
+                "Finishing Primrose's Chapter 4 will be part of the goal to win the game."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Goal Options"
+        },
+        "alfyn_goal": {
+            "description": [
+                "Finishing Alfyn's Chapter 4 will be part of the goal to win the game."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Goal Options"
+        },
+        "therion_goal": {
+            "description": [
+                "Finishing Therion's Chapter 4 will be part of the goal to win the game."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Goal Options"
+        },
+        "haanit_goal": {
+            "description": [
+                "Finishing H'aanit's Chapter 4 will be part of the goal to win the game."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Goal Options"
+        },
+        "side_stories": {
+            "description": [
+                "Side Stories will be added as extra locations if enabled."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "chestsanity": {
+            "description": [
+                "Every Non-Missable chest will be a location if enabled.",
+                "The only missable chest is the one in Cyrus's Chapter where he falls down a hole."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "hidden_items": {
+            "description": [
+                "Every Non-Missable Hidden Item will be a location if enabled."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "high_level": {
+            "description": [
+                "If enabled, all level 50+ locations will be included when you enable side stories, chests and/or hidden items.",
+                "An average playthrough of Octopath Traveler leaves the party around level 50 but there are a few locations which require more grinding."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Options"
+        },
+        "solo_run": {
+            "description": [
+                "If enabled, only One Traveler will be chosen for your whole run.",
+                "Does not work with Galdera Goal."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Options"
+        },
+        "accessories": {
+            "description": [
+                "If enabled, adds one of each of the various accessories into the pool of items.",
+                "Earrings and Rings will be treated as filler.",
+                "Bracelets will be treated as useful.",
+                "Necklaces will be treated as progression.",
+                "Other Accessories will be treated as either Useful or Progression depending on their stats."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "weapons": {
+            "description": [
+                "If enabled, adds one of each of the various weapons into the pool of items.",
+                "Most weapons are considered as filler items",
+                "The highest tier weapon you can buy at shops and up to Battle-tested weapons are considered useful.",
+                "Battle-tested weapons will be considered as Progression."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "expanded_chapters": {
+            "description": [
+                "When enabled, each Traveler's Chapter includes a check for each story beat as seen in the journal."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "progressive_lands": {
+            "description": [
+                "If enabled, each tier of a land requires progressive Map Pieces to access. Tier one need 1 Piece, Tier 2 need 2 Pieces etc...",
+                "If disabled, each tier of a land has its own seperate item."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Options"
+        }
+    }
+
+}

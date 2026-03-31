@@ -1,0 +1,6040 @@
+[
+  {
+    "name": "Random Protagonist",
+    "region": "General",
+    "category": [
+        "Start Here"
+    ],
+    "requires": "",
+    "place_item_category": [
+        "Protag"
+    ]
+  },
+  {
+    "name": "Random Protagonist 2",
+    "region": "Goal",
+    "category": [
+        "DUMMY"
+    ],
+    "requires": "|@Proof of Victory:all|",
+    "place_item_category": [
+        "Protag"
+    ]
+  },
+  {
+    "name": "Random Protagonist 3",
+    "region": "Goal",
+    "category": [
+        "DUMMY"
+    ],
+    "requires": "|@Proof of Victory:all|",
+    "place_item_category": [
+        "Protag"
+    ]
+  },
+  {
+    "name": "Random Protagonist 4",
+    "region": "Goal",
+    "category": [
+        "DUMMY"
+    ],
+    "requires": "|@Proof of Victory:all|",
+    "place_item_category": [
+        "Protag"
+    ]
+  },
+  {
+    "name": "Random Protagonist 5",
+    "region": "Goal",
+    "category": [
+        "DUMMY"
+    ],
+    "requires": "|@Proof of Victory:all|",
+    "place_item_category": [
+        "Protag"
+    ]
+  },
+  {
+    "name": "Random Protagonist 6",
+    "region": "Goal",
+    "category": [
+        "DUMMY"
+    ],
+    "requires": "|@Proof of Victory:all|",
+    "place_item_category": [
+        "Protag"
+    ]
+  },
+  {
+    "name": "Random Protagonist 7",
+    "region": "Goal",
+    "category": [
+        "DUMMY"
+    ],
+    "requires": "|@Proof of Victory:all|",
+    "place_item_category": [
+        "Protag"
+    ]
+  },
+  {
+    "name": "Random Protagonist 8",
+    "region": "Goal",
+    "category": [
+        "DUMMY"
+    ],
+    "requires": "|@Proof of Victory:all|",
+    "place_item_category": [
+        "Protag"
+    ]
+  },
+  {
+    "name": "Solo Run 1",
+    "region": "Goal",
+    "category": [
+        "DUMMY",
+        "SoloRun"
+    ],
+    "requires": "|@Proof of Victory:1|",
+    "place_item_category": [
+        "Travelers"
+    ]
+  },
+  {
+    "name": "Solo Run 2",
+    "region": "Goal",
+    "category": [
+        "DUMMY",
+        "SoloRun"
+    ],
+    "requires": "|@Proof of Victory:1|",
+    "place_item_category": [
+        "Travelers"
+    ]
+  },
+  {
+    "name": "Solo Run 3",
+    "region": "Goal",
+    "category": [
+        "DUMMY",
+        "SoloRun"
+    ],
+    "requires": "|@Proof of Victory:1|",
+    "place_item_category": [
+        "Travelers"
+    ]
+  },
+  {
+    "name": "Solo Run 4",
+    "region": "Goal",
+    "category": [
+        "DUMMY",
+        "SoloRun"
+    ],
+    "requires": "|@Proof of Victory:1|",
+    "place_item_category": [
+        "Travelers"
+    ]
+  },
+  {
+    "name": "Solo Run 5",
+    "region": "Goal",
+    "category": [
+        "DUMMY",
+        "SoloRun"
+    ],
+    "requires": "|@Proof of Victory:1|",
+    "place_item_category": [
+        "Travelers"
+    ]
+  },
+  {
+    "name": "Solo Run 6",
+    "region": "Goal",
+    "category": [
+        "DUMMY",
+        "SoloRun"
+    ],
+    "requires": "|@Proof of Victory:1|",
+    "place_item_category": [
+        "Travelers"
+    ]
+  },
+  {
+    "name": "Solo Run 7",
+    "region": "Goal",
+    "category": [
+        "DUMMY",
+        "SoloRun"
+    ],
+    "requires": "|@Proof of Victory:1|",
+    "place_item_category": [
+        "Travelers"
+    ]
+  },
+  {
+    "name": "Flamesgrace Cathedral Chest 1 - Healing Grape x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Flamesgrace Cathedral Chest 2 - Herb of Valor x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Flamesgrace Cathedral Chest 3 - Inspiriting Plum x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Cave of Origin Chest 1 - Healing Grape x1",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Cave of Origin Chest 2 - $600 x1",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Cave of Origin Chest 3 - Herb of Clarity x1",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Origin Chest 1 - Healing Grape x1",
+    "region": "Cave of Origin",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Origin Chest 2 - Inspiriting Plum x1",
+    "region": "Cave of Origin",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Origin Chest 3 - Shadow Soulstone x1",
+    "region": "Cave of Origin",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Origin Chest 4 - Silver Hairpiece x1",
+    "region": "Cave of Origin",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Origin Chest 5 - Refreshing Jam x1",
+    "region": "Cave of Origin",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Flamesgrace Hidden Item 1 - Inspiriting Plum (M) x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Hidden Item 2 - Addlewort x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Hidden Item 3 - Shadow Soulstone x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Hidden Item 4 - Injurious Seed x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Cathedral Entrance Hidden Item 1 - Ice Soulstone x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Cathedral Entrance Hidden Item 2 - Empowering Earring x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Cathedral Hidden Item 1 - Heavy Blade x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Cathedral Hidden Item 2 - Copper-filled Pouch x1",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Cathedral Hidden Item 3 - Fortifying Nut x1",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Cathedral Hidden Item 4 - Olive of Life x1",
+    "region": "Flamesgrace",
+    "category": [
+        "Hidden Items - Flamesgrace",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Northern Flamesgrace Wilds Chest 1 - Olive of Life x1",
+    "region": "Frostlands Tier 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Northern Flamesgrace Wilds Chest 2 - Herb of Clamor x1",
+    "region": "Frostlands Tier 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Northern Flamesgrace Wilds Chest 3 - Inspiriting Plum x1",
+    "region": "Frostlands Tier 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Flamesgrace Wilds Chest 1 - Healing Grape x1",
+    "region": "Frostlands Tier 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Flamesgrace Wilds Chest 2 - Shadow Soulstone x1",
+    "region": "Frostlands Tier 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Flamesgrace Wilds Chest 3 - $800",
+    "region": "Frostlands Tier 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Flamesgrace Wilds Chest 4 - Critical Nut x1",
+    "region": "Frostlands Tier 1",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hoarfrost Grotto Chest 1 - Healing Grape (M) x1",
+    "region": "Hoarfrost Grotto",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hoarfrost Grotto Chest 2 - Light Nut x1",
+    "region": "Hoarfrost Grotto",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hoarfrost Grotto Chest 3 - Olive of Life (M) x1",
+    "region": "Hoarfrost Grotto",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hoarfrost Grotto Chest 4 - $10 000",
+    "region": "Hoarfrost Grotto",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hoarfrost Grotto Chest 5 - Soul Hatchet x1",
+    "region": "Hoarfrost Grotto",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Hoarfrost Grotto Chest 6 - Inspiriting Plum (M) x1",
+    "region": "Hoarfrost Grotto",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hoarfrost Grotto - Defeat Jötunn",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Dungeons - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Hoarfrost Grotto| AND |Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Palace Chest 1 - Healing Grapes x1",
+    "region": "Atlasdam",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Atlasdam Palace Chest 2 - Inspiriting Plum x1",
+    "region": "Atlasdam",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Atlasdam Palace Chest 3 - Herb of Awakening x1",
+    "region": "Atlasdam",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Atlasdam Palace Chest 4 - Thunder Soulstone x1",
+    "region": "Atlasdam",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Atlasdam Flats Chest 1 - Inspiriting Plum x1",
+    "region": "Flatlands Tier 1",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Atlasdam Flats Chest 2 - $500",
+    "region": "Flatlands Tier 1",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Atlasdam Flats Chest 1 - Thunder Soulstone x1",
+    "region": "Flatlands Tier 1",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Atlasdam Flats Chest 2 - Olive of Life (M) x1",
+    "region": "Flatlands Tier 1",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whistlewood Chest 1 - $1500",
+    "region": "The Whistlewood",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whistlewood Chest 2 - Silver Sword x1",
+    "region": "The Whistlewood",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whistlewood Chest 3 - Energizing Pomegranate x1",
+    "region": "The Whistlewood",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whistlewood Chest 4 - Resistant Nut x1",
+    "region": "The Whistlewood",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whistlewood Chest 5 - Healing Grape Bunch x1",
+    "region": "The Whistlewood",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Rippletide Coast Chest 1 - Fortifying Nut x1",
+    "region": "Coastlands Tier 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Rippletide Coast Chest 2 - Healing Grape x1",
+    "region": "Coastlands Tier 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Rippletide Coast Chest 3 - Olive of Life x1",
+    "region": "Coastlands Tier 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Rippletide Coast Chest 1 - Magic Nut x1",
+    "region": "Coastlands Tier 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Rippletide Coast Chest 2 - Inspiriting Plum x1",
+    "region": "Coastlands Tier 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Rippletide Coast Chest 3 - Wind Soulstone x1",
+    "region": "Coastlands Tier 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rippletide Chest 1 - Bottle of Poison Dust x1",
+    "region": "Rippletide",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rippletide Chest 2 - Healing Grape x1",
+    "region": "Rippletide",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rippletide Chest 3 - Inspiriting Plum x1",
+    "region": "Rippletide",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rippletide Chest 4 - $500",
+    "region": "Rippletide",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Untouched Sanctum Chest 1 - Inspiriting Plum x1",
+    "region": "Untouched Sanctum",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Untouched Sanctum Chest 2 - Pole Mace x1",
+    "region": "Untouched Sanctum",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Untouched Sanctum Chest 3 - Healing Grape (M) x1",
+    "region": "Untouched Sanctum",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Untouched Sanctum Chest 4 - Sharp Nut x1",
+    "region": "Untouched Sanctum",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Untouched Sanctum Chest 5 - Inspiriting Plum (M) x1",
+    "region": "Untouched Sanctum",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Untouched Sanctum Chest 6 - Olive of Life (M) x1",
+    "region": "Untouched Sanctum",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Cobbleston Chest 1 - Light Soulstone x1",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Cobbleston Chest 2 - $1200",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Cobbleston Chest 3 - Inspiriting Plum x1",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Cobbleston Chest 4 - Healing Grape x1",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Cobbleston Chest 5 - Magic Nut x1",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Cobbleston Chest 1 - Healing Grape x1",
+    "region": "Cobbleston",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Cobbleston Chest 2 - Captain's Sword x1",
+    "region": "Cobbleston",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Mountain Pass Chest 1 - Healing Grape x1",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mountain Pass Chest 2 - Inspiriting Plum x1",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mountain Pass Chest 3 - Light Soulstone x1",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mountain Pass Chest 4 - Old Coin x1",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brigands' Den Chest 1 - Healing Grape x1",
+    "region": "Brigands' Den",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brigands' Den Chest 2 - Black Cap x1",
+    "region": "Brigands' Den",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brigands' Den Chest 3 - Fire Soulstone x1",
+    "region": "Brigands' Den",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brigands' Den Chest 4 - Copper Lantern x1",
+    "region": "Brigands' Den",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brigands' Den Chest 5 - Inspiriting Plum x1",
+    "region": "Brigands' Den",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brigands' Den - Defeat Gaston",
+    "region": "Brigands' Den",
+    "category": [
+        "Dungeons - Highlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cobbleston Hidden Item 1 - Olive of Life x1",
+    "region": "Cobbleston",
+    "category": [
+        "Hidden Items - Cobbleston",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Cobbleston Hidden Item 2 - Candy x1",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Hidden Items - Cobbleston",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Cobbleston Hidden Item 3 - War Lance x1",
+    "region": "Cobbleston",
+    "category": [
+        "Hidden Items - Cobbleston",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "Cobbleston Hidden Item 4 - Arcane Bow x1",
+    "region": "Cobbleston",
+    "category": [
+        "Hidden Items - Cobbleston",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Cobbleston Hidden Item 5 - Purifying Seed x1",
+    "region": "Cobbleston",
+    "category": [
+        "Hidden Items - Cobbleston",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "South Cobbleston Gap Chest 1 - Olive of Life x1",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Cobbleston Gap Chest 2 - Healing Grape x1",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Cobbleston Gap Chest 3 - $1000",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Cobbleston Gap Chest 4 - Herb of Clamor x1",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Cobbleston Gap Chest 5 - Herb of Awakening x1",
+    "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Eastern Sunshade Sands Chest 1 - Healing Grape x1",
+    "region": "Sunlands Tier 1",
+    "category": [
+        "Chests - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Eastern Sunshade Sands Chest 2 - Olive of Life x1",
+    "region": "Sunlands Tier 1",
+    "category": [
+        "Chests - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Eastern Sunshade Sands Chest 3 - Thunder Soulstone x1",
+    "region": "Sunlands Tier 1",
+    "category": [
+        "Chests - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Whistling Cavern Chest 1 - $6000",
+    "region": "Whistling Cavern",
+    "category": [
+        "Dungeons - Sunlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Whistling Cavern Chest 2 - Fire Soulstone (M) x1",
+    "region": "Whistling Cavern",
+    "category": [
+        "Dungeons - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Whistling Cavern Chest 3 - Inspiriting Plum (M) x1",
+    "region": "Whistling Cavern",
+    "category": [
+        "Dungeons - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Whistling Cavern Chest 4 - Heavy Bow x1",
+    "region": "Whistling Cavern",
+    "category": [
+        "Dungeons - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Whistling Cavern Chest 5 - Olive of Life (M) x1",
+    "region": "Whistling Cavern",
+    "category": [
+        "Dungeons - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Southern Sunshade Sands Chest 1 - Old Coin x1",
+    "region": "Sunlands Tier 1",
+    "category": [
+        "Chests - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Southern Sunshade Sands Chest 2 - Inspiriting Plum x1",
+    "region": "Sunlands Tier 1",
+    "category": [
+        "Chests - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Southern Sunshade Sands Chest 3 - Herb of Clarity x1",
+    "region": "Sunlands Tier 1",
+    "category": [
+        "Chests - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sunshade Chest - Traditional Dancer Garb x1",
+    "region": "Sunshade",
+    "category": [
+        "Chests - Sunlands",
+        "Chests"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Sunshade Tavern Chest - Healing Grape x1",
+    "region": "Sunshade",
+    "category": [
+        "Chests - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sunshade Hidden Item 1 - Silver-filled Pouch x1",
+    "region": "Sunshade",
+    "category": [
+        "Hidden Items - Sunshade",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Sunshade Hidden Item 2 - Healing Grape (M) x1",
+    "region": "Sunshade",
+    "category": [
+        "Hidden Items - Sunshade",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Sunshade Hidden Item 3 - Olive of Life (M) x1",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Hidden Items - Sunshade",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Sunshade Tavern Hidden Item 1 - Nourishing Nut x1",
+    "region": "Sunshade",
+    "category": [
+        "Hidden Items - Sunshade",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Sunshade Tavern Hidden Item 2 - Arcane Glaive x1",
+    "region": "Sunshade",
+    "category": [
+        "Hidden Items - Sunshade",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Sunshade Catacombs Chest 1 - Healing Grape x1",
+    "region": "Sunshade Catacombs",
+    "category": [
+        "Dungeons - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sunshade Catacombs Chest 2 - Shadow Soulstone x1",
+    "region": "Sunshade Catacombs",
+    "category": [
+        "Dungeons - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sunshade Catacombs Chest 3 - Inspiriting Plum x1",
+    "region": "Sunshade Catacombs",
+    "category": [
+        "Dungeons - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sunshade Catacombs Chest 4 - Empowering Earring x1",
+    "region": "Sunshade Catacombs",
+    "category": [
+        "Dungeons - Sunlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sunshade Catacombs - Defeat Helgenish",
+    "region": "Sunshade Catacombs",
+    "category": [
+        "Dungeons - Sunlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Clearbrook Traverse Chest 1 - Olive of Life x1",
+    "region": "Riverlands Tier 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Clearbrook Traverse Chest 2 - $500",
+    "region": "Riverlands Tier 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Clearbrook Traverse Chest 3 - Healing Grape x1",
+    "region": "Riverlands Tier 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Clearbrook Traverse Chest 4 - Soothing Seed x1",
+    "region": "Riverlands Tier 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Twin Falls Chest 1 - Psychic Staff x1",
+    "region": "Twin Falls",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Twin Falls Chest 2 - Energizing Pomegranate (M) x1",
+    "region": "Twin Falls",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Twin Falls Chest 3 - Inspiriting Plum x1",
+    "region": "Twin Falls",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Twin Falls Chest 4 - Olive of Life (M) x1",
+    "region": "Twin Falls",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Twin Falls Chest 5 - Healing Grape (M) x1",
+    "region": "Twin Falls",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Twin Falls Chest 6 - Inspiriting Plum (M) x1",
+    "region": "Twin Falls",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Twin Falls Chest 7 - Refreshing Jam x1",
+    "region": "Twin Falls",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Twin Falls Chest 8 - $5000",
+    "region": "Twin Falls",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Twin Falls - Defeat Monarch",
+    "region": "Twin Falls",
+    "category": [
+        "Dungeons - Riverlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Clearbrook Chest 1 - Healing Grape x1",
+    "region": "Riverlands Tier 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Clearbrook Chest 2 - Iron Axe x1",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Clearbrook Chest 3 - Dubious Gold Ore x1",
+    "region": "Riverlands Tier 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "West Clearbrook Traverse Chest 1 - Healing Grape x1",
+    "region": "Riverlands Tier 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "West Clearbrook Traverse Chest 2 - Olive of Life x1",
+    "region": "Riverlands Tier 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "West Clearbrook Traverse Chest 3 - Odds and Ends x1",
+    "region": "Riverlands Tier 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Clearbrook Hidden Item 1 - Essence of Pomegranate x1",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Hidden Items - Clearbrook",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Clearbrook Hidden Item 2 - Silver Axe x1",
+    "region": "Clearbrook",
+    "category": [
+        "Hidden Items - Clearbrook",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Clearbrook Hidden Item 3 - Resistant Nut x1",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Hidden Items - Clearbrook",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Clearbrook Hidden Item 4 - Addlewort x1",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Hidden Items - Clearbrook",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Clearbrook Hidden Item 5 - Essence of Plum x1",
+    "region": "Clearbrook",
+    "category": [
+        "Hidden Items - Clearbrook",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "West Clearbrook Traverse Hidden Item 1 - Giant Egg x1",
+    "region": "Clearbrook",
+    "category": [
+        "Hidden Items - Clearbrook",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Therion the Thief|"
+  },
+  {
+    "name": "Path of Rhiyo Chest 1 - Healing Grape x1",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path of Rhiyo Chest 2 - Soothing Dust x1",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path of Rhiyo Chest 3 - Essence of Plum x1",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Rhiyo Chest 1 - Ruinous Seed x1",
+    "region": "Cave of Rhiyo",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Rhiyo Chest 2 - $500",
+    "region": "Cave of Rhiyo",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Rhiyo Chest 3 - Injurious Dust x1",
+    "region": "Cave of Rhiyo",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Rhiyo Chest 4 - Soothing Dust x1",
+    "region": "Cave of Rhiyo",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Rhiyo Chest 5 - Inspiriting Plum x1",
+    "region": "Cave of Rhiyo",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Rhiyo Chest 6 - Invigorating Plum x1",
+    "region": "Cave of Rhiyo",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Rhiyo Chest 7 - Bronze Vest x1",
+    "region": "Cave of Rhiyo",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Rhiyo Chest 8 - Purifying Dust x1",
+    "region": "Cave of Rhiyo",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cave of Rhiyo - Defeat Blotted Viper",
+    "region": "Cave of Rhiyo",
+    "category": [
+        "Dungeons - Riverlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Bolderfall Pass Chest 1 - Healing Grape x1",
+    "region": "Cliftlands Tier 1",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Bolderfall Pass Chest 2 - Inspiriting Plum (M) x1",
+    "region": "Cliftlands Tier 1",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Bolderfall Pass Chest 3 - Wind Soulstone x1",
+    "region": "Cliftlands Tier 1",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Bolderfall Pass Chest 4 - Herb of Awakening x1",
+    "region": "Cliftlands Tier 1",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Bolderfall Pass Chest 1 - Healing Grape x1",
+    "region": "Cliftlands Tier 1",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Bolderfall Pass Chest 2 - $1000",
+    "region": "Cliftlands Tier 1",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Bolderfall Pass Chest 3 - Olive of Life x1",
+    "region": "Cliftlands Tier 1",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bolderfall Chest 1 - $1000",
+    "region": "Bolderfall",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bolderfall Chest 2 - Stinging Dagger",
+    "region": "Bolderfall",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Ravus Manor Gate Chest 1 - Iron Helm",
+    "region": "Bolderfall",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Ravus Manor Gate Chest 2 - Broadsword",
+    "region": "Bolderfall",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bolderfall Hidden Item 1 - Falcon Dagger x1",
+    "region": "Bolderfall",
+    "category": [
+        "Hidden Items - Bolderfall",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "Ravus Manor Gate Hidden Item 1 - War Spear x1",
+    "region": "Bolderfall",
+    "category": [
+        "Hidden Items - Bolderfall",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Ravus Manor Gate Hidden Item 2 - Dirty Ball of Cloth x1",
+    "region": "Bolderfall",
+    "category": [
+        "Hidden Items - Bolderfall",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Ravus Manor Gate Hidden Item 3 - Weathered Boots x1",
+    "region": "Bolderfall",
+    "category": [
+        "Hidden Items - Bolderfall",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Ravus Manor Gate Hidden Item 4 - Elusive Shield x1",
+    "region": "Bolderfall",
+    "category": [
+        "Hidden Items - Bolderfall",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "S'warkii Hidden Item 1 - $1000",
+    "region": "S'warkii",
+    "category": [
+        "Hidden Items - S'warkii",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "S'warkii Hidden Item 2 - Ice Soulstone x1",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Hidden Items - S'warkii",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "S'warkii Hidden Item 3 - Olive of Life x1",
+    "region": "S'warkii",
+    "category": [
+        "Hidden Items - S'warkii",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Ravus Manor Chest 1 - Healing Grape x1",
+    "region": "Ravus Manor",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ravus Manor Chest 2 - Inspiriting Plum x1",
+    "region": "Ravus Manor",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ravus Manor Chest 3 - $800",
+    "region": "Ravus Manor",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ravus Manor Chest 4 - Wind Attire",
+    "region": "Ravus Manor",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ravus Manor Chest 5 - Healing Grape x1",
+    "region": "Ravus Manor",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ravus Manor Chest 6 - Invigorating Nut x1",
+    "region": "Ravus Manor",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ravus Manor Chest 7 - Bottle of Befuddling Dust x1",
+    "region": "Ravus Manor",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ravus Manor - Defeat Heathcote",
+    "region": "Ravus Manor",
+    "category": [
+        "Dungeons - Cliftlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Atlasdam Palace Hidden Item 1 - Healing Grape x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Palace Hidden Item 2 - Buckler x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Palace Hidden Item 3 - Olive of Life x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Palace Hidden Item 4 - Small Cup x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Palace Gate Hidden Item 1 - Odds and Ends x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Palace Gate Hidden Item 2 - Light Soulstone x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Palace Gate Hidden Item 3 - Inspiriting Plum (M) x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Palace Gate Hidden Item 4 - Large Feather x1",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Hidden Item 1 - Empty Coin Pouch x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Hidden Item 2 - Light Soulstone (M) x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Atlasdam Hidden Item 3 - Nourishing Nut x1",
+    "region": "Atlasdam",
+    "category": [
+        "Hidden Items - Atlasdam",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Rippletide Hidden Item 1 - Healing Grape (M) x1",
+    "region": "Rippletide",
+    "category": [
+        "Hidden Items - Rippletide",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Rippletide Hidden Item 2 - Articulate Stone x1",
+    "region": "Rippletide",
+    "category": [
+        "Hidden Items - Rippletide",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Rippletide Hidden Item 3 - Essence of Grape x1",
+    "region": "Rippletide",
+    "category": [
+        "Hidden Items - Rippletide",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Rippletide Hidden Item 4 - Thunder Soulstone (L) x1",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Hidden Items - Rippletide",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Rippletide Hidden Item 5 - Sleepweed x1",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Hidden Items - Rippletide",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Path to the Caves of Maiya Chest 1 - Healing Grape x1",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Caves of Maiya Chest 2 - Inspiriting Plum x1",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Caves of Maiya Chest 3 - Herb of Clarity x1",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Caves of Maiya Chest 4 - Healing Grape x1",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Maiya Chest 1 - $1000",
+    "region": "Caves of Maiya",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Maiya Chest 2 - Healing Grape x1",
+    "region": "Caves of Maiya",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Maiya Chest 3 - Inspiriting Plum x1",
+    "region": "Caves of Maiya",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Maiya Chest 4 - Thunder Soulstone x1",
+    "region": "Caves of Maiya",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Maiya Chest 5 - Refreshing Jam x1",
+    "region": "Caves of Maiya",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Maiya - Defeat Makk and Mikk",
+    "region": "Caves of Maiya",
+    "category": [
+        "Dungeons - Coastlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Subterranean Study Chest 1 - Healing Grape x1",
+    "region": "Subterranean Study",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Subterranean Study Chest 2 - Herb of Clamor x1",
+    "region": "Subterranean Study",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Subterranean Study Chest 3 - Inspiriting Plum x1",
+    "region": "Subterranean Study",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Subterranean Study Chest 4 - Wind Attire x1",
+    "region": "Subterranean Study",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Subterranean Study Chest 5 - Herb of Light x1",
+    "region": "Subterranean Study",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Subterranean Study Chest 6 - Old Coin x1",
+    "region": "Subterranean Study",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Subterranean Study Chest 7 - Light Soulstone x1",
+    "region": "Subterranean Study",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Subterranean Study - Defeat Russel",
+    "region": "Subterranean Study",
+    "category": [
+        "Dungeons - Flatlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North S'warkii Trail Chest 1 - Olive of Life x1",
+    "region": "Woodlands Tier 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North S'warkii Trail Chest 2 - Herb of Awakening x1",
+    "region": "Woodlands Tier 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North S'warkii Trail Chest 3 - Healing Grape x1",
+    "region": "Woodlands Tier 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North S'warkii Trail Chest 4 - Slippery Nut x1",
+    "region": "Woodlands Tier 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "West S'warkii Trail Chest 1 - Inspiriting Plum x1",
+    "region": "Woodlands Tier 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "West S'warkii Trail Chest 2 - Olive of Life x1",
+    "region": "Woodlands Tier 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "West S'warkii Trail Chest 3 - Herb of Light x1",
+    "region": "Woodlands Tier 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "S'warkii Chest 1 - Inspiriting Plum x1",
+    "region": "S'warkii",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "S'warkii Chest 2 - Inspiriting Plum x1",
+    "region": "S'warkii",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "S'warkii Chest 3 - Stone Bow x1",
+    "region": "S'warkii",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "Path to the Whisperwood Chest 1 - Shadow Soulstone x1",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Whisperwood Chest 2 - Healing Grape x1",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Whisperwood Chest 3 - $500",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Whisperwood Chest 4 - Inspiriting Plum x1",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whisperwood Chest 1 - Healing Grape x1",
+    "region": "The Whisperwood",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whisperwood Chest 2 - Shadow Soulstone x1",
+    "region": "The Whisperwood",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whisperwood Chest 3 - Inspiriting Plum x1",
+    "region": "The Whisperwood",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whisperwood Chest 4 - $600",
+    "region": "The Whisperwood",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whisperwood Chest 5 - Bronze Vest x1",
+    "region": "The Whisperwood",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whisperwood Chest 6 - Energizing Pomegranate x1",
+    "region": "The Whisperwood",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Whisperwood - Defeat Ghisarma",
+    "region": "The Whisperwood",
+    "category": [
+        "Dungeons - Woodlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path of Beasts Chest 1 - Inspiriting Plum x1",
+    "region": "Path of Beasts",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path of Beasts Chest 2 - $4000",
+    "region": "Path of Beasts",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path of Beasts Chest 3 - Tough Nut x1",
+    "region": "Path of Beasts",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path of Beasts Chest 4 - War Lance x1",
+    "region": "Path of Beasts",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Undertow Cove Chest 1 - Healing Grape Bunch x1",
+    "region": "Undertow Cove",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Undertow Cove Chest 2 - Inspiriting Plum (M) x1",
+    "region": "Undertow Cove",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Undertow Cove Chest 3 - $20 000",
+    "region": "Undertow Cove",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Undertow Cove Chest 4 - Inspiriting Plum Basket x1",
+    "region": "Undertow Cove",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Undertow Cove Chest 5 - Olive of Live (M) x1",
+    "region": "Undertow Cove",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Undertow Cove Chest 6 - Justice Breaker x1",
+    "region": "Undertow Cove",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Undertow Cove Chest 7 - Refreshing Jam x1",
+    "region": "Undertow Cove",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carrion Caves Chest 1 - Tough Nut x1",
+    "region": "Carrion Caves",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Carrion Caves Chest 2 - Inspiriting Plum (M) x1",
+    "region": "Carrion Caves",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carrion Caves Chest 3 - Olive of Life (M) x1",
+    "region": "Carrion Caves",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carrion Caves Chest 4 - $6000",
+    "region": "Carrion Caves",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carrion Caves Chest 5 - Enchanted Axe x1",
+    "region": "Carrion Caves",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Carrion Caves - Defeat Heavenwing",
+    "region": "Carrion Caves",
+    "category": [
+        "Dungeons - Cliftlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tutorial Side Story - Kit, the Traveler",
+    "region": "Tutorial Side Story",
+    "category": [
+        "Side Stories - Frostlands",
+        "Side Stories - Flatlands",
+        "Side Stories - Coastlands",
+        "Side Stories - Highlands",
+        "Side Stories - Sunlands",
+        "Side Stories - Riverlands",
+        "Side Stories - Cliftlands",
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Flamesgrace Side Story - Sir Miles, Servant of the Flame (I)",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Side Story - The Innocent Inmate",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire| OR |Purchase_Steal|"
+  },
+  {
+    "name": "Flamesgrace Side Story - The Slumbering Giant",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Hoarfrost Grotto| AND |Scrutinize_Inquire|"
+  },
+  {
+    "name": "Flamesgrace Side Story - Lianna and Eliza",
+    "region": "Ophilia - Chapter 4",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory",
+        "HighLevel"
+    ],
+    "requires": "|Wispermill| AND |H'aanit Chapter 4| AND |Forest of Purgation|"
+  },
+  {
+    "name": "Stillsnow Side Story - Sir Miles, Servant of the Flame (II)",
+    "region": "Stillsnow",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| AND |Sir Miles|"
+  },
+  {
+    "name": "Stillsnow Side Story - Let There be Warmth",
+    "region": "Stillsnow",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal|"
+  },
+  {
+    "name": "Stillsnow Side Story - Setting Out",
+    "region": "Stillsnow",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| OR (|Guide_Allure| AND |Quarrycrest|)"
+  },
+  {
+    "name": "Stillsnow Side Story - Arianna Again (I)",
+    "region": "Stillsnow",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure| AND |Stonegard| AND |H'aanit Chapter 4| AND |Primrose Chapter 4|"
+  },
+  {
+    "name": "Stillsnow Side Story - Arianna Again (II)",
+    "region": "Stillsnow",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure| AND |Stonegard| AND |H'aanit Chapter 4| AND |Primrose Chapter 4|"
+  },
+  {
+    "name": "Northreach Side Story - Sir Miles, Servant of the Flame (III)",
+    "region": "Northreach",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal| AND |Sir Miles 2|"
+  },
+  {
+    "name": "Northreach Side Story - Heirloom of a High House",
+    "region": "Northreach",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "(|Scrutinize_Inquire| AND |S'warkii|) OR (|Purchase_Steal| AND |Grandport|)"
+  },
+  {
+    "name": "Northreach Side Story - Here be Dragons",
+    "region": "Northreach",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Stillsnow| AND |Cobbleston| AND |Orewell|"
+  },
+  {
+    "name": "Northreach Side Story - Ogen's Epilogue",
+    "region": "Northreach",
+    "category": [
+        "Side Stories - Frostlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal| AND |Alfyn Chapter 4| AND |Victors Hollow|"
+  },
+  {
+    "name": "Atlasdam Side Story - Theracio's Tutelage (I)",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Atlasdam Side Story - Fit for a King",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal|"
+  },
+  {
+    "name": "Atlasdam Side Story - City of Gold",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "(|Scrutinize_Inquire| AND |Marsalim|) OR (|Guide_Allure| AND |Grandport|)"
+  },
+  {
+    "name": "Atlasdam Side Story - The Prodigious Painting",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "(|Guide_Allure| OR |Purchase_Steal|) AND |Saintsbridge|"
+  },
+  {
+    "name": "Noblecourt Side Story - Theracio's Tutelage (II)",
+    "region": "Noblecourt",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal| AND |Theracio|"
+  },
+  {
+    "name": "Noblecourt Side Story - In Search of Father (I)",
+    "region": "Noblecourt",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure|"
+  },
+  {
+    "name": "Noblecourt Side Story - The Price of Vengeance",
+    "region": "Noblecourt",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "|Cyrus| AND |Challenge_Provoke| AND |Goldshore| AND |Duskbarrow|"
+  },
+  {
+    "name": "Noblecourt Side Story - The Gravekeeper's Grief",
+    "region": "Noblecourt",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| OR |Purchase_Steal|"
+  },
+  {
+    "name": "Noblecourt Side Story - Mikk and Makk Make Good",
+    "region": "Noblecourt",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| AND |Therion Chapter 4| AND |Tressa Chapter 4|"
+  },
+  {
+    "name": "Wispermill Side Story - Theracio's Tutelage (III)",
+    "region": "Wispermill",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "|Theracio 2| AND |Guide_Allure| AND |Clearbrook|"
+  },
+  {
+    "name": "Wispermill Side Story - Tilting at Windmills",
+    "region": "Wispermill",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory"
+    ],
+    "requires": "(|Guide_Allure| AND |Ophilia Chapter 4|) OR (|Challenge_Provoke| AND |Primrose|)"
+  },
+  {
+    "name": "Wispermill Side Story - Scaredy Sheep",
+    "region": "Wispermill",
+    "category": [
+        "Side Stories - Flatlands",
+        "SideStory",
+        "HighLevel"
+    ],
+    "requires": "|Ophilia Chapter 4| AND |Scrutinize_Inquire| AND |Forest of Purgation|"
+  },
+  {
+    "name": "Rippletide Side Story - Le Mann, Explorer Extraordinaire (I)",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal|"
+  },
+  {
+    "name": "Rippletide Side Story - Love Unrequited",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| OR |Guide_Allure|"
+  },
+  {
+    "name": "Rippletide Side Story - Princess Mary, Redux",
+    "region": "Rippletide",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Cyrus Chapter 4| AND |Guide_Allure| AND |Undertow Cove|"
+  },
+  {
+    "name": "Goldshore Side Story - Le Mann, Explorer Extraordinaire (II)",
+    "region": "Goldshore",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Le Mann| AND |Guide_Allure|"
+  },
+  {
+    "name": "Goldshore Side Story - Left Behind",
+    "region": "Goldshore",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure| AND |Victors Hollow|"
+  },
+  {
+    "name": "Goldshore Side Story - The Merchant's Path",
+    "region": "Goldshore",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| OR |Scrutinize_Inquire|"
+  },
+  {
+    "name": "Goldshore Side Story - Scourge of the Seas",
+    "region": "Goldshore",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal| AND |Captains' Bain|"
+  },
+  {
+    "name": "Goldshore Side Story - In Search of Father (II)",
+    "region": "Goldshore",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Kit| AND |Purchase_Steal| AND |Grandport|"
+  },
+  {
+    "name": "Grandport Side Story - Le Mann, Explorer Extraordinaire (III)",
+    "region": "Grandport",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Le Mann 2| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "Grandport Side Story - An Exotic Aroma",
+    "region": "Grandport",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure| OR (|Purchase_Steal| AND |Sunshade|)"
+  },
+  {
+    "name": "Grandport Side Story - The Diarist's Desire",
+    "region": "Grandport",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Tressa Chapter 4| AND |Purchase_Steal| AND |Bolderfall| AND |Wellspring| AND |Duskbarrow|"
+  },
+  {
+    "name": "Grandport Side Story - Keeping Up with the Wyndhams",
+    "region": "Grandport",
+    "category": [
+        "Side Stories - Coastlands",
+        "SideStory"
+    ],
+    "requires": "|Tressa Chapter 4| AND |Therion Chapter 4| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "Cobbleston Side Story - Noelle, Seeker of Knowledge (I)",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure| AND |Untouched Sanctum|"
+  },
+  {
+    "name": "Cobbleston Side Story - Fertile Fields",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal|"
+  },
+  {
+    "name": "Cobbleston Side Story - Never Forget",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "(|Guide_Allure| OR |Guide_Allure|) AND |Noblecourt|"
+  },
+  {
+    "name": "Stonegard Side Story - Noelle, Seeker of Knowledge (II)",
+    "region": "Stonegard",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "|Noelle| AND |Scrutinize_Inquire|"
+  },
+  {
+    "name": "Stonegard Side Story - Up to No Good",
+    "region": "Stonegard",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "(|Guide_Allure| AND |Sunshade|) OR |Challenge_Provoke|"
+  },
+  {
+    "name": "Stonegard Side Story - Lost in Translation",
+    "region": "Stonegard",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "|Tressa| AND |Guide_Allure|"
+  },
+  {
+    "name": "Stonegard Side Story - A Royal Secret",
+    "region": "Stonegard",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "(|Scrutinize_Inquire| AND |Tomb of Kings|) OR |Guide_Allure|"
+  },
+  {
+    "name": "Stonegard Side Story - Russell's Repentance",
+    "region": "Stonegard",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "|Cyrus Chapter 4| AND |Scrutinize_Inquire| AND |Bolderfall| AND |Stillsnow| AND |Duskbarrow|"
+  },
+  {
+    "name": "Everhold Side Story - Noelle, Seeker of Knowledge (III)",
+    "region": "Everhold",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "|Noelle 2| AND |Scrutinize_Inquire|"
+  },
+  {
+    "name": "Everhold Side Story - Performance Art",
+    "region": "Everhold",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "(|Scrutinize_Inquire| AND |Atlasdam|) OR (|Purchase_Steal| AND |Grandport|)"
+  },
+  {
+    "name": "Everhold Side Story - Star of the Stage",
+    "region": "Everhold",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Everhold Side Story - At Journey's End",
+    "region": "Everhold",
+    "category": [
+        "Side Stories - Highlands",
+        "SideStory",
+        "NotSolo"
+    ],
+    "requires": "|Alphas| AND |S'warkii|"
+  },
+  {
+    "name": "Sunshade Side Story - Ria, Born to Roam (I)",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Sunshade Side Story - Her Time to Shine",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure| OR |Purchase_Steal|"
+  },
+  {
+    "name": "Sunshade Side Story - The Bouncer",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Sunshade Side Story - The Adventures of Ali",
+    "region": "Sunshade",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Tressa Chapter 4| AND |Guide_Allure| AND |Marsalim|"
+  },
+  {
+    "name": "Wellspring Side Story - Ria, Born to Roam (II)",
+    "region": "Wellspring",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Ria| AND |Purchase_Steal|"
+  },
+  {
+    "name": "Wellspring Side Story - In Search of Sweets",
+    "region": "Wellspring",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal| AND |Stillsnow|"
+  },
+  {
+    "name": "Wellspring Side Story - Shadow over the Sands",
+    "region": "Wellspring",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Quicksand Caves|"
+  },
+  {
+    "name": "Wellspring Side Story - Back with Bale",
+    "region": "Wellspring",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Ophilia Chapter 4| AND |Olberic Chapter 4| AND |Scrutinize_Inquire| AND |Goldshore|"
+  },
+  {
+    "name": "Marsalim Side Story - Ria, Born to Roam (III)",
+    "region": "Marsalim",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Ria 2| AND |Scrutinize_Inquire|"
+  },
+  {
+    "name": "Marsalim Side Story - In Search of the Unknown",
+    "region": "Marsalim",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| OR (|Purchase_Steal| AND |Grandport|)"
+  },
+  {
+    "name": "Marsalim Side Story - The Prisoner's Plea",
+    "region": "Marsalim",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Grandport|"
+  },
+  {
+    "name": "Marsalim Side Story - King Khalim's Conundrum",
+    "region": "Marsalim",
+    "category": [
+        "Side Stories - Sunlands",
+        "SideStory",
+        "NotSolo"
+    ],
+    "requires": "|@Chapter 4:8|"
+  },
+  {
+    "name": "Clearbrook Side Story - Meryl, Lost then Found (I)",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Clearbrook Side Story - For Want of Fish",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| OR |Purchase_Steal|"
+  },
+  {
+    "name": "Clearbrook Side Story - A Sweet Reunion",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure|"
+  },
+  {
+    "name": "Clearbrook Side Story - Zeph and Mercedes (I)",
+    "region": "Clearbrook",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal| AND |Cyrus Chapter 4| AND |Alfyn Chapter 4|"
+  },
+  {
+    "name": "Clearbrook Side Story - Zeph and Mercedes (II)",
+    "region": "Clearbrook",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal| AND |Cyrus Chapter 4| AND |Alfyn Chapter 4|"
+  },
+  {
+    "name": "Saintsbridge Side Story - Meryl, Lost then Found (II)",
+    "region": "Saintsbridge",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Meryl| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "Saintsbridge Side Story - Daughter of the Dark God (II)",
+    "region": "Saintsbridge",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|DarkDaughter| AND |Scrutinize_Inquire|"
+  },
+  {
+    "name": "Saintsbridge Side Story - The Worrywart",
+    "region": "Saintsbridge",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Saintsbridge Side Story - The Pilgrim's Plight",
+    "region": "Saintsbridge",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Saintsbridge Side Story - A Corpse with No Name",
+    "region": "Saintsbridge",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "(|Guide_Allure| AND |Victors Hollow|) OR (|Purchase_Steal| AND |Farshore|)"
+  },
+  {
+    "name": "Saintsbridge Side Story - Friends Again",
+    "region": "Saintsbridge",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Ophilia Chapter 4| AND |Purchase_Steal|"
+  },
+  {
+    "name": "Riverford Side Story - Meryl, Lost then Found (III)",
+    "region": "Riverford",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Meryl 2| AND |Guide_Allure|"
+  },
+  {
+    "name": "Riverford Side Story - The Adventuring Life",
+    "region": "Riverford",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "((|Guide_Allure| AND |Atlasdam|) OR |Challenge_Provoke|) AND |Orewell|"
+  },
+  {
+    "name": "Riverford Side Story - The Hidden Hoard",
+    "region": "Riverford",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Ophilia Chapter 4| AND ((|Scrutinize_Inquire| AND |Stonegard|) OR (|Purchase_Steal| AND |Atlasdam|))"
+  },
+  {
+    "name": "Riverford Side Story - Hello Again, Harald",
+    "region": "Riverford",
+    "category": [
+        "Side Stories - Riverlands",
+        "SideStory"
+    ],
+    "requires": "|Olberic Chapter 4| AND |Challenge_Provoke| AND |Purchase_Steal| AND |Wellspring|"
+  },
+  {
+    "name": "Bolderfall Side Story - Kaia, Mother of Dragons (I)",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Clearbrook|"
+  },
+  {
+    "name": "Bolderfall Side Story - Daughter of the Dark God (I)",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| AND |@Chapter 2|"
+  },
+  {
+    "name": "Bolderfall Side Story - Sparks of Revolution",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire| OR |Purchase_Steal|"
+  },
+  {
+    "name": "Bolderfall Side Story - The Bandit's Code",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "(|Guide_Allure| AND |Primrose|) OR (|Scrutinize_Inquire| AND |Victors Hollow|)"
+  },
+  {
+    "name": "Bolderfall Side Story - Heathcote's High Jinks",
+    "region": "Therion - Chapter 4",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure| AND |Wispermill|"
+  },
+  {
+    "name": "Quarrycrest Side Story - Kaia, Mother of Dragons (II)",
+    "region": "Quarrycrest",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "|Kaia| AND |Guide_Allure|"
+  },
+  {
+    "name": "Quarrycrest Side Story - The Weaver's Predicament",
+    "region": "Quarrycrest",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "(|Scrutinize_Inquire| AND |Noblecourt|) OR (|Purchase_Steal| AND |Flamesgrace|)"
+  },
+  {
+    "name": "Quarrycrest Side Story - A Miner Dilemma",
+    "region": "Quarrycrest",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "|Purchase_Steal| AND |Goldshore|"
+  },
+  {
+    "name": "Quarrycrest Side Story - Revello and Odette",
+    "region": "Quarrycrest",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Cyrus Chapter 4| AND |Primrose Chapter 4| AND |Noblecourt|"
+  },
+  {
+    "name": "Orewell Side Story - Kaia, Mother of Dragons (III)",
+    "region": "Orewell",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "|Kaia 2| AND |Challenge_Provoke| AND |Dragonsong Fane|"
+  },
+  {
+    "name": "Orewell Side Story - The Wayward Son",
+    "region": "Orewell",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure| AND |Marsalim|"
+  },
+  {
+    "name": "Orewell Side Story - On the Precipice",
+    "region": "Orewell",
+    "category": [
+        "Side Stories - Cliftlands",
+        "SideStory"
+    ],
+    "requires": "(|Scrutinize_Inquire| AND |Atlasdam|) OR |Challenge_Provoke|"
+  },
+  {
+    "name": "S'warkii Side Story - Ashlan the Beastmaster (I)",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "S'warkii Side Story - Rite of Passage",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire| OR |Purchase_Steal|"
+  },
+  {
+    "name": "S'warkii Side Story - Way through the Woods",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|Guide_Allure| AND |Bolderfall|"
+  },
+  {
+    "name": "West S'warkii Trail Side Story - Alphas and the Impresario",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory",
+        "NotSolo"
+    ],
+    "requires": "|Kit 2| AND |DarkDaughter 2| AND |@Chapter 4:8|"
+  },
+  {
+    "name": "Victors Hollow Side Story - Ashlan the Beastmaster (II)",
+    "region": "Victors Hollow",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|Ashlan| AND |Purchase_Steal|"
+  },
+  {
+    "name": "Victors Hollow Side Story - Arena Aspirations",
+    "region": "Victors Hollow",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire| OR |Challenge_Provoke|"
+  },
+  {
+    "name": "Victors Hollow Side Story - Into Thin Air",
+    "region": "Victors Hollow",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|Forest of No Return| AND |Guide_Allure|"
+  },
+  {
+    "name": "Victors Hollow Side Story - A Promising Venture",
+    "region": "Victors Hollow",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Victors Hollow Side Story - Again with Alaic",
+    "region": "Victors Hollow",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|H'aanit Chapter 4| AND |Guide_Allure| AND |Forest of No Return|"
+  },
+  {
+    "name": "Duskbarrow Side Story - Ashlan the Beastmaster (III)",
+    "region": "Duskbarrow",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|Ashlan 2| AND |Guide_Allure| AND |Moldering Ruins|"
+  },
+  {
+    "name": "Duskbarrow Side Story - Looting Grave Robber",
+    "region": "Duskbarrow",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "|Challenge_Provoke| AND |Moldering Ruins|"
+  },
+  {
+    "name": "Duskbarrow Side Story - A Cub with No Name",
+    "region": "Duskbarrow",
+    "category": [
+        "Side Stories - Woodlands",
+        "SideStory"
+    ],
+    "requires": "(|Guide_Allure| AND |Bolderfall|) OR (|Scrutinize_Inquire| AND |S'warkii|)"
+  },
+  {
+    "name": "Ophilia's Journal - 1-1 - The Kindling",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-2 - The Sacred Flame",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-3 - Arch Bishop Josef",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-4 - Guiding the Wayward",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-5 - A Mother Found",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-6 - Meeting Mattias",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-7 - The Ailing Archbishop",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-8 - Lianna's Lament",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-9 - Phili and Anna",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-10 - Ophilia's Melancholy",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-11 - A Place to Remember",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-12 - The Cave of Origin",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-13 - Guardian of the First Flame",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-14 - The Flamebearer",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-15 - Ophilia's Resolve",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-16 - The Archbishop's Words",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - 1-17 - Setting Out",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Chapter 1 Complete",
+    "region": "Ophilia - Chapter 1",
+    "category": [
+        "Story Progression - Ophilia",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Chapter 2 Complete",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Chapter 3 Complete",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Chapter 4 Complete",
+    "region": "Ophilia - Chapter 4",
+    "category": [
+        "Story Progression - Ophilia",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-1 - A Brief History of the Realm",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-2 - Summoned to the Archives",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-3 - Matters of the Heart",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-4 - The Missing Tome",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-5 - Headmaster Yvon",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-6 - Therese's Report",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-7 - A Mystery is Afoot",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-8 - Process of Deduction",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-9 - Russel the Scholar",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-10 - A Lesson Taught",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-11 - From the Far Reaches of Hell",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-12 - A Forced Sabbatical",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-13 - Theresse's Regret",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - 1-14 - Setting Out",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Chapter 1 Complete",
+    "region": "Cyrus - Chapter 1",
+    "category": [
+        "Story Progression - Cyrus",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Chapter 2 Complete",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Chapter 3 Complete",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Chapter 4 Complete",
+    "region": "Cyrus - Chapter 4",
+    "category": [
+        "Story Progression - Cyrus",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-1 - Undiscovered Treasures",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-2 - Morning Routine",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-3 - Smiley, Mannerly, and Early",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-4 - Stocking the Shop",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-5 - New Ship in the Harbor",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-6 - Pirates!",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-7 - A Merchant's Honor",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-8 - Sleepweed",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-9 - Spiked Wine",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-10 - Special Delivery",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-11 - Bottoms Up!",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-12 - The Pirates' Lair",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-13 - Mikk and Makk",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-14 - Leon Bastralle",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-15 - The Merchant Ship",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-16 - A Mysterious Book",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-17 - Within the Dusty Pages",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-18 - Tressa's Resolve",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - 1-19 - Beyond the Horizon",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Chapter 1 Complete",
+    "region": "Tressa - Chapter 1",
+    "category": [
+        "Story Progression - Tressa",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Chapter 2 Complete",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Chapter 3 Complete",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Chapter 4 Complete",
+    "region": "Tressa - Chapter 4",
+    "category": [
+        "Story Progression - Tressa",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-1 - The Battle of Hornburg",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-2 - A Friend's Betrayal",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-3 - Always the Same Dream",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-4 - Keeping the Peace",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-5 - The Headman's Behest",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-6 - Training Day (I)",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-7 - Training Day (II)",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-8 - Someone to Protect",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-9 - Under Attack",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-10 - Bandits Begone",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-11 - Philip's Abduction",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-12 - Den of Villainy",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-13 - Gaston's Challenge",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-14 - The Unbending Blade",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-15 - Adventure Calls",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - 1-16 - A Fond Farewell",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Chapter 1 Complete",
+    "region": "Olberic - Chapter 1",
+    "category": [
+        "Story Progression - Olberic",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Chapter 2 Complete",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Chapter 3 Complete",
+    "region": "Olberic - Chapter 3",
+    "category": [
+        "Story Progression - Olberic",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Chapter 4 Complete",
+    "region": "Olberic - Chapter 4",
+    "category": [
+        "Story Progression - Olberic",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-1 - The Mark of the Crow",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-2 - A Life of Indignity",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-3 - A Vow of Vengeance",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-4 - Behind the Scenes",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-5 - Father and Daughter",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-6 - A Harsh Lesson",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-7 - Yusufa's Kindness",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-8 - In Search of Custom",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-9 - Doing Her Job",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-10 - The Left-hand Man",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-11 - A Meeting in the Shadows",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-12 - Fight for Freedom",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-13 - Helgenish's Last Dance",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - 1-14 - Setting Out",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Chapter 1 Complete",
+    "region": "Primrose - Chapter 1",
+    "category": [
+        "Story Progression - Primrose",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Chapter 2 Complete",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Chapter 3 Complete",
+    "region": "Primrose - Chapter 3",
+    "category": [
+        "Story Progression - Primrose",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Chapter 4 Complete",
+    "region": "Primrose - Chapter 4",
+    "category": [
+        "Story Progression - Primrose",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-1 - Keep Your Coin",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-2 - Before Mother's Grave",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-3 - A Grave Wound",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-4 - In Search of Answers",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-5 - Diagnosing the Disease",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-6 - Leave It to Alfyn",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-7 - The Blotted Viper",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-8 - The Beast Falls",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-9 - Zeph's Anxiety",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-10 - Alfyn Returns",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-11 - A Restless Heart",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-12 - That Which Truly Matters",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-13 - The Traveling Apothecary",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-14 - Zeph's Encouragement",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - 1-15 - Setting Out",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Chapter 1 Complete",
+    "region": "Alfyn - Chapter 1",
+    "category": [
+        "Story Progression - Alfyn",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Chapter 2 Complete",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Chapter 3 Complete",
+    "region": "Alfyn - Chapter 3",
+    "category": [
+        "Story Progression - Alfyn",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Chapter 4 Complete",
+    "region": "Alfyn - Chapter 4",
+    "category": [
+        "Story Progression - Alfyn",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-1 - Sweet Memories",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-2 - Darius",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-3 - Rumors of Ravus Manor",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-4 - The Manor",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-5 - Letter of Introduction",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-6 - Among Thieves",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-7 - Partners in Crime",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-8 - Like a Thief",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-9 - The Direct Approach",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-10 - Heathcote",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-11 - The Fool's Bangle",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-12 - A Tale for the Tavern",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - 1-13 - It Takes a Thief",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Chapter 1 Complete",
+    "region": "Therion - Chapter 1",
+    "category": [
+        "Story Progression - Therion",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Chapter 2 Complete",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Chapter 3 Complete",
+    "region": "Therion - Chapter 3",
+    "category": [
+        "Story Progression - Therion",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Chapter 4 Complete",
+    "region": "Therion - Chapter 4",
+    "category": [
+        "Story Progression - Therion",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-1 - Master and Apprentice",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-2 - A Letter from Master",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-3 - At the Elder's Behest",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-4 - The Ways of the Hunt (I)",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-5 - The Ways of the Hunt (II)",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-6 - The Elder's Summons",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-7 - An Urgent Request",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-8 - Plagued by a Beast",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-9 - Wanton Slaugther",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-10 - A Fearsome Foe",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-11 - To Whence They Came",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-12 - A Death Knell",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-13 - Return of an Old Friend",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Journal - 1-14 - Setting Out",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Chapter 1 Complete",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Story Progression - H'aanit",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Chapter 2 Complete",
+    "region": "H'aanit - Chapter 2",
+    "category": [
+        "Story Progression - H'aanit",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Chapter 3 Complete",
+    "region": "H'aanit - Chapter 3",
+    "category": [
+        "Story Progression - H'aanit",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "H'aanit's Chapter 4 Complete",
+    "region": "H'aanit - Chapter 4",
+    "category": [
+        "Story Progression - H'aanit",
+        "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cleric Job Skill - Learn Heal Wounds",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Heal Wounds|"
+  },
+  {
+    "name": "Cleric Job Skill - Learn Holy Light",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Holy Light| AND |Light Element|"
+  },
+  {
+    "name": "Cleric Job Skill - Learn Sheltering Veil",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Sheltering Veil|"
+  },
+  {
+    "name": "Cleric Job Skill - Learn Luminescence",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Luminescence| AND |Light Element|"
+  },
+  {
+    "name": "Cleric Job Skill - Learn Heal More",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Heal More|"
+  },
+  {
+    "name": "Cleric Job Skill - Learn Reflective Veil",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Reflective Veil|"
+  },
+  {
+    "name": "Cleric Job Skill - Learn Revive",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Revive|"
+  },
+  {
+    "name": "Cleric Job Skill - Learn Aelfric's Auspices",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Aelfric's Auspices| AND |@Cleric Job Skills:7|"
+  },
+  {
+    "name": "Cleric Support Skill - Learn Persistence",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Persistence| AND |@Cleric Job Skills:4|"
+  },
+  {
+    "name": "Cleric Support Skill - Learn Inner Strength",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Inner Strength| AND |@Cleric Job Skills:5|"
+  },
+  {
+    "name": "Cleric Support Skill - Learn Evil Ward",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Evil Ward| AND |@Cleric Job Skills:6|"
+  },
+  {
+    "name": "Cleric Support Skill - Learn Saving Grace",
+    "region": "Cleric",
+    "category": [
+        "Job Progression - Cleric"
+    ],
+    "requires": "|Cleric - Saving Grace| AND |@Cleric Job Skills:7|"
+  },
+  {
+    "name": "Scholar Job Skill - Learn Fireball",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Fireball| AND |Fire Element|"
+  },
+  {
+    "name": "Scholar Job Skill - Learn Icewind",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Icewind| AND |Ice Element|"
+  },
+  {
+    "name": "Scholar Job Skill - Learn Lightning Bolt",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Lightning Bolt| AND |Lightning Element|"
+  },
+  {
+    "name": "Scholar Job Skill - Learn Analyze",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Analyze|"
+  },
+  {
+    "name": "Scholar Job Skill - Learn Fire Storm",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Fire Storm| AND |Fire Element|"
+  },
+  {
+    "name": "Scholar Job Skill - Learn Blizzard",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Blizzard| AND |Ice Element|"
+  },
+  {
+    "name": "Scholar Job Skill - Learn Lightning Blast",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Lightning Blast| AND |Lightning Element|"
+  },
+  {
+    "name": "Scholar Job Skill - Learn Alephan's Enlightenment",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Alephan's Enlightenment| AND |@Scholar Job Skills:7|"
+  },
+  {
+    "name": "Scholar Support Skill - Learn Evasive Maneuvers",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Evasive Maneuvers| AND |@Scholar Job Skills:4|"
+  },
+  {
+    "name": "Scholar Support Skill - Learn Elemental Augmentation",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Elemental Augmentation| AND |@Scholar Job Skills:5|"
+  },
+  {
+    "name": "Scholar Support Skill - Learn Percipience",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Percipience| AND |@Scholar Job Skills:6|"
+  },
+  {
+    "name": "Scholar Support Skill - Learn Vim and Vigor",
+    "region": "Scholar",
+    "category": [
+        "Job Progression - Scholar"
+    ],
+    "requires": "|Scholar - Vim and Vigor| AND |@Scholar Job Skills:7|"
+  },
+  {
+    "name": "Merchant Job Skill - Learn Collect",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Collect|"
+  },
+  {
+    "name": "Merchant Job Skill - Learn Tradewinds",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Tradewinds| AND |Wind Element|"
+  },
+  {
+    "name": "Merchant Job Skill - Learn Rest",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Rest|"
+  },
+  {
+    "name": "Merchant Job Skill - Learn Trade Tempest",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Trade Tempest| AND |Wind Element|"
+  },
+  {
+    "name": "Merchant Job Skill - Learn Donate BP",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Donate BP|"
+  },
+  {
+    "name": "Merchant Job Skill - Learn Sidestep",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Sidestep|"
+  },
+  {
+    "name": "Merchant Job Skill - Learn Hired Help",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Hired Help|"
+  },
+  {
+    "name": "Merchant Job Skill - Learn Bifelgan's Bounty",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Bifelgan's Bounty| AND |@Merchant Job Skills:7|"
+  },
+  {
+    "name": "Merchant Support Skill - Learn Endless Items",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Endless Items| AND |@Merchant Job Skills:4|"
+  },
+  {
+    "name": "Merchant Support Skill - Learn Grows on Trees",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Grows on Trees| AND |@Merchant Job Skills:5|"
+  },
+  {
+    "name": "Merchant Support Skill - Learn Hang Tough",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - Hang Tough| AND |@Merchant Job Skills:6|"
+  },
+  {
+    "name": "Merchant Support Skill - Learn SP Saver",
+    "region": "Merchant",
+    "category": [
+        "Job Progression - Merchant"
+    ],
+    "requires": "|Merchant - SP Saver| AND |@Merchant Job Skills:7|"
+  },
+  {
+    "name": "Warrior Job Skill - Learn Level Slash",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Level Slash| AND |Swords|"
+  },
+  {
+    "name": "Warrior Job Skill - Learn Abide",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Abide|"
+  },
+  {
+    "name": "Warrior Job Skill - Learn Spearhead",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Spearhead| AND |Polearms|"
+  },
+  {
+    "name": "Warrior Job Skill - Learn Incite",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Incite|"
+  },
+  {
+    "name": "Warrior Job Skill - Learn Cross Strike",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Cross Strike| AND |Swords|"
+  },
+  {
+    "name": "Warrior Job Skill - Learn Stout Wall",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Stout Wall|"
+  },
+  {
+    "name": "Warrior Job Skill - Learn Thousand Spears",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Thousand Spears| AND |Polearms|"
+  },
+  {
+    "name": "Warrior Job Skill - Learn Brand's Thunder",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Brand's Thunder| AND |@Warrior Job Skills:7|"
+  },
+  {
+    "name": "Warrior Support Skill - Learn Cover",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Cover| AND |@Warrior Job Skills:4|"
+  },
+  {
+    "name": "Warrior Support Skill - Learn Summon Strength",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Summon Strength| AND |@Warrior Job Skills:5|"
+  },
+  {
+    "name": "Warrior Support Skill - Learn Endure",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Endure| AND |@Warrior Job Skills:6|"
+  },
+  {
+    "name": "Warrior Support Skill - Learn Surpassing Power",
+    "region": "Warrior",
+    "category": [
+        "Job Progression - Warrior"
+    ],
+    "requires": "|Warrior - Surpassing Power| AND |@Warrior Job Skills:7|"
+  },
+  {
+    "name": "Dancer Job Skill - Learn Lion Dance",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Lion Dance|"
+  },
+  {
+    "name": "Dancer Job Skill - Learn Moonlight Waltz",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Moonlight Waltz| AND |Dark Element|"
+  },
+  {
+    "name": "Dancer Job Skill - Learn Peacock Strut",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Peacock Strut|"
+  },
+  {
+    "name": "Dancer Job Skill - Learn Mole Dance",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Mole Dance|"
+  },
+  {
+    "name": "Dancer Job Skill - Learn Night Ode",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Night Ode| AND |Dark Element|"
+  },
+  {
+    "name": "Dancer Job Skill - Learn Panther Dance",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Panther Dance|"
+  },
+  {
+    "name": "Dancer Job Skill - Learn Bewildering Grace",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Bewildering Grace|"
+  },
+  {
+    "name": "Dancer Job Skill - Learn Sealticge's Seduction",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Sealticge's Seduction| AND |@Dancer Job Skills:7|"
+  },
+  {
+    "name": "Dancer Support Skill - Learn The Show Goes On",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - The Show Goes On| AND |@Dancer Job Skills:4|"
+  },
+  {
+    "name": "Dancer Support Skill - Learn Eye for an Eye",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Eye for an Eye| AND |@Dancer Job Skills:5|"
+  },
+  {
+    "name": "Dancer Support Skill - Learn Second Wind",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Second Wind| AND |@Dancer Job Skills:6|"
+  },
+  {
+    "name": "Dancer Support Skill - Learn Encore",
+    "region": "Dancer",
+    "category": [
+        "Job Progression - Dancer"
+    ],
+    "requires": "|Dancer - Encore| AND |@Dancer Job Skills:7|"
+  },
+  {
+    "name": "Apothecary Job Skill - Learn First Aid",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - First Aid|"
+  },
+  {
+    "name": "Apothecary Job Skill - Learn Icicle",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Icicle| AND |Ice Element|"
+  },
+  {
+    "name": "Apothecary Job Skill - Learn Rehabilitate",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Rehabilitate|"
+  },
+  {
+    "name": "Apothecary Job Skill - Learn Amputation",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Amputation| AND |Axes|"
+  },
+  {
+    "name": "Apothecary Job Skill - Learn Empoison",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Empoison|"
+  },
+  {
+    "name": "Apothecary Job Skill - Learn Vivify",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Vivify|"
+  },
+  {
+    "name": "Apothecary Job Skill - Learn Last Stand",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Last Stand| AND |Axes|"
+  },
+  {
+    "name": "Apothecary Job Skill - Learn Dohter's Charity",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Dohter's Charity| AND |@Apothecary Job Skills:7|"
+  },
+  {
+    "name": "Apothecary Support Skill - Learn Inspiration",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Inspiration| AND |@Apothecary Job Skills:4|"
+  },
+  {
+    "name": "Apothecary Support Skill - Learn Hale and Hearty",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Hale and Hearty| AND |@Apothecary Job Skills:5|"
+  },
+  {
+    "name": "Apothecary Support Skill - Learn Resist Ailments",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Resist Ailments| AND |@Apothecary Job Skills:6|"
+  },
+  {
+    "name": "Apothecary Support Skill - Learn Heightened Healing",
+    "region": "Apothecary",
+    "category": [
+        "Job Progression - Apothecary"
+    ],
+    "requires": "|Apothecary - Heightened Healing| AND |@Apothecary Job Skills:7|"
+  },
+  {
+    "name": "Thief Job Skill - Learn Steal",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Steal|"
+  },
+  {
+    "name": "Thief Job Skill - Learn Wildfire",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Wildfire| AND |Fire Element|"
+  },
+  {
+    "name": "Thief Job Skill - Learn HP Thief",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - HP Thief| AND |Daggers|"
+  },
+  {
+    "name": "Thief Job Skill - Learn Shackle Foe",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Shackle Foe|"
+  },
+  {
+    "name": "Thief Job Skill - Learn Armor Corrosive",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Armor Corrosive|"
+  },
+  {
+    "name": "Thief Job Skill - Learn Steal SP",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Steal SP| AND |Daggers|"
+  },
+  {
+    "name": "Thief Job Skill - Learn Share SP",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Share SP|"
+  },
+  {
+    "name": "Thief Job Skill - Learn Aeber's Reckoning",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Aeber's Reckoning| AND |@Thief Job Skills:7|"
+  },
+  {
+    "name": "Thief Support Skill - Learn Incidental Attack",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Incidental Attack| AND |@Thief Job Skills:4|"
+  },
+  {
+    "name": "Thief Support Skill - Learn Fleetfoot",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Fleetfoot| AND |@Thief Job Skills:5|"
+  },
+  {
+    "name": "Thief Support Skill - Learn Snatch",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Snatch| AND |@Thief Job Skills:6|"
+  },
+  {
+    "name": "Thief Support Skill - Learn Insult to Injury",
+    "region": "Thief",
+    "category": [
+        "Job Progression - Thief"
+    ],
+    "requires": "|Thief - Insult to Injury| AND |@Thief Job Skills:7|"
+  },
+  {
+    "name": "Hunter Job Skill - Learn Rain of Arrows",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Rain of Arrows| AND |Bows|"
+  },
+  {
+    "name": "Hunter Job Skill - Learn True Strike",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - True Strike| AND |Bows|"
+  },
+  {
+    "name": "Hunter Job Skill - Learn Thunderbird",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Thunderbird| AND |Lightning Element|"
+  },
+  {
+    "name": "Hunter Job Skill - Learn Leghold Trap",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Leghold Trap|"
+  },
+  {
+    "name": "Hunter Job Skill - Learn Mercy Strike",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Mercy Strike| AND |Bows|"
+  },
+  {
+    "name": "Hunter Job Skill - Learn Arrowstorm",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Arrowstorm| AND |Bows|"
+  },
+  {
+    "name": "Hunter Job Skill - Learn Take Aim",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Take Aim|"
+  },
+  {
+    "name": "Hunter Job Skill - Learn Draefendi's Rage",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Draefendi's Rage| AND |@Hunter Job Skills:7|"
+  },
+  {
+    "name": "Hunter Support Skill - Learn Heighten Senses",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Heighten Senses| AND |@Hunter Job Skills:4|"
+  },
+  {
+    "name": "Hunter Support Skill - Learn Eagle Eye",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Eagle Eye| AND |@Hunter Job Skills:5|"
+  },
+  {
+    "name": "Hunter Support Skill - Learn Second Serving",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Second Serving| AND |@Hunter Job Skills:6|"
+  },
+  {
+    "name": "Hunter Support Skill - Learn Patience",
+    "region": "Hunter",
+    "category": [
+        "Job Progression - Hunter"
+    ],
+    "requires": "|Hunter - Patience| AND |@Hunter Job Skills:7|"
+  },
+  {
+    "name": "Starseer Job Skill - Learn Shooting Stars",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Shooting Stars| AND |Wind Element| AND |Light Element| AND |Dark Element|"
+  },
+  {
+    "name": "Starseer Job Skill - Learn BP Boost",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - BP Boost|"
+  },
+  {
+    "name": "Starseer Job Skill - Learn Divination",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Divination|"
+  },
+  {
+    "name": "Starseer Job Skill - Learn Starsong",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Starsong|"
+  },
+  {
+    "name": "Starseer Job Skill - Learn Celestial Intervention",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Celestial Intervention|"
+  },
+  {
+    "name": "Starseer Job Skill - Learn Ethereal Healing",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Ethereal Healing|"
+  },
+  {
+    "name": "Starseer Job Skill - Learn Moon's Reflection",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Moon's Reflection|"
+  },
+  {
+    "name": "Starseer Job Skill - Learn Steorra's Prophecy",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Steorra's Prophecy| AND |@Starseer Job Skills:7|"
+  },
+  {
+    "name": "Starseer Support Skill - Learn Hard Worker",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Hard Worker| AND |@Starseer Job Skills:4|"
+  },
+  {
+    "name": "Starseer Support Skill - Learn Boost-Start",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Boost-Start| AND |@Starseer Job Skills:5|"
+  },
+  {
+    "name": "Starseer Support Skill - Learn BP Eater",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - BP Eater| AND |@Starseer Job Skills:6|"
+  },
+  {
+    "name": "Starseer Support Skill - Learn Divine Aura",
+    "region": "Starseer",
+    "category": [
+        "Job Progression - Starseer",
+        "SuperBoss"
+    ],
+    "requires": "|Starseer - Divine Aura| AND |@Starseer Job Skills:7|"
+  },
+  {
+    "name": "Runelord Job Skill - Learn Fire Rune",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Fire Rune| AND |Fire Element|"
+  },
+  {
+    "name": "Runelord Job Skill - Learn Ice Rune",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Ice Rune| AND |Ice Element|"
+  },
+  {
+    "name": "Runelord Job Skill - Learn Thunder Rune",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Thunder Rune| AND |Lightning Element|"
+  },
+  {
+    "name": "Runelord Job Skill - Learn Wind Rune",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Wind Rune| AND |Wind Element|"
+  },
+  {
+    "name": "Runelord Job Skill - Learn Dark Rune",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Dark Rune| AND |Dark Element|"
+  },
+  {
+    "name": "Runelord Job Skill - Learn Light Rune",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Light Rune| AND |Light Element|"
+  },
+  {
+    "name": "Runelord Job Skill - Learn Transfer Rune",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Transfer Rune|"
+  },
+  {
+    "name": "Runelord Job Skill - Learn Balogar's Blade",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Balogar's Blade| AND |@Runelord Job Skills:7|"
+  },
+  {
+    "name": "Runelord Support Skill - Learn Stat Swap",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Stat Swap| AND |@Runelord Job Skills:4|"
+  },
+  {
+    "name": "Runelord Support Skill - Learn SP Recovery",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - SP Recovery| AND |@Runelord Job Skills:5|"
+  },
+  {
+    "name": "Runelord Support Skill - Learn Dauntless",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Dauntless| AND |@Runelord Job Skills:6|"
+  },
+  {
+    "name": "Runelord Support Skill - Learn Elemental Edge",
+    "region": "Runelord",
+    "category": [
+        "Job Progression - Runelord",
+        "SuperBoss"
+    ],
+    "requires": "|Runelord - Elemental Edge| AND |@Runelord Job Skills:7|"
+  },
+  {
+    "name": "Warmaster Job Skill - Learn Guardian Liondog",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Guardian Liondog| AND |Swords|"
+  },
+  {
+    "name": "Warmaster Job Skill - Learn Tiger Rage",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Tiger Rage| AND |Axes|"
+  },
+  {
+    "name": "Warmaster Job Skill - Learn Qilin's Horn",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Qilin's Horn| AND |Polearms|"
+  },
+  {
+    "name": "Warmaster Job Skill - Learn Yatagarasu",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Yatagarasu| AND |Daggers|"
+  },
+  {
+    "name": "Warmaster Job Skill - Learn Fox Spirit",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Fox Spirit| AND |Staves|"
+  },
+  {
+    "name": "Warmaster Job Skill - Learn Phoenix Storm",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Phoenix Storm| AND |Bows|"
+  },
+  {
+    "name": "Warmaster Job Skill - Learn Nightmare Chimera",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Nightmare Chimera| AND |@Weapon Types|"
+  },
+  {
+    "name": "Warmaster Job Skill - Learn Winnehild's Battle Cry",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Winnehild's Battle Cry| AND |@Warmaster Job Skills:7|"
+  },
+  {
+    "name": "Warmaster Support Skill - Learn Extra Experience",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Extra Experience| AND |@Warmaster Job Skills:4|"
+  },
+  {
+    "name": "Warmaster Support Skill - Learn Stalwart Defense",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Stalwart Defense| AND |@Warmaster Job Skills:5|"
+  },
+  {
+    "name": "Warmaster Support Skill - Learn Fortitude",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Fortitude| AND |@Warmaster Job Skills:6|"
+  },
+  {
+    "name": "Warmaster Support Skill - Learn Physical Prowess",
+    "region": "Warmaster",
+    "category": [
+        "Job Progression - Warmaster",
+        "SuperBoss"
+    ],
+    "requires": "|Warmaster - Physical Prowess| AND |@Warmaster Job Skills:7|"
+  },
+  {
+    "name": "Sorcerer Job Skill - Learn Ignis Ardere",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Ignis Ardere| AND |Fire Element|"
+  },
+  {
+    "name": "Sorcerer Job Skill - Learn Glacies Claudere",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Glacies Claudere| AND |Ice Element|"
+  },
+  {
+    "name": "Sorcerer Job Skill - Learn Tonitrus Canere",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Tonitrus Canere| AND |Lightning Element|"
+  },
+  {
+    "name": "Sorcerer Job Skill - Learn Ventus Saltare",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Ventus Saltare| AND |Wind Element|"
+  },
+  {
+    "name": "Sorcerer Job Skill - Learn Lux Congerere",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Lux Congerere| AND |Light Element|"
+  },
+  {
+    "name": "Sorcerer Job Skill - Learn Tenebrae Operire",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Tenebrae Operire| AND |Dark Element|"
+  },
+  {
+    "name": "Sorcerer Job Skill - Learn Elemental Break",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Elemental Break| AND |Staves|"
+  },
+  {
+    "name": "Sorcerer Job Skill - Learn Dreisang's Spell",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Dreisang's Spell| AND |@Sorcerer Job Skills:7|"
+  },
+  {
+    "name": "Sorcerer Support Skill - Learn Intimidation",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Intimidation| AND |@Sorcerer Job Skills:4|"
+  },
+  {
+    "name": "Sorcerer Support Skill - Learn Stronger Strikes",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Stronger Strikes| AND |@Sorcerer Job Skills:5|"
+  },
+  {
+    "name": "Sorcerer Support Skill - Learn Elemental Aid",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Elemental Aid| AND |@Sorcerer Job Skills:6|"
+  },
+  {
+    "name": "Sorcerer Support Skill - Learn Augmented Elements",
+    "region": "Sorcerer",
+    "category": [
+        "Job Progression - Sorcerer",
+        "SuperBoss"
+    ],
+    "requires": "|Sorcerer - Augmented Elements| AND |@Sorcerer Job Skills:7|"
+  },
+  {
+    "name": "Defeated Galdera",
+    "region": "Goal",
+    "category": [
+        "Victory Conditions",
+        "GalderaGoal",
+        "NotSolo"
+    ],
+    "requires": "|@Chapter 4:8|",
+    "place_item": [
+        "Proof of Victory - Defeated Galdera"
+    ]
+  },
+  {
+    "name": "Completed Ophilia's Chapter 4",
+    "region": "Ophilia - Chapter 4",
+    "category": [
+        "Victory Conditions",
+        "OphiliaGoal"
+    ],
+    "requires": "",
+    "place_item": [
+        "Proof of Victory - Ophilia"
+    ]
+  },
+  {
+    "name": "Completed Cyrus's Chapter 4",
+    "region": "Cyrus - Chapter 4",
+    "category": [
+        "Victory Conditions",
+        "CyrusGoal"
+    ],
+    "requires": "",
+    "place_item": [
+        "Proof of Victory - Cyrus"
+    ]
+  },
+  {
+    "name": "Completed Tressa's Chapter 4",
+    "region": "Tressa - Chapter 4",
+    "category": [
+        "Victory Conditions",
+        "TressaGoal"
+    ],
+    "requires": "",
+    "place_item": [
+        "Proof of Victory - Tressa"
+    ]
+  },
+  {
+    "name": "Completed Olberic's Chapter 4",
+    "region": "Olberic - Chapter 4",
+    "category": [
+        "Victory Conditions",
+        "OlbericGoal"
+    ],
+    "requires": "",
+    "place_item": [
+        "Proof of Victory - Olberic"
+    ]
+  },
+  {
+    "name": "Completed Primrose's Chapter 4",
+    "region": "Primrose - Chapter 4",
+    "category": [
+        "Victory Conditions",
+        "PrimroseGoal"
+    ],
+    "requires": "",
+    "place_item": [
+        "Proof of Victory - Primrose"
+    ]
+  },
+  {
+    "name": "Completed Alfyn's Chapter 4",
+    "region": "Alfyn - Chapter 4",
+    "category": [
+        "Victory Conditions",
+        "AlfynGoal"
+    ],
+    "requires": "",
+    "place_item": [
+        "Proof of Victory - Alfyn"
+    ]
+  },
+  {
+    "name": "Completed Therion's Chapter 4",
+    "region": "Therion - Chapter 4",
+    "category": [
+        "Victory Conditions",
+        "TherionGoal"
+    ],
+    "requires": "",
+    "place_item": [
+        "Proof of Victory - Therion"
+    ]
+  },
+  {
+    "name": "Completed H'aanit's Chapter 4",
+    "region": "H'aanit - Chapter 4",
+    "category": [
+        "Victory Conditions",
+        "H'aanitGoal"
+    ],
+    "requires": "",
+    "place_item": [
+        "Proof of Victory - H'aanit"
+    ]
+  },
+  {
+    "name": "Finished your Goal",
+    "victory": true,
+    "region": "Goal",
+    "category": [
+        "Goal"
+    ],
+    "requires": "|@Proof of Victory:all| OR ({YamlEnabled(solo_run)} AND |@Proof of Victory:1|)"
+  }
+]

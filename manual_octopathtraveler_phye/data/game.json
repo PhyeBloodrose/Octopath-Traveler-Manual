@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "OctopathTraveler",
+  "creator": "Phye",
+  "filler_item_name": "Travel Banter",
+  "starting_items": [],
+  "death_link": true
+}

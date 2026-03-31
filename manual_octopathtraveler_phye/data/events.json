@@ -1,0 +1,1326 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
+    "data": [
+        {
+            "name": "Ophilia",
+            "region": "Ophilia - Chapter 1",
+            "category": [
+                "Traveler"
+            ],
+            "requires": "|Cleric Job| AND |Staves|"
+        },
+        {
+            "name": "Ophilia Chapter 2",
+            "region": "Ophilia - Chapter 2",
+            "category": [
+                "Chapter 2"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Ophilia Chapter 3",
+            "region": "Ophilia - Chapter 3",
+            "category": [
+                "Chapter 3"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Ophilia Chapter 4",
+            "region": "Ophilia - Chapter 4",
+            "category": [
+                "Chapter 4"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Cyrus",
+            "region": "Cyrus - Chapter 1",
+            "category": [
+                "Traveler"
+            ],
+            "requires": "|Scholar Job| AND |Staves|"
+        },
+        {
+            "name": "Cyrus Chapter 2",
+            "region": "Cyrus - Chapter 2",
+            "category": [
+                "Chapter 2"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Cyrus Chapter 3",
+            "region": "Cyrus - Chapter 3",
+            "category": [
+                "Chapter 3"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Cyrus Chapter 4",
+            "region": "Cyrus - Chapter 4",
+            "category": [
+                "Chapter 4"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Tressa",
+            "region": "Tressa - Chapter 1",
+            "category": [
+                "Traveler"
+            ],
+            "requires": "|Merchant Job| AND (|Polearms| OR |Bows|)"
+        },
+        {
+            "name": "Tressa Chapter 2",
+            "region": "Tressa - Chapter 2",
+            "category": [
+                "Chapter 2"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Tressa Chapter 3",
+            "region": "Tressa - Chapter 3",
+            "category": [
+                "Chapter 3"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Tressa Chapter 4",
+            "region": "Tressa - Chapter 4",
+            "category": [
+                "Chapter 4"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Olberic",
+            "region": "Olberic - Chapter 1",
+            "category": [
+                "Traveler"
+            ],
+            "requires": "|Warrior Job| AND (|Swords| OR |Polearms|)"
+        },
+        {
+            "name": "Olberic Chapter 2",
+            "region": "Olberic - Chapter 2",
+            "category": [
+                "Chapter 2"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Olberic Chapter 3",
+            "region": "Olberic - Chapter 3",
+            "category": [
+                "Chapter 3"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Olberic Chapter 4",
+            "region": "Olberic - Chapter 4",
+            "category": [
+                "Chapter 4"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Primrose",
+            "region": "Primrose - Chapter 1",
+            "category": [
+                "Traveler"
+            ],
+            "requires": "|Dancer Job| AND |Daggers|"
+        },
+        {
+            "name": "Primrose Chapter 2",
+            "region": "Primrose - Chapter 2",
+            "category": [
+                "Chapter 2"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Primrose Chapter 3",
+            "region": "Primrose - Chapter 3",
+            "category": [
+                "Chapter 3"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Primrose Chapter 4",
+            "region": "Primrose - Chapter 4",
+            "category": [
+                "Chapter 4"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Alfyn",
+            "region": "Alfyn - Chapter 1",
+            "category": [
+                "Traveler"
+            ],
+            "requires": "|Apothecary Job| AND |Axes|"
+        },
+        {
+            "name": "Alfyn Chapter 2",
+            "region": "Alfyn - Chapter 2",
+            "category": [
+                "Chapter 2"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Alfyn Chapter 3",
+            "region": "Alfyn - Chapter 3",
+            "category": [
+                "Chapter 3"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Alfyn Chapter 4",
+            "region": "Alfyn - Chapter 4",
+            "category": [
+                "Chapter 4"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Therion the Thief",
+            "region": "Therion - Chapter 1",
+            "category": [
+                "Traveler"
+            ],
+            "requires": "|Thief Job| AND (|Swords| OR |Daggers|)"
+        },
+        {
+            "name": "Therion Chapter 2",
+            "region": "Therion - Chapter 2",
+            "category": [
+                "Chapter 2"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Therion Chapter 3",
+            "region": "Therion - Chapter 3",
+            "category": [
+                "Chapter 3"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Therion Chapter 4",
+            "region": "Therion - Chapter 4",
+            "category": [
+                "Chapter 4"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "H'aanit the Hunter",
+            "region": "H'aanit - Chapter 1",
+            "category": [
+                "Traveler"
+            ],
+            "requires": "|Hunter Job| AND (|Axes| OR |Bows|)"
+        },
+        {
+            "name": "H'aanit Chapter 2",
+            "region": "H'aanit - Chapter 2",
+            "category": [
+                "Chapter 2"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "H'aanit Chapter 3",
+            "region": "H'aanit - Chapter 3",
+            "category": [
+                "Chapter 3"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "H'aanit Chapter 4",
+            "region": "H'aanit - Chapter 4",
+            "category": [
+                "Chapter 4"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Purchase_Steal",
+            "category": [
+                "Path Actions"
+            ],
+            "requires": "|Therion the Thief| OR |Tressa|"
+        },
+        {
+            "name": "Scrutinize_Inquire",
+            "category": [
+                "Path Actions"
+            ],
+            "requires": "|Alfyn| OR |Cyrus|"
+        },
+        {
+            "name": "Challenge_Provoke",
+            "category": [
+                "Path Actions"
+            ],
+            "requires": "|Olberic| OR |H'aanit the Hunter|"
+        },
+        {
+            "name": "Guide_Allure",
+            "category": [
+                "Path Actions"
+            ],
+            "requires": "|Ophilia| OR |Primrose|"
+        },
+        {
+            "name": "Heal Wounds",
+            "copy_location": "Cleric Job Skill - Learn Heal Wounds",
+            "category": [
+                "Cleric Job Skills"
+            ]
+        },
+        {
+            "name": "Holy Light",
+            "copy_location": "Cleric Job Skill - Learn Holy Light",
+            "category": [
+                "Cleric Job Skills"
+            ]
+        },
+        {
+            "name": "Sheltering Veil",
+            "copy_location": "Cleric Job Skill - Learn Sheltering Veil",
+            "category": [
+                "Cleric Job Skills"
+            ]
+        },
+        {
+            "name": "Luminescence",
+            "copy_location": "Cleric Job Skill - Learn Luminescence",
+            "category": [
+                "Cleric Job Skills"
+            ]
+        },
+        {
+            "name": "Heal More",
+            "copy_location": "Cleric Job Skill - Learn Heal More",
+            "category": [
+                "Cleric Job Skills"
+            ]
+        },
+        {
+            "name": "Reflective Veil",
+            "copy_location": "Cleric Job Skill - Learn Reflective Veil",
+            "category": [
+                "Cleric Job Skills"
+            ]
+        },
+        {
+            "name": "Revive",
+            "copy_location": "Cleric Job Skill - Learn Revive",
+            "category": [
+                "Cleric Job Skills"
+            ]
+        },
+        {
+            "name": "Fireball",
+            "copy_location": "Scholar Job Skill - Learn Fireball",
+            "category": [
+                "Scholar Job Skills"
+            ]
+        },
+        {
+            "name": "Icewind",
+            "copy_location": "Scholar Job Skill - Learn Icewind",
+            "category": [
+                "Scholar Job Skills"
+            ]
+        },
+        {
+            "name": "Lightning Bolt",
+            "copy_location": "Scholar Job Skill - Learn Lightning Bolt",
+            "category": [
+                "Scholar Job Skills"
+            ]
+        },
+        {
+            "name": "Analyze",
+            "copy_location": "Scholar Job Skill - Learn Analyze",
+            "category": [
+                "Scholar Job Skills"
+            ]
+        },
+        {
+            "name": "Fire Storm",
+            "copy_location": "Scholar Job Skill - Learn Fire Storm",
+            "category": [
+                "Scholar Job Skills"
+            ]
+        },
+        {
+            "name": "Blizzard",
+            "copy_location": "Scholar Job Skill - Learn Blizzard",
+            "category": [
+                "Scholar Job Skills"
+            ]
+        },
+        {
+            "name": "Lightning Blast",
+            "copy_location": "Scholar Job Skill - Learn Lightning Blast",
+            "category": [
+                "Scholar Job Skills"
+            ]
+        },
+        {
+            "name": "Collect",
+            "copy_location": "Merchant Job Skill - Learn Collect",
+            "category": [
+                "Merchant Job Skills"
+            ]
+        },
+        {
+            "name": "Tradewinds",
+            "copy_location": "Merchant Job Skill - Learn Tradewinds",
+            "category": [
+                "Merchant Job Skills"
+            ]
+        },
+        {
+            "name": "Rest",
+            "copy_location": "Merchant Job Skill - Learn Rest",
+            "category": [
+                "Merchant Job Skills"
+            ]
+        },
+        {
+            "name": "Trade Tempest",
+            "copy_location": "Merchant Job Skill - Learn Trade Tempest",
+            "category": [
+                "Merchant Job Skills"
+            ]
+        },
+        {
+            "name": "Donate BP",
+            "copy_location": "Merchant Job Skill - Learn Donate BP",
+            "category": [
+                "Merchant Job Skills"
+            ]
+        },
+        {
+            "name": "Sidestep",
+            "copy_location": "Merchant Job Skill - Learn Sidestep",
+            "category": [
+                "Merchant Job Skills"
+            ]
+        },
+        {
+            "name": "Hired Help",
+            "copy_location": "Merchant Job Skill - Learn Hired Help",
+            "category": [
+                "Merchant Job Skills"
+            ]
+        },
+        {
+            "name": "Level Slash",
+            "copy_location": "Warrior Job Skill - Learn Level Slash",
+            "category": [
+                "Warrior Job Skills"
+            ]
+        },
+        {
+            "name": "Abide",
+            "copy_location": "Warrior Job Skill - Learn Abide",
+            "category": [
+                "Warrior Job Skills"
+            ]
+        },
+        {
+            "name": "Spearhead",
+            "copy_location": "Warrior Job Skill - Learn Spearhead",
+            "category": [
+                "Warrior Job Skills"
+            ]
+        },
+        {
+            "name": "Incite",
+            "copy_location": "Warrior Job Skill - Learn Incite",
+            "category": [
+                "Warrior Job Skills"
+            ]
+        },
+        {
+            "name": "Cross Strike",
+            "copy_location": "Warrior Job Skill - Learn Cross Strike",
+            "category": [
+                "Warrior Job Skills"
+            ]
+        },
+        {
+            "name": "Stout Wall",
+            "copy_location": "Warrior Job Skill - Learn Stout Wall",
+            "category": [
+                "Warrior Job Skills"
+            ]
+        },
+        {
+            "name": "Thousand Spears",
+            "copy_location": "Warrior Job Skill - Learn Thousand Spears",
+            "category": [
+                "Warrior Job Skills"
+            ]
+        },
+        {
+            "name": "Lion Dance",
+            "copy_location": "Dancer Job Skill - Learn Lion Dance",
+            "category": [
+                "Dancer Job Skills"
+            ]
+        },
+        {
+            "name": "Moonlight Waltz",
+            "copy_location": "Dancer Job Skill - Learn Moonlight Waltz",
+            "category": [
+                "Dancer Job Skills"
+            ]
+        },
+        {
+            "name": "Peacock Strut",
+            "copy_location": "Dancer Job Skill - Learn Peacock Strut",
+            "category": [
+                "Dancer Job Skills"
+            ]
+        },
+        {
+            "name": "Mole Dance",
+            "copy_location": "Dancer Job Skill - Learn Mole Dance",
+            "category": [
+                "Dancer Job Skills"
+            ]
+        },
+        {
+            "name": "Night Ode",
+            "copy_location": "Dancer Job Skill - Learn Night Ode",
+            "category": [
+                "Dancer Job Skills"
+            ]
+        },
+        {
+            "name": "Panther Dance",
+            "copy_location": "Dancer Job Skill - Learn Panther Dance",
+            "category": [
+                "Dancer Job Skills"
+            ]
+        },
+        {
+            "name": "Bewildering Grace",
+            "copy_location": "Dancer Job Skill - Learn Bewildering Grace",
+            "category": [
+                "Dancer Job Skills"
+            ]
+        },
+        {
+            "name": "First Aid",
+            "copy_location": "Apothecary Job Skill - Learn First Aid",
+            "category": [
+                "Apothecary Job Skills"
+            ]
+        },
+        {
+            "name": "Icicle",
+            "copy_location": "Apothecary Job Skill - Learn Icicle",
+            "category": [
+                "Apothecary Job Skills"
+            ]
+        },
+        {
+            "name": "Rehabilitate",
+            "copy_location": "Apothecary Job Skill - Learn Rehabilitate",
+            "category": [
+                "Apothecary Job Skills"
+            ]
+        },
+        {
+            "name": "Amputation",
+            "copy_location": "Apothecary Job Skill - Learn Amputation",
+            "category": [
+                "Apothecary Job Skills"
+            ]
+        },
+        {
+            "name": "Empoison",
+            "copy_location": "Apothecary Job Skill - Learn Empoison",
+            "category": [
+                "Apothecary Job Skills"
+            ]
+        },
+        {
+            "name": "Vivify",
+            "copy_location": "Apothecary Job Skill - Learn Vivify",
+            "category": [
+                "Apothecary Job Skills"
+            ]
+        },
+        {
+            "name": "Last Stand",
+            "copy_location": "Apothecary Job Skill - Learn Last Stand",
+            "category": [
+                "Apothecary Job Skills"
+            ]
+        },
+        {
+            "name": "Steal",
+            "copy_location": "Thief Job Skill - Learn Steal",
+            "category": [
+                "Thief Job Skills"
+            ]
+        },
+        {
+            "name": "Wildfire",
+            "copy_location": "Thief Job Skill - Learn Wildfire",
+            "category": [
+                "Thief Job Skills"
+            ]
+        },
+        {
+            "name": "HP Thief",
+            "copy_location": "Thief Job Skill - Learn HP Thief",
+            "category": [
+                "Thief Job Skills"
+            ]
+        },
+        {
+            "name": "Shackle Foe",
+            "copy_location": "Thief Job Skill - Learn Shackle Foe",
+            "category": [
+                "Thief Job Skills"
+            ]
+        },
+        {
+            "name": "Armor Corrosive",
+            "copy_location": "Thief Job Skill - Learn Armor Corrosive",
+            "category": [
+                "Thief Job Skills"
+            ]
+        },
+        {
+            "name": "Steal SP",
+            "copy_location": "Thief Job Skill - Learn Steal SP",
+            "category": [
+                "Thief Job Skills"
+            ]
+        },
+        {
+            "name": "Share SP",
+            "copy_location": "Thief Job Skill - Learn Share SP",
+            "category": [
+                "Thief Job Skills"
+            ]
+        },
+        {
+            "name": "Rain of Arrows",
+            "copy_location": "Hunter Job Skill - Learn Rain of Arrows",
+            "category": [
+                "Hunter Job Skills"
+            ]
+        },
+        {
+            "name": "True Strike",
+            "copy_location": "Hunter Job Skill - Learn True Strike",
+            "category": [
+                "Hunter Job Skills"
+            ]
+        },
+        {
+            "name": "Thunderbird",
+            "copy_location": "Hunter Job Skill - Learn Thunderbird",
+            "category": [
+                "Hunter Job Skills"
+            ]
+        },
+        {
+            "name": "Leghold Trap",
+            "copy_location": "Hunter Job Skill - Learn Leghold Trap",
+            "category": [
+                "Hunter Job Skills"
+            ]
+        },
+        {
+            "name": "Mercy Strike",
+            "copy_location": "Hunter Job Skill - Learn Mercy Strike",
+            "category": [
+                "Hunter Job Skills"
+            ]
+        },
+        {
+            "name": "Arrowstorm",
+            "copy_location": "Hunter Job Skill - Learn Arrowstorm",
+            "category": [
+                "Hunter Job Skills"
+            ]
+        },
+        {
+            "name": "Take Aim",
+            "copy_location": "Hunter Job Skill - Learn Take Aim",
+            "category": [
+                "Hunter Job Skills"
+            ]
+        },
+        {
+            "name": "Shooting Stars",
+            "copy_location": "Starseer Job Skill - Learn Shooting Stars",
+            "category": [
+                "Starseer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "BP Boost",
+            "copy_location": "Starseer Job Skill - Learn BP Boost",
+            "category": [
+                "Starseer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Divination",
+            "copy_location": "Starseer Job Skill - Learn Divination",
+            "category": [
+                "Starseer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Starsong",
+            "copy_location": "Starseer Job Skill - Learn Starsong",
+            "category": [
+                "Starseer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Celestial Intervention",
+            "copy_location": "Starseer Job Skill - Learn Celestial Intervention",
+            "category": [
+                "Starseer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Ethereal Healing",
+            "copy_location": "Starseer Job Skill - Learn Ethereal Healing",
+            "category": [
+                "Starseer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Moon's Reflection",
+            "copy_location": "Starseer Job Skill - Learn Moon's Reflection",
+            "category": [
+                "Starseer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Fire Rune",
+            "copy_location": "Runelord Job Skill - Learn Fire Rune",
+            "category": [
+                "Runelord Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Ice Rune",
+            "copy_location": "Runelord Job Skill - Learn Ice Rune",
+            "category": [
+                "Runelord Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Thunder Rune",
+            "copy_location": "Runelord Job Skill - Learn Thunder Rune",
+            "category": [
+                "Runelord Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Wind Rune",
+            "copy_location": "Runelord Job Skill - Learn Wind Rune",
+            "category": [
+                "Runelord Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Dark Rune",
+            "copy_location": "Runelord Job Skill - Learn Dark Rune",
+            "category": [
+                "Runelord Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Light Rune",
+            "copy_location": "Runelord Job Skill - Learn Light Rune",
+            "category": [
+                "Runelord Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Transfer Rune",
+            "copy_location": "Runelord Job Skill - Learn Transfer Rune",
+            "category": [
+                "Runelord Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Guardian Liondog",
+            "copy_location": "Warmaster Job Skill - Learn Guardian Liondog",
+            "category": [
+                "Warmaster Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Tiger Rage",
+            "copy_location": "Warmaster Job Skill - Learn Tiger Rage",
+            "category": [
+                "Warmaster Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Qilin's Horn",
+            "copy_location": "Warmaster Job Skill - Learn Qilin's Horn",
+            "category": [
+                "Warmaster Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Yatagarasu",
+            "copy_location": "Warmaster Job Skill - Learn Yatagarasu",
+            "category": [
+                "Warmaster Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Fox Spirit",
+            "copy_location": "Warmaster Job Skill - Learn Fox Spirit",
+            "category": [
+                "Warmaster Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Phoenix Storm",
+            "copy_location": "Warmaster Job Skill - Learn Phoenix Storm",
+            "category": [
+                "Warmaster Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Nightmare Chimera",
+            "copy_location": "Warmaster Job Skill - Learn Nightmare Chimera",
+            "category": [
+                "Warmaster Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Ignis Ardere",
+            "copy_location": "Sorcerer Job Skill - Learn Ignis Ardere",
+            "category": [
+                "Sorcerer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Glacies Claudere",
+            "copy_location": "Sorcerer Job Skill - Learn Glacies Claudere",
+            "category": [
+                "Sorcerer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Tonitrus Canere",
+            "copy_location": "Sorcerer Job Skill - Learn Tonitrus Canere",
+            "category": [
+                "Sorcerer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Ventus Saltare",
+            "copy_location": "Sorcerer Job Skill - Learn Ventus Saltare",
+            "category": [
+                "Sorcerer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Lux Congerere",
+            "copy_location": "Sorcerer Job Skill - Learn Lux Congerere",
+            "category": [
+                "Sorcerer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Tenebrae Operire",
+            "copy_location": "Sorcerer Job Skill - Learn Tenebrae Operire",
+            "category": [
+                "Sorcerer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Elemental Break",
+            "copy_location": "Sorcerer Job Skill - Learn Elemental Break",
+            "category": [
+                "Sorcerer Job Skills",
+                "SuperBoss"
+            ]
+        },
+        {
+            "name": "Flamesgrace",
+            "region": "Flamesgrace",
+            "category": [
+                "Frostlands Locations"
+            ]
+        },
+        {
+            "name": "Stillsnow",
+            "region": "Stillsnow",
+            "category": [
+                "Frostlands Locations"
+            ]
+        },
+        {
+            "name": "Northreach",
+            "region": "Northreach",
+            "category": [
+                "Frostlands Locations"
+            ]
+        },
+        {
+            "name": "Atlasdam",
+            "region": "Atlasdam",
+            "category": [
+                "Flatlands Locations"
+            ]
+        },
+        {
+            "name": "Noblecourt",
+            "region": "Noblecourt",
+            "category": [
+                "Flatlands Locations"
+            ]
+        },
+        {
+            "name": "Wispermill",
+            "region": "Wispermill",
+            "category": [
+                "Flatlands Locations"
+            ]
+        },
+        {
+            "name": "Rippletide",
+            "region": "Rippletide",
+            "category": [
+                "Coastlands Locations"
+            ]
+        },
+        {
+            "name": "Goldshore",
+            "region": "Goldshore",
+            "category": [
+                "Coastlands Locations"
+            ]
+        },
+        {
+            "name": "Grandport",
+            "region": "Grandport",
+            "category": [
+                "Coastlands Locations"
+            ]
+        },
+        {
+            "name": "Cobbleston",
+            "region": "Cobbleston",
+            "category": [
+                "Highlands Locations"
+            ]
+        },
+        {
+            "name": "Stonegard",
+            "region": "Stonegard",
+            "category": [
+                "Highlands Locations"
+            ]
+        },
+        {
+            "name": "Everhold",
+            "region": "Everhold",
+            "category": [
+                "Highlands Locations"
+            ]
+        },
+        {
+            "name": "Sunshade",
+            "region": "Sunshade",
+            "category": [
+                "Sunlands Locations"
+            ]
+        },
+        {
+            "name": "Wellspring",
+            "region": "Wellspring",
+            "category": [
+                "Sunlands Locations"
+            ]
+        },
+        {
+            "name": "Marsalim",
+            "region": "Marsalim",
+            "category": [
+                "Sunlands Locations"
+            ]
+        },
+        {
+            "name": "Clearbrook",
+            "region": "Clearbrook",
+            "category": [
+                "Riverlands Locations"
+            ]
+        },
+        {
+            "name": "Saintsbridge",
+            "region": "Saintsbridge",
+            "category": [
+                "Riverlands Locations"
+            ]
+        },
+        {
+            "name": "Riverford",
+            "region": "Riverford",
+            "category": [
+                "Riverlands Locations"
+            ]
+        },
+        {
+            "name": "Bolderfall",
+            "region": "Bolderfall",
+            "category": [
+                "Cliftlands Locations"
+            ]
+        },
+        {
+            "name": "Quarrycrest",
+            "region": "Quarrycrest",
+            "category": [
+                "Cliftlands Locations"
+            ]
+        },
+        {
+            "name": "Orewell",
+            "region": "Orewell",
+            "category": [
+                "Cliftlands Locations"
+            ]
+        },
+        {
+            "name": "S'warkii",
+            "region": "S'warkii",
+            "category": [
+                "Woodlands Locations"
+            ]
+        },
+        {
+            "name": "Victors Hollow",
+            "region": "Victors Hollow",
+            "category": [
+                "Woodlands Locations"
+            ]
+        },
+        {
+            "name": "Duskbarrow",
+            "region": "Duskbarrow",
+            "category": [
+                "Woodlands Locations"
+            ]
+        },
+        {
+            "name": "Undertow Cove",
+            "region": "Undertow Cove",
+            "category": [
+                "Coastlands Locations"
+            ]
+        },
+        {
+            "name": "Untouched Sanctum",
+            "region": "Untouched Sanctum",
+            "category": [
+                "Highlands Locations"
+            ]
+        },
+        {
+            "name": "Hoarfrost Grotto",
+            "region": "Hoarfrost Grotto",
+            "category": [
+                "Snowlands Locations"
+            ]
+        },
+        {
+            "name": "Forest of Purgation",
+            "region": "Forest of Purgation",
+            "category": [
+                "Flatlands Locations"
+            ]
+        },
+        {
+            "name": "Captains' Bain",
+            "region": "Captains' Bain",
+            "category": [
+                "Coastlands Locations"
+            ]
+        },
+        {
+            "name": "Tomb of Kings",
+            "region": "Tomb of Kings",
+            "category": [
+                "Highlands Locations"
+            ]
+        },
+        {
+            "name": "Quicksand Caves",
+            "region": "Quicksand Caves",
+            "category": [
+                "Sunlands Locations"
+            ]
+        },
+        {
+            "name": "Farshore",
+            "region": "Farshore",
+            "category": [
+                "Riverlands Locations"
+            ]
+        },
+        {
+            "name": "Dragonsong Fane",
+            "region": "Dragonsong Fane",
+            "category": [
+                "Cliftlands Locations"
+            ]
+        },
+        {
+            "name": "Forest of No Return",
+            "region": "Forest of No Return",
+            "category": [
+                "Woodlands Locations"
+            ]
+        },
+        {
+            "name": "Moldering Ruins",
+            "region": "Moldering Ruins",
+            "category": [
+                "Woodlands Locations"
+            ]
+        },
+        {
+            "name": "Sir Miles",
+            "copy_location": "Flamesgrace Side Story - Sir Miles, Servant of the Flame (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Sir Miles 2",
+            "copy_location": "Stillsnow Side Story - Sir Miles, Servant of the Flame (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Theracio",
+            "copy_location": "Atlasdam Side Story - Theracio's Tutelage (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Theracio 2",
+            "copy_location": "Noblecourt Side Story - Theracio's Tutelage (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Le Mann",
+            "copy_location": "Rippletide Side Story - Le Mann, Explorer Extraordinaire (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Le Mann 2",
+            "copy_location": "Goldshore Side Story - Le Mann, Explorer Extraordinaire (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Noelle",
+            "copy_location": "Cobbleston Side Story - Noelle, Seeker of Knowledge (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Noelle 2",
+            "copy_location": "Stonegard Side Story - Noelle, Seeker of Knowledge (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Ria",
+            "copy_location": "Sunshade Side Story - Ria, Born to Roam (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Ria 2",
+            "copy_location": "Wellspring Side Story - Ria, Born to Roam (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Meryl",
+            "copy_location": "Clearbrook Side Story - Meryl, Lost then Found (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Meryl 2",
+            "copy_location": "Saintsbridge Side Story - Meryl, Lost then Found (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Kaia",
+            "copy_location": "Bolderfall Side Story - Kaia, Mother of Dragons (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Kaia 2",
+            "copy_location": "Quarrycrest Side Story - Kaia, Mother of Dragons (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Ashlan",
+            "copy_location": "S'warkii Side Story - Ashlan the Beastmaster (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Ashlan 2",
+            "copy_location": "Victors Hollow Side Story - Ashlan the Beastmaster (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Kit",
+            "copy_location": "Noblecourt Side Story - In Search of Father (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Kit 2",
+            "copy_location": "Goldshore Side Story - In Search of Father (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "DarkDaughter",
+            "copy_location": "Bolderfall Side Story - Daughter of the Dark God (I)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "DarkDaughter 2",
+            "copy_location": "Saintsbridge Side Story - Daughter of the Dark God (II)",
+            "category": [
+                "Side Story Logic"
+            ]
+        },
+        {
+            "name": "Alphas",
+            "copy_location": "West S'warkii Trail Side Story - Alphas and the Impresario",
+            "category": [
+                "Side Story Logic",
+                "NotSolo"
+            ]
+        },
+        {
+            "name": "Chapter 1",
+            "category": [
+                "Chapter Logic"
+            ],
+            "requires": "|@Traveler|"
+        },
+        {
+            "name": "Chapter 2",
+            "category": [
+                "Chapter Logic"
+            ],
+            "requires": "|@Chapter 2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)})"
+        },
+        {
+            "name": "Chapter 3",
+            "category": [
+                "Chapter Logic"
+            ],
+            "requires": "|@Chapter 3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)})"
+        },
+        {
+            "name": "Chapter 4",
+            "category": [
+                "Chapter Logic"
+            ],
+            "requires": "|@Chapter 4| AND (|@Traveler:4| OR {YamlEnabled(solo_run)})"
+        }
+    ]
+}

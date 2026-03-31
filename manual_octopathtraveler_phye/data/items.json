@@ -1,0 +1,3884 @@
+[
+  {
+    "count": 1,
+    "name": "Ophilia (Protagonist)",
+    "category": [
+        "Travelers",
+        "Protag"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cyrus (Protagonist)",
+    "category": [
+        "Travelers",
+        "Protag"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tressa (Protagonist)",
+    "category": [
+        "Travelers",
+        "Protag"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Olberic (Protagonist)",
+    "category": [
+        "Travelers",
+        "Protag"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Primrose (Protagonist)",
+    "category": [
+        "Travelers",
+        "Protag"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alfyn (Protagonist)",
+    "category": [
+        "Travelers",
+        "Protag"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Therion (Protagonist)",
+    "category": [
+        "Travelers",
+        "Protag"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "H'aanit (Protagonist)",
+    "category": [
+        "Travelers",
+        "Protag"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ophilia Clement",
+    "category": [
+        "Travelers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cyrus Albright",
+    "category": [
+        "Travelers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tressa Colzione",
+    "category": [
+        "Travelers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Olberic Eisenberg",
+    "category": [
+        "Travelers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Primrose Azelhart",
+    "category": [
+        "Travelers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alfyn Greengrass",
+    "category": [
+        "Travelers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Therion",
+    "category": [
+        "Travelers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "H'aanit",
+    "category": [
+        "Travelers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric Job",
+    "category": [
+        "Jobs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar Job",
+    "category": [
+        "Jobs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant Job",
+    "category": [
+        "Jobs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior Job",
+    "category": [
+        "Jobs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer Job",
+    "category": [
+        "Jobs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary Job",
+    "category": [
+        "Jobs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief Job",
+    "category": [
+        "Jobs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter Job",
+    "category": [
+        "Jobs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer Job",
+    "category": [
+        "Jobs",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord Job",
+    "category": [
+        "Jobs",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster Job",
+    "category": [
+        "Jobs",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer Job",
+    "category": [
+        "Jobs",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Staves",
+    "category": [
+        "Weapon Types"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Polearms",
+    "category": [
+        "Weapon Types"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bows",
+    "category": [
+        "Weapon Types"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swords",
+    "category": [
+        "Weapon Types"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Daggers",
+    "category": [
+        "Weapon Types"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Axes",
+    "category": [
+        "Weapon Types"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Element",
+    "category": [
+        "Magic Elements"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Element",
+    "category": [
+        "Magic Elements"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning Element",
+    "category": [
+        "Magic Elements"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wind Element",
+    "category": [
+        "Magic Elements"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Light Element",
+    "category": [
+        "Magic Elements"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Element",
+    "category": [
+        "Magic Elements"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Persistence",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Inner Strength",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Evil Ward",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Saving Grace",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Evasive Maneuvers",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Elemental Augmentation",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Percipience",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Vim and Vigor",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Endless Items",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Grows on Trees",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Hang Tough",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - SP Saver",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Cover",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Summon Strength",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Endure",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Surpassing Power",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - The Show Goes On",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Eye for an Eye",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Second Wind",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Encore",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Inspiration",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Hale and Hearty",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Resist Ailments",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Heightened Healing",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Incidental Attack",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Fleetfoot",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Snatch",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Insult to Injury",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Heighten Senses",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Eagle Eye",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Second Serving",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Patience",
+    "category": [
+        "Support Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Hard Worker",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Boost-Start",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - BP Eater",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Divine Aura",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Stat Swap",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - SP Recovery",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Dauntless",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Elemental Edge",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Extra Experience",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Stalwart Defense",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Fortitude",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Physical Prowess",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Intimidation",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Stronger Strikes",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Elemental Aid",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Augmented Elements",
+    "category": [
+        "Support Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Heal Wounds",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Holy Light",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Sheltering Veil",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Luminescence",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Heal More",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Reflective Veil",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Revive",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleric - Aelfric's Auspices",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Fireball",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Icewind",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Lightning Bolt",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Analyze",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Fire Storm",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Blizzard",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Lightning Blast",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scholar - Alephan's Enlightenment",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Collect",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Tradewinds",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Rest",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Trade Tempest",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Donate BP",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Sidestep",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Hired Help",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Merchant - Bifelgan's Bounty",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Level Slash",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Abide",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Spearhead",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Incite",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Cross Strike",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Stout Wall",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Thousand Spears",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior - Brand's Thunder",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Lion Dance",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Moonlight Waltz",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Peacock Strut",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Mole Dance",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Night Ode",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Panther Dance",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Bewildering Grace",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dancer - Sealticge's Seduction",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - First Aid",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Icicle",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Rehabilitate",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Amputation",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Empoison",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Vivify",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Last Stand",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apothecary - Dohter's Charity",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Steal",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Wildfire",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - HP Thief",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Shackle Foe",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Armor Corrosive",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Steal SP",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Share SP",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Thief - Aeber's Reckoning",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Rain of Arrows",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - True Strike",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Thunderbird",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Leghold Trap",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Mercy Strike",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Arrowstorm",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Take Aim",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter - Draefendi's Rage",
+    "category": [
+        "Job Skills"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Shooting Stars",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - BP Boost",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Divination",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Starsong",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Celestial Intervention",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Ethereal Healing",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Moon's Reflection",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starseer - Steorra's Prophecy",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Fire Rune",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Ice Rune",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Thunder Rune",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Wind Rune",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Dark Rune",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Light Rune",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Transfer Rune",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Runelord - Balogar's Blade",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Guardian Liondog",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Tiger Rage",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Qilin's Horn",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Yatagarasu",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Fox Spirit",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Phoenix Storm",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Nightmare Chimera",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warmaster - Winnehild's Battle Cry",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Ignis Ardere",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Glacies Claudere",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Tonitrus Canere",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Ventus Saltare",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Lux Congerere",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Tenebrae Operire",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Elemental Break",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer - Dreisang's Spell",
+    "category": [
+        "Job Skills",
+        "SuperBoss"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Highlands Map Piece",
+    "category": [
+        "Orsterra Maps",
+        "Map Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Sunlands Map Piece",
+    "category": [
+        "Orsterra Maps",
+        "Map Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Riverlands Map Piece",
+    "category": [
+        "Orsterra Maps",
+        "Map Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Cliftlands Map Piece",
+    "category": [
+        "Orsterra Maps",
+        "Map Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Woodlands Map Piece",
+    "category": [
+        "Orsterra Maps",
+        "Map Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Frostlands Map Piece",
+    "category": [
+        "Orsterra Maps",
+        "Map Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Flatlands Map Piece",
+    "category": [
+        "Orsterra Maps",
+        "Map Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Coastlands Map Piece",
+    "category": [
+        "Orsterra Maps",
+        "Map Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Highlands Tier 1 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Highlands Tier 2 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Highlands Tier 3 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sunlands Tier 1 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sunlands Tier 2 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sunlands Tier 3 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Riverlands Tier 1 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Riverlands Tier 2 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Riverlands Tier 3 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cliftlands Tier 1 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cliftlands Tier 2 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cliftlands Tier 3 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Woodlands Tier 1 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Woodlands Tier 2 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Woodlands Tier 3 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frostlands Tier 1 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frostlands Tier 2 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frostlands Tier 3 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flatlands Tier 1 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flatlands Tier 2 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flatlands Tier 3 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coastlands Tier 1 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coastlands Tier 2 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coastlands Tier 3 Map",
+    "category": [
+        "Orsterra Maps",
+        "Map Tiers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Whistlewood Dungeon Map",
+    "category": [
+        "Orsterra Maps",
+        "Chests"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hoarfrost Grotto Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Path of Beasts Dungeon Map",
+    "category": [
+        "Orsterra Maps",
+        "Chests"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forest of Purgation Dungeon Map",
+    "category": [
+        "Orsterra Maps",
+        "HighLevel"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Undertow Cove Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tomb of the Imperator Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Hollow Throne Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Maw of the Ice Dragon Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Captains' Bain Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Untouched Sanctum Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tomb of Kings Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Loch of the Lost King Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Everhold Tunnels Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Whistling Cavern Dungeon Map",
+    "category": [
+        "Orsterra Maps",
+        "Chests"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quicksand Caves Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Marsalim Catacombs Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Twin Falls Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Farshore Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Refuge Ruins Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Carrion Caves Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Derelict Mine Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dragonsong Fane Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forest of No Return Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Moldering Ruins Dungeon Map",
+    "category": [
+        "Orsterra Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flamesgrace Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stillsnow Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Northreach Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Atlasdam Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Noblecourt Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wispermill Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rippletide Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Goldshore Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grandport Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cobbleston Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stonegard Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Everhold Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sunshade Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wellspring Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Marsalim Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Clearbrook Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Saintsbridge Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Riverford Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bolderfall Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quarrycrest Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Orewell Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "S'warkii Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Victors Hollow Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Duskbarrow Pass",
+    "category": [
+        "Settlement Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Ophilia Chapter",
+    "category": [
+        "Traveler Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Cyrus Chapter",
+    "category": [
+        "Traveler Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Tressa Chapter",
+    "category": [
+        "Traveler Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Olberic Chapter",
+    "category": [
+        "Traveler Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Primrose Chapter",
+    "category": [
+        "Traveler Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Alfyn Chapter",
+    "category": [
+        "Traveler Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Therion Chapter",
+    "category": [
+        "Traveler Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "H'aanit Chapter",
+    "category": [
+        "Traveler Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Empowering Earring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Empowering Ring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Empowering Bracelet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Royal Crest",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Empowering Necklace",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stimulating Earring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Stimulating Ring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Stimulating Bracelet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gravekeeper's Mark",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Stimulating Necklace",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Protective Earring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Protective Ring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Protective Bracelet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Blazon of Protection",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Protective Necklace",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Blessed Blazon",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mighty Belt",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elemental Augmentor",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sprightly Earring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sprightly Ring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sprightly Bracelet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sprightly Necklace",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Critical Earring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Critical Ring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Critical Bracelet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Critical Necklace",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Unerring Earring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Unerring Ring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Unerring Bracelet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Unerring Necklace",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Enlightening Earring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Enlightening Ring",
+    "category": [
+        "Accessories"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Enlightening Bracelet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Enlightening Necklace",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Guardian Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elemental Ward",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Physical Belt",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mental Belt",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Antidote Stone",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Wakeful Stone",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Articulate Stone",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bright Stone",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Calming Stone",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clarity Stone",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Conscious Stone",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Vivifying Stone",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Inferno Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Blizzard Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Thunderstorm Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Wind Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tempest Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Light Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gleaming Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Void Amulet",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Weaver's Charm",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gentlemen's Charm",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gourmet's Charm",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Beastly Scarf",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dragon's Scarf",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Alluring Ribbon",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Captain's Badge",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Badge of Friendship",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Spurning Ribbon",
+    "category": [
+        "Accessories"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Long Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Broadsword Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Feather Saber",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Greatsword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Captain's Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spirit Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Falcon Saber",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy Blade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bastard Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Eagle Saber",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mirage Blade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Moonblade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Snipe Saber",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Refined Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Knight's Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Carnage Blade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Divine Blade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Platinum Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Angel Saber",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blade of Bravery",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Great Blade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Deathly Blade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Trinity Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Unseen Saber",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Emperor's Blade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dragon Saber",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Werner's Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Enchanted Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Harald's Sword",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Forbidden Blade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Battle-tested Blade",
+    "category": [
+        "Weapons - Swords"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Memorial Harpoon",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "War Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Glaive",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "War Lance",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sunlands Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bandit's Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Calamity Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy Lance",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jaguar Lance",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Elemental Glaive",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bridge Lance",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hedgehog Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magus Glaive",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Imperial Lance",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Miguel's Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Platinum Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Victor's Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jade Lance",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Soul Glaive",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Scourge Lance",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Seraphim Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Forbidden Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rune Glaive",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Master's Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tradewinds Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Battle-tested Spear",
+    "category": [
+        "Weapons - Polearms"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Stinging Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Knife",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Befuddling Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Falcon Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Piercing Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Swordbreaker",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chainbreaker",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Crescent Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Trickster's Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gideon's Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gaolbreaker",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magus Knife",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skybreaker",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Justice Breaker",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Crimson Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Soul Knife",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Assassin's Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Doombreaker",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ultimate Breaker",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rune Knife",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Legion Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Forbidden Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Adamantine Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Viper Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Heatchote's Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Battle-tested Dagger",
+    "category": [
+        "Weapons - Daggers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Handaxe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Arcane Hatchet",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Battle Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Enchanted Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cleaver",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Steel Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Omar's Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Viking Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magus Hatchet",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Argent Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Horn Cleaver",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Soul Hatchet",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rock Cleaver",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bear Cleaver",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Graviton Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lizardking's Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Inferno Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Elemental Hatchet",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spirit Hatchet",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hill Cleaver",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Adamantine Hatchet",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gargantuan Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rune Hatchet",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ogre Cleaver",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Double Tomahawk",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Death Cleaver",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Forbidden Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Memorial Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Battle-tested Axe",
+    "category": [
+        "Weapons - Axes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proof of Victory - Defeated Galdera",
+    "category": [
+        "Proof of Victory",
+        "GalderaGoal",
+        "NotSolo"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proof of Victory - Ophilia",
+    "category": [
+        "Proof of Victory",
+        "OphiliaGoal"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proof of Victory - Cyrus",
+    "category": [
+        "Proof of Victory",
+        "CyrusGoal"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proof of Victory - Tressa",
+    "category": [
+        "Proof of Victory",
+        "TressaGoal"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proof of Victory - Olberic",
+    "category": [
+        "Proof of Victory",
+        "OlbericGoal"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proof of Victory - Primrose",
+    "category": [
+        "Proof of Victory",
+        "PrimroseGoal"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proof of Victory - Alfyn",
+    "category": [
+        "Proof of Victory",
+        "AlfynGoal"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proof of Victory - Therion",
+    "category": [
+        "Proof of Victory",
+        "TherionGoal"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proof of Victory - H'aanit",
+    "category": [
+        "Proof of Victory",
+        "H'aanitGoal"
+    ],
+    "progression_skip_balancing": true
+  }
+]
