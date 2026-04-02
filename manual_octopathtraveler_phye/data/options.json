@@ -2,13 +2,13 @@
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
-        "goal":{
+        "goal": {
             "_comment": [
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
             "description": "How to End your Randomized playthrough.",
-            "aliases": {"easiest": 0},
+            "aliases": { "easiest": 0 },
             "hidden": false
         },
         "death_link": {
@@ -22,10 +22,6 @@
         }
     },
     "user": {
-        "_commented_out_option": {
-            "type": "Toggle",
-            "default": true
-        },
         "super_boss": {
             "description": [
                 "Include the Secret Bosses and its associated Classes and Skills."
@@ -188,6 +184,30 @@
             "type": "Toggle",
             "default": true,
             "group": "Extra Options"
+        },
+        "job_skills": {
+            "description": [
+                "If enabled, adds one of each job skill into the pool of items to obtain and as a location to unlock said skill."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "job_support_skills": {
+            "description": [
+                "If enabled, adds one of each job support skill into the pool of items to obtain and as a location to unlock said skill."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
+        },
+        "dungeons": {
+            "description": [
+                "If enabled, will enable Optional Dungeons' chests and bosses as extra locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Locations"
         }
     }
 

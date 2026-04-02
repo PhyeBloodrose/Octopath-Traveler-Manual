@@ -1824,7 +1824,8 @@
     "name": "The Whistlewood Dungeon Map",
     "category": [
         "Orsterra Maps",
-        "Chests"
+        "Chests",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1832,7 +1833,8 @@
     "count": 1,
     "name": "Hoarfrost Grotto Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1841,7 +1843,8 @@
     "name": "Path of Beasts Dungeon Map",
     "category": [
         "Orsterra Maps",
-        "Chests"
+        "Chests",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1850,7 +1853,8 @@
     "name": "Forest of Purgation Dungeon Map",
     "category": [
         "Orsterra Maps",
-        "HighLevel"
+        "HighLevel",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1858,7 +1862,8 @@
     "count": 1,
     "name": "Undertow Cove Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1866,7 +1871,8 @@
     "count": 1,
     "name": "Tomb of the Imperator Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1874,7 +1880,8 @@
     "count": 1,
     "name": "The Hollow Throne Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1882,7 +1889,8 @@
     "count": 1,
     "name": "Maw of the Ice Dragon Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1890,7 +1898,8 @@
     "count": 1,
     "name": "Captains' Bain Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1898,7 +1907,8 @@
     "count": 1,
     "name": "Untouched Sanctum Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1906,7 +1916,8 @@
     "count": 1,
     "name": "Tomb of Kings Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1914,7 +1925,8 @@
     "count": 1,
     "name": "Loch of the Lost King Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1922,7 +1934,8 @@
     "count": 1,
     "name": "Everhold Tunnels Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1931,7 +1944,8 @@
     "name": "Whistling Cavern Dungeon Map",
     "category": [
         "Orsterra Maps",
-        "Chests"
+        "Chests",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1939,7 +1953,8 @@
     "count": 1,
     "name": "Quicksand Caves Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1947,7 +1962,8 @@
     "count": 1,
     "name": "Marsalim Catacombs Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1955,7 +1971,8 @@
     "count": 1,
     "name": "Twin Falls Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1963,7 +1980,8 @@
     "count": 1,
     "name": "Farshore Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1971,7 +1989,8 @@
     "count": 1,
     "name": "Refuge Ruins Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1979,7 +1998,8 @@
     "count": 1,
     "name": "Carrion Caves Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1987,7 +2007,8 @@
     "count": 1,
     "name": "Derelict Mine Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -1995,7 +2016,8 @@
     "count": 1,
     "name": "Dragonsong Fane Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -2003,7 +2025,8 @@
     "count": 1,
     "name": "Forest of No Return Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },
@@ -2011,7 +2034,8 @@
     "count": 1,
     "name": "Moldering Ruins Dungeon Map",
     "category": [
-        "Orsterra Maps"
+        "Orsterra Maps",
+        "Dungeon"
     ],
     "progression": true
   },

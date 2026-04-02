@@ -98,6 +98,24 @@
     "Weapons - Staves": {
         "yaml_option": [ "weapons" ]
     },
+    "Dungeon": {
+        "yaml_option": [ "dungeons" ],
+        "hidden": true
+    },
+    "Job Skills": {
+        "yaml_option": [ "job_skills" ]
+    },
+    "JobSkills": {
+        "yaml_option": [ "job_skills" ],
+        "hidden": true
+    },
+    "Support Skills": {
+        "yaml_option": [ "job_support_skills" ]
+    },
+    "JobSupport": {
+        "yaml_option": [ "job_support_skills" ],
+        "hidden": true
+    },
     "Map Pieces": {
         "yaml_option": [ "progressive_lands" ],
         "hidden": true
