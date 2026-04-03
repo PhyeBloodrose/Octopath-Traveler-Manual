@@ -8,7 +8,7 @@ You'll have to gather map pieces or maps to leave your starting town, and to ent
 These are randomized by default: Weapon Types, Element Types, Jobs, Travelers, Travel Chapters, Settlement Passes and Maps.
 
 ## Goal Options
-- Defeat anyone's Act 4
+- Defeat anyone's Chapter 4
 - Defeat Galdera
 
 You can enable as little or as many goals as you wish. The goal button will only be able to be checked whenever you have achieved ALL victory conditions.
@@ -26,3 +26,4 @@ You can enable as little or as many goals as you wish. The goal button will only
 - Randomized Accessories - If enabled, one of each accessory will be added into the multiworld. Do as you wish with them, restrict yourself from using them until you own them or use something that can generate it into your game!
 - Progressive Lands - If enabled you'll unlock the various lands' tiers progressively 1 to 3. If disabled each Tier has its own Map Piece.
 - Solo Run - Only ever have one Traveler while doing their Chapters. This option only works for goals which doesn't require you to defeat Galdera.
+- Death Link - When you receive a death link, just reset the game. A game over is always followed by start from last save point anyway! Whenever you game over, you send a death link in the client.

@@ -172,6 +172,18 @@
     ]
   },
   {
+    "name": "Solo Run 8",
+    "region": "Goal",
+    "category": [
+        "DUMMY",
+        "SoloRun"
+    ],
+    "requires": "|@Proof of Victory:1|",
+    "place_item_category": [
+        "Travelers"
+    ]
+  },
+  {
     "name": "Flamesgrace Cathedral Chest 1 - Healing Grape x1",
     "region": "Flamesgrace",
     "category": [
@@ -1345,7 +1357,7 @@
   },
   {
     "name": "Clearbrook Chest 1 - Healing Grape x1",
-    "region": "Riverlands Tier 1",
+    "region": "Clearbrook",
     "category": [
         "Chests - Riverlands",
         "Chests"
@@ -1363,7 +1375,7 @@
   },
   {
     "name": "Clearbrook Chest 3 - Dubious Gold Ore x1",
-    "region": "Riverlands Tier 1",
+    "region": "Clearbrook",
     "category": [
         "Chests - Riverlands",
         "Chests"
@@ -1396,6 +1408,231 @@
         "Chests"
     ],
     "requires": ""
+  },
+  {
+    "name": "East Saintsbridge Traverse Chest 1 - Herb of Healing x1",
+    "region": "Riverlands Tier 2",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Saintsbridge Traverse Chest 2 - Healing Grape (M) x1",
+    "region": "Riverlands Tier 2",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Saintsbridge Traverse Chest 3 - Rare Stone x1",
+    "region": "Riverlands Tier 2",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Saintsbridge Chest 1 - Inspiriting Plum (M) x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Saintsbridge Chest 2 - Energizing Pomegranate (M) x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Saintsbridge: Upstream Chest 1 - Bottle of Sleeping Dust x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Saintsbridge: Upstream Chest 2 - Heavy Coin Pouch x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Saintsbridge Cathedral Chest 1 - Olive of Life x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Saintsbridge Cathedral Chest 2 - Herb of Valor x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Farshore Chest 1 - Inspiriting Plum Basket x1",
+    "region": "Farshore",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Farshore Chest 2 - Olive of Life (M) x1",
+    "region": "Farshore",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Farshore Chest 3 - Energizing Pomegranate (M) x1",
+    "region": "Farshore",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Farshore Chest 4 - Healing Grape Bunch x1",
+    "region": "Farshore",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Farshore Chest 5 - Ice Soulstone (L) x1",
+    "region": "Farshore",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Farshore Chest 6 - $30 0000",
+    "region": "Farshore",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Farshore Chest 7 - Clarity Stone x1",
+    "region": "Farshore",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Saintsbridge Hidden Item 1 - Inspiriting Plum x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Hidden Items - Saintsbridge",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Saintsbridge Hidden Item 2 - Refreshing Jam x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Hidden Items - Saintsbridge",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|",
+    "hint_entrance": "The Hidden Item can be found inside of the Cathedral."
+  },
+  {
+    "name": "Saintsbridge Hidden Item 3 - Odds and Ends x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Hidden Items - Saintsbridge",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|",
+    "hint_entrance": "The Hidden Item can be found inside of the Cathedral."
+  },
+  {
+    "name": "Saintsbridge Hidden Item 4 - Ice Soulstone (M) x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Hidden Items - Saintsbridge",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Saintsbridge: Upstream Hidden Item 1 - Healing Grape (M) x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Hidden Items - Saintsbridge",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Saintsbridge: Upstream Hidden Item 2 - $3000",
+    "region": "Saintsbridge",
+    "category": [
+        "Hidden Items - Saintsbridge",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Saintsbridge Cathedral Hidden Item 1 - Inspiriting Plum (M) x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Hidden Items - Saintsbridge",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Saintsbridge Cathedral Hidden Item 2 - Copper-filled Pouch x1",
+    "region": "Saintsbridge",
+    "category": [
+        "Hidden Items - Saintsbridge",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
   },
   {
     "name": "Clearbrook Hidden Item 1 - Essence of Pomegranate x1",
@@ -2161,6 +2398,15 @@
   {
     "name": "West S'warkii Trail Chest 3 - Herb of Light x1",
     "region": "Woodlands Tier 1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Shrine of the Huntress Chest - Olive of Life (L) x1",
+    "region": "Shrine of the Huntress",
     "category": [
         "Chests - Woodlands",
         "Chests"
@@ -3122,7 +3368,7 @@
   },
   {
     "name": "Saintsbridge Side Story - A Corpse with No Name",
-    "region": "Saintsbridge",
+    "region": "Riverlands Tier 2",
     "category": [
         "Side Stories - Riverlands",
         "SideStory",

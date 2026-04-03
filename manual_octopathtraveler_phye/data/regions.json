@@ -78,7 +78,7 @@
     "connects_to": [
         "Ophilia - Chapter 3"
     ],
-    "requires": "|Ophilia| AND |Ophilia Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Saintsbridge|"
+    "requires": "(|Ophilia| OR (|Ophilia (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Ophilia Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Saintsbridge|"
   },
   "Ophilia - Chapter 3": {
     "connects_to": [
@@ -106,7 +106,7 @@
     "connects_to": [
         "Cyrus - Chapter 3"
     ],
-    "requires": "|Cyrus| AND |Cyrus Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Quarrycrest|"
+    "requires": "(|Cyrus| OR (|Cyrus (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Cyrus Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Quarrycrest|"
   },
   "Cyrus - Chapter 3": {
     "connects_to": [
@@ -138,7 +138,7 @@
     "connects_to": [
         "Tressa - Chapter 3"
     ],
-    "requires": "|Tressa| AND |Tressa Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Quarrycrest|"
+    "requires": "(|Tressa| OR (|Tressa (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Tressa Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Quarrycrest|"
   },
   "Tressa - Chapter 3": {
     "connects_to": [
@@ -166,7 +166,7 @@
     "connects_to": [
         "Olberic - Chapter 3"
     ],
-    "requires": "|Olberic| AND |Olberic Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Victors Hollow|"
+    "requires": "(|Olberic| OR (|Olberic (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Olberic Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Victors Hollow|"
   },
   "Olberic - Chapter 3": {
     "connects_to": [
@@ -194,7 +194,7 @@
     "connects_to": [
         "Primrose - Chapter 3"
     ],
-    "requires": "|Primrose| AND |Primrose Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Stillsnow|"
+    "requires": "(|Primrose| OR (|Primrose (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Primrose Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Stillsnow|"
   },
   "Primrose - Chapter 3": {
     "connects_to": [
@@ -222,7 +222,7 @@
     "connects_to": [
         "Alfyn - Chapter 3"
     ],
-    "requires": "|Alfyn| AND |Alfyn Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Goldshore|"
+    "requires": "(|Alfyn| OR (|Alfyn (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Alfyn Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Goldshore|"
   },
   "Alfyn - Chapter 3": {
     "connects_to": [
@@ -250,7 +250,7 @@
     "connects_to": [
         "Therion - Chapter 3"
     ],
-    "requires": "|Therion the Thief| AND |Therion Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Noblecourt|"
+    "requires": "(|Therion the Thief| OR (|Therion (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Therion Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Noblecourt|"
   },
   "Therion - Chapter 3": {
     "connects_to": [
@@ -278,7 +278,7 @@
     "connects_to": [
         "H'aanit - Chapter 3"
     ],
-    "requires": "|H'aanit the Hunter| AND |H'aanit Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Stonegard|"
+    "requires": "(|H'aanit the Hunter| OR (|H'aanit (Protagonist)| AND {YamlEnabled(solo_run)})) AND |H'aanit Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Stonegard|"
   },
   "H'aanit - Chapter 3": {
     "connects_to": [
