@@ -1635,6 +1635,122 @@
     "requires": "|Scrutinize_Inquire|"
   },
   {
+    "name": "Murkwood Trail Chest 1 - Herb of Awakening x1",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Murkwood Trail Chest 2 - Inspiriting Plum Basket x1",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Murkwood Trail Chest 3 - $3500",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Chests - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Murkwood Chest 1 - Olive of Life (M) x1",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Murkwood Chest 2 - Inspiriting Plum x1",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Murkwood Chest 3 - Energizing Pomegranate (M) x1",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Murkwood Chest 4 - Kite Shield x1",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Murkwood Chest 5 - Healing Grape (M) x1",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Murkwood Chest 6 - Clarity Stone x1",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "The Murkwood Chest 7 - Healing Grape Bunch x1",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Murkwood Chest 8 - $5000 x1",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Murkwood Chest 9 - Psychic Staff x1",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Murkwood - Defeat Hróðvitnir",
+    "region": "The Murkwood",
+    "category": [
+        "Dungeons - Riverlands"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Clearbrook Hidden Item 1 - Essence of Pomegranate x1",
     "region": "Alfyn - Chapter 1",
     "category": [
@@ -3644,7 +3760,7 @@
     "requires": "(|Guide_Allure| AND |Bolderfall|) OR (|Scrutinize_Inquire| AND |S'warkii|)"
   },
   {
-    "name": "Ophilia's Journal - 1-1 - The Kindling",
+    "name": "Ophilia's Journal - I-1 - The Kindling",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3653,7 +3769,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-2 - The Sacred Flame",
+    "name": "Ophilia's Journal - I-2 - The Sacred Flame",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3662,7 +3778,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-3 - Arch Bishop Josef",
+    "name": "Ophilia's Journal - I-3 - Arch Bishop Josef",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3671,7 +3787,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-4 - Guiding the Wayward",
+    "name": "Ophilia's Journal - I-4 - Guiding the Wayward",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3680,7 +3796,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-5 - A Mother Found",
+    "name": "Ophilia's Journal - I-5 - A Mother Found",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3689,7 +3805,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-6 - Meeting Mattias",
+    "name": "Ophilia's Journal - I-6 - Meeting Mattias",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3698,7 +3814,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-7 - The Ailing Archbishop",
+    "name": "Ophilia's Journal - I-7 - The Ailing Archbishop",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3707,7 +3823,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-8 - Lianna's Lament",
+    "name": "Ophilia's Journal - I-8 - Lianna's Lament",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3716,7 +3832,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-9 - Phili and Anna",
+    "name": "Ophilia's Journal - I-9 - Phili and Anna",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3725,7 +3841,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-10 - Ophilia's Melancholy",
+    "name": "Ophilia's Journal - I-10 - Ophilia's Melancholy",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3734,7 +3850,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-11 - A Place to Remember",
+    "name": "Ophilia's Journal - I-11 - A Place to Remember",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3743,7 +3859,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-12 - The Cave of Origin",
+    "name": "Ophilia's Journal - I-12 - The Cave of Origin",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3752,7 +3868,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-13 - Guardian of the First Flame",
+    "name": "Ophilia's Journal - I-13 - Guardian of the First Flame",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3761,7 +3877,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-14 - The Flamebearer",
+    "name": "Ophilia's Journal - I-14 - The Flamebearer",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3770,7 +3886,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-15 - Ophilia's Resolve",
+    "name": "Ophilia's Journal - I-15 - Ophilia's Resolve",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3779,7 +3895,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-16 - The Archbishop's Words",
+    "name": "Ophilia's Journal - I-16 - The Archbishop's Words",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3788,7 +3904,7 @@
     "requires": ""
   },
   {
-    "name": "Ophilia's Journal - 1-17 - Setting Out",
+    "name": "Ophilia's Journal - I-17 - Setting Out",
     "region": "Ophilia - Chapter 1",
     "category": [
         "Story Progression - Ophilia",
@@ -3802,6 +3918,150 @@
     "category": [
         "Story Progression - Ophilia",
         "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-1 - Making the Pilgrimage",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-2 - The Cathedral of Saintsbridge",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-3 - Performing the Kindling",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-4 - A Tour of Town",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-5 - The Bully and the Bullied",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-6 - The Missing Brooch",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-7 - A Child's Pain",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-8 - A Short Stroll",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-9 - A True Friend",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-10 - The Meaning of Kindness",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-11 - Whither Emil?",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-12 - Dangers of the Forest",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-13 - A Keepsake Found",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-14 - Friends Once More",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-15 - A Gentle Flame",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - II-16 - Journeying On",
+    "region": "Ophilia - Chapter 2",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
     ],
     "requires": ""
   },

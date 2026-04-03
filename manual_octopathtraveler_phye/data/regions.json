@@ -76,7 +76,8 @@
   },
   "Ophilia - Chapter 2": {
     "connects_to": [
-        "Ophilia - Chapter 3"
+        "Ophilia - Chapter 3",
+        "The Murkwood"
     ],
     "requires": "(|Ophilia| OR (|Ophilia (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Ophilia Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Saintsbridge|"
   },
@@ -683,6 +684,10 @@
   "Saintsbridge": {
     "connects_to": [],
     "requires": "|Saintsbridge Pass|"
+  },
+  "The Murkwood": {
+    "connects_to": [],
+    "requires": ""
   },
   "Farshore": {
     "connects_to": [],

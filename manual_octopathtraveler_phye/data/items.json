@@ -3831,7 +3831,7 @@
         "GalderaGoal",
         "NotSolo"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -3840,7 +3840,7 @@
         "Proof of Victory",
         "OphiliaGoal"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -3849,7 +3849,7 @@
         "Proof of Victory",
         "CyrusGoal"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -3858,7 +3858,7 @@
         "Proof of Victory",
         "TressaGoal"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -3867,7 +3867,7 @@
         "Proof of Victory",
         "OlbericGoal"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -3876,7 +3876,7 @@
         "Proof of Victory",
         "PrimroseGoal"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -3885,7 +3885,7 @@
         "Proof of Victory",
         "AlfynGoal"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -3894,7 +3894,7 @@
         "Proof of Victory",
         "TherionGoal"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -3903,6 +3903,6 @@
         "Proof of Victory",
         "H'aanitGoal"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   }
 ]
