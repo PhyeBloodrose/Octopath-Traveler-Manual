@@ -105,7 +105,8 @@
   },
   "Cyrus - Chapter 2": {
     "connects_to": [
-        "Cyrus - Chapter 3"
+        "Cyrus - Chapter 3",
+        "The Sewers"
     ],
     "requires": "(|Cyrus| OR (|Cyrus (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Cyrus Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Quarrycrest|"
   },
@@ -137,7 +138,8 @@
   },
   "Tressa - Chapter 2": {
     "connects_to": [
-        "Tressa - Chapter 3"
+        "Tressa - Chapter 3",
+        "Marlock's Manse"
     ],
     "requires": "(|Tressa| OR (|Tressa (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Tressa Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Quarrycrest|"
   },
@@ -759,6 +761,14 @@
   "Quarrycrest": {
     "connects_to": [],
     "requires": "|Quarrycrest Pass|"
+  },
+  "The Sewers": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Marlock's Manse": {
+    "connects_to": [],
+    "requires": ""
   },
   "Derelict Mine": {
     "connects_to": [],

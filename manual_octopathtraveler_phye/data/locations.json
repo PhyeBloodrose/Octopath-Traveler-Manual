@@ -2056,6 +2056,299 @@
     "requires": "|Scrutinize_Inquire|"
   },
   {
+    "name": "South Quarrycrest Pass Chest 1 - Herb of Valor x1",
+    "region": "Cliftlands Tier 2",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "South Quarrycrest Pass Chest 2 - Fire Amulet x1",
+    "region": "Cliftlands Tier 2",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "South Quarrycrest Pass Chest 3 - Energizing Pomegranate x1",
+    "region": "Cliftlands Tier 2",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Derelict Mine Chest 1 - Wind Soulstone (L) x1",
+    "region": "Derelict Mine",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Derelict Mine Chest 2 - Conscious Stone x1",
+    "region": "Derelict Mine",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Derelict Mine Chest 3 - $10000",
+    "region": "Derelict Mine",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Derelict Mine Chest 4 - Inspiriting Plum (M) x1",
+    "region": "Derelict Mine",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Derelict Mine Chest 5 - Olive of Life (L) x1",
+    "region": "Derelict Mine",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Derelict Mine Chest 6 - Carnage Blade x1",
+    "region": "Derelict Mine",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Derelict Mine - Defeat Manymaws",
+    "region": "Derelict Mine",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Quarrycrest Chest 1 - Pseudo Gold Ore x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Quarrycrest Chest 2 - Dubious Gold Ore x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Quarrycrest Chest 3 - Wind Soulstone (M) x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Quarrycrest Mines Chest 1 - Healing Grape Bunch x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Quarrycrest Mines Chest 2 - Herb of Valor x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Quarrycrest Mines Chest 3 - Fool's Gold Ore x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Quarrycrest Hidden Item 1 - Fire Soulstone (L) x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Hidden Items - Quarrycrest",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke| AND |Chapter 3|"
+  },
+  {
+    "name": "Quarrycrest Hidden Item 2 - Pseudo Gold Ore x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Hidden Items - Quarrycrest",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Quarrycrest Mines Hidden Item 1 - Refreshing Jam x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Hidden Items - Quarrycrest",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Quarrycrest Mines Hidden Item 2 - Olive of Life (M) x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Hidden Items - Quarrycrest",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Quarrycrest Mines Hidden Item 3 - Fool's Gold Ore x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Hidden Items - Quarrycrest",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Road to Morlock's Manse Chest 1 - Healing Grape (M) x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to Morlock's Manse Chest 2 - Inspiriting Plum x1",
+    "region": "Quarrycrest",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to Morlock's Manse Chest 3 - $5000",
+    "region": "Quarrycrest",
+    "category": [
+        "Chests - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Sewers Chest 1 - Inspiriting Plum Basket x1",
+    "region": "The Sewers",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Sewers Chest 2 - Snipe Saber x1",
+    "region": "The Sewers",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "The Sewers Chest 3 - Fire Soulstone (M) x1",
+    "region": "The Sewers",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Sewers Chest 4 - Energizing Pomegranate (L) x1",
+    "region": "The Sewers",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Sewers Chest 5 - Healing Grape Bunch x1",
+    "region": "The Sewers",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Sewers Chest 6 - Sprightly Ring x1",
+    "region": "The Sewers",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Sewers Chest 7 - Bottle of Befuddling Dust x1",
+    "region": "The Sewers",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Sewers - Defeat Gideon",
+    "region": "The Sewers",
+    "category": [
+        "Dungeons - Cliftlands"
+    ],
+    "requires": ""
+  },
+  {
     "name": "S'warkii Hidden Item 1 - $1000",
     "region": "S'warkii",
     "category": [
@@ -4093,7 +4386,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-1 - A Brief History of the Realm",
+    "name": "Cyrus's Journal - I-1 - A Brief History of the Realm",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4102,7 +4395,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-2 - Summoned to the Archives",
+    "name": "Cyrus's Journal - I-2 - Summoned to the Archives",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4111,7 +4404,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-3 - Matters of the Heart",
+    "name": "Cyrus's Journal - I-3 - Matters of the Heart",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4120,7 +4413,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-4 - The Missing Tome",
+    "name": "Cyrus's Journal - I-4 - The Missing Tome",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4129,7 +4422,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-5 - Headmaster Yvon",
+    "name": "Cyrus's Journal - I-5 - Headmaster Yvon",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4138,7 +4431,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-6 - Therese's Report",
+    "name": "Cyrus's Journal - I-6 - Therese's Report",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4147,7 +4440,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-7 - A Mystery is Afoot",
+    "name": "Cyrus's Journal - I-7 - A Mystery is Afoot",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4156,7 +4449,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-8 - Process of Deduction",
+    "name": "Cyrus's Journal - I-8 - Process of Deduction",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4165,7 +4458,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-9 - Russel the Scholar",
+    "name": "Cyrus's Journal - I-9 - Russel the Scholar",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4174,7 +4467,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-10 - A Lesson Taught",
+    "name": "Cyrus's Journal - I-10 - A Lesson Taught",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4183,7 +4476,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-11 - From the Far Reaches of Hell",
+    "name": "Cyrus's Journal - I-11 - From the Far Reaches of Hell",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4192,7 +4485,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-12 - A Forced Sabbatical",
+    "name": "Cyrus's Journal - I-12 - A Forced Sabbatical",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4201,7 +4494,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-13 - Theresse's Regret",
+    "name": "Cyrus's Journal - I-13 - Theresse's Regret",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4210,7 +4503,7 @@
     "requires": ""
   },
   {
-    "name": "Cyrus's Journal - 1-14 - Setting Out",
+    "name": "Cyrus's Journal - I-14 - Setting Out",
     "region": "Cyrus - Chapter 1",
     "category": [
         "Story Progression - Cyrus",
@@ -4224,6 +4517,114 @@
     "category": [
         "Story Progression - Cyrus",
         "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-1 - A Colleague's Warning",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-2 - Reunion with Odette",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-3 - Odette's Amusement",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-4 - The Case of the Missing Villagers",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-5 - Process of Deduction",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-6 - Searching the Sewers",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-7 - The Secret Laboratory",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-8 - Sanguine Research",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-9 - A Translated Tome",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-10 - Ascertaining the Origins",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-11 - Putting Two Minds Together",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - II-12 - Journeying On",
+    "region": "Cyrus - Chapter 2",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
     ],
     "requires": ""
   },
