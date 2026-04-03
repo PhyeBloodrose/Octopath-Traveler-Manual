@@ -139,7 +139,7 @@
   "Tressa - Chapter 2": {
     "connects_to": [
         "Tressa - Chapter 3",
-        "Marlock's Manse"
+        "Morlock's Manse"
     ],
     "requires": "(|Tressa| OR (|Tressa (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Tressa Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Quarrycrest|"
   },
@@ -766,7 +766,7 @@
     "connects_to": [],
     "requires": ""
   },
-  "Marlock's Manse": {
+  "Morlock's Manse": {
     "connects_to": [],
     "requires": ""
   },

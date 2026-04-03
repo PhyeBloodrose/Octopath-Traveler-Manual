@@ -2349,6 +2349,86 @@
     "requires": ""
   },
   {
+    "name": "Morlock's Manse Chest 1 - Healing Grape (M) x1",
+    "region": "Morlock's Manse",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Morlock's Manse Chest 2 - Energizing Pomegranate (M) x1",
+    "region": "Morlock's Manse",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Morlock's Manse Chest 3 - Conscious Stone x1",
+    "region": "Morlock's Manse",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Morlock's Manse Chest 4 - $6000",
+    "region": "Morlock's Manse",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Morlock's Manse Chest 5 - Wind Soulstone (M) x1",
+    "region": "Morlock's Manse",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Morlock's Manse Chest 6 - Refreshing Jam x1",
+    "region": "Morlock's Manse",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Morlock's Manse Chest 7 - Hasty Helm x1",
+    "region": "Morlock's Manse",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Morlock's Manse Chest 8 - Olive of Life (M) x1",
+    "region": "Morlock's Manse",
+    "category": [
+        "Dungeons - Cliftlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Morlock's Manse - Defeat Omar",
+    "region": "Morlock's Manse",
+    "category": [
+        "Dungeons - Cliftlands"
+    ],
+    "requires": ""
+  },
+  {
     "name": "S'warkii Hidden Item 1 - $1000",
     "region": "S'warkii",
     "category": [
@@ -4656,7 +4736,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-1 - Undiscovered Treasures",
+    "name": "Tressa's Journal - I-1 - Undiscovered Treasures",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4665,7 +4745,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-2 - Morning Routine",
+    "name": "Tressa's Journal - I-2 - Morning Routine",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4674,7 +4754,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-3 - Smiley, Mannerly, and Early",
+    "name": "Tressa's Journal - I-3 - Smiley, Mannerly, and Early",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4683,7 +4763,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-4 - Stocking the Shop",
+    "name": "Tressa's Journal - I-4 - Stocking the Shop",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4692,7 +4772,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-5 - New Ship in the Harbor",
+    "name": "Tressa's Journal - I-5 - New Ship in the Harbor",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4701,7 +4781,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-6 - Pirates!",
+    "name": "Tressa's Journal - I-6 - Pirates!",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4710,7 +4790,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-7 - A Merchant's Honor",
+    "name": "Tressa's Journal - I-7 - A Merchant's Honor",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4719,7 +4799,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-8 - Sleepweed",
+    "name": "Tressa's Journal - I-8 - Sleepweed",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4728,7 +4808,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-9 - Spiked Wine",
+    "name": "Tressa's Journal - I-9 - Spiked Wine",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4737,7 +4817,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-10 - Special Delivery",
+    "name": "Tressa's Journal - I-10 - Special Delivery",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4746,7 +4826,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-11 - Bottoms Up!",
+    "name": "Tressa's Journal - I-11 - Bottoms Up!",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4755,7 +4835,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-12 - The Pirates' Lair",
+    "name": "Tressa's Journal - I-12 - The Pirates' Lair",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4764,7 +4844,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-13 - Mikk and Makk",
+    "name": "Tressa's Journal - I-13 - Mikk and Makk",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4773,7 +4853,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-14 - Leon Bastralle",
+    "name": "Tressa's Journal - I-14 - Leon Bastralle",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4782,7 +4862,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-15 - The Merchant Ship",
+    "name": "Tressa's Journal - I-15 - The Merchant Ship",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4791,7 +4871,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-16 - A Mysterious Book",
+    "name": "Tressa's Journal - I-16 - A Mysterious Book",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4800,7 +4880,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-17 - Within the Dusty Pages",
+    "name": "Tressa's Journal - I-17 - Within the Dusty Pages",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4809,7 +4889,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-18 - Tressa's Resolve",
+    "name": "Tressa's Journal - I-18 - Tressa's Resolve",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4818,7 +4898,7 @@
     "requires": ""
   },
   {
-    "name": "Tressa's Journal - 1-19 - Beyond the Horizon",
+    "name": "Tressa's Journal - I-19 - Beyond the Horizon",
     "region": "Tressa - Chapter 1",
     "category": [
         "Story Progression - Tressa",
@@ -4832,6 +4912,105 @@
     "category": [
         "Story Progression - Tressa",
         "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-1 - Gold Rush",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-2 - Lousy Rocks",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-3 - The Merchant Ali",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-4 - Skystones",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-5 - Rivals",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-6 - A Way with Words",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-7 - The One-man Army, Defeated",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-8 - Determination",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-9 - The Mercenary Omar",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-10 - Cut Your Losses",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - II-11 - The Merchant's Fair",
+    "region": "Tressa - Chapter 2",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
     ],
     "requires": ""
   },
