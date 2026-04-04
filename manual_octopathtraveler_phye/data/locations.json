@@ -2429,33 +2429,6 @@
     "requires": ""
   },
   {
-    "name": "S'warkii Hidden Item 1 - $1000",
-    "region": "S'warkii",
-    "category": [
-        "Hidden Items - S'warkii",
-        "HiddenItem"
-    ],
-    "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
-  },
-  {
-    "name": "S'warkii Hidden Item 2 - Ice Soulstone x1",
-    "region": "H'aanit - Chapter 1",
-    "category": [
-        "Hidden Items - S'warkii",
-        "HiddenItem"
-    ],
-    "requires": "|Scrutinize_Inquire|"
-  },
-  {
-    "name": "S'warkii Hidden Item 3 - Olive of Life x1",
-    "region": "S'warkii",
-    "category": [
-        "Hidden Items - S'warkii",
-        "HiddenItem"
-    ],
-    "requires": "|Scrutinize_Inquire|"
-  },
-  {
     "name": "Ravus Manor Chest 1 - Healing Grape x1",
     "region": "Ravus Manor",
     "category": [
@@ -2894,15 +2867,6 @@
     "requires": ""
   },
   {
-    "name": "Shrine of the Huntress Chest - Olive of Life (L) x1",
-    "region": "Shrine of the Huntress",
-    "category": [
-        "Chests - Woodlands",
-        "Chests"
-    ],
-    "requires": ""
-  },
-  {
     "name": "S'warkii Chest 1 - Inspiriting Plum x1",
     "region": "S'warkii",
     "category": [
@@ -2928,6 +2892,33 @@
         "Chests"
     ],
     "requires": "|Therion the Thief| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "S'warkii Hidden Item 1 - $1000",
+    "region": "S'warkii",
+    "category": [
+        "Hidden Items - S'warkii",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "S'warkii Hidden Item 2 - Ice Soulstone x1",
+    "region": "H'aanit - Chapter 1",
+    "category": [
+        "Hidden Items - S'warkii",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "S'warkii Hidden Item 3 - Olive of Life x1",
+    "region": "S'warkii",
+    "category": [
+        "Hidden Items - S'warkii",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
   },
   {
     "name": "Path to the Whisperwood Chest 1 - Shadow Soulstone x1",
@@ -3066,6 +3057,211 @@
         "Dungeon"
     ],
     "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "East Victors Hollow Trail Chest 1 - Inspiriting Plum x1",
+    "region": "Woodlands Tier 2",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Victors Hollow Trail Chest 2 - Healing Grape (M) x1",
+    "region": "Woodlands Tier 2",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Victors Hollow Trail Chest 3 - $5000",
+    "region": "Woodlands Tier 2",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Shrine of the Huntress Chest - Olive of Life (L) x1",
+    "region": "Shrine of the Huntress",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Victors Hollow Chest - Heavy Coin Pouch x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Victors Hollow: Arena Gate Chest - Silver-filled Pouch x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Victors Hollow: The Arena Chest 1 - Inspiriting Plum x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Victors Hollow: The Arena Chest 2 - Dark Amulet x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Victors Hollow Hidden Item 1 - Refreshing Jam x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Hidden Items - Victors Hollow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Victors Hollow Hidden Item 2 - Inspiriting Plum (M) x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Hidden Items - Victors Hollow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Victors Hollow: Arena Gate Hidden Item 1 - Energizing Pomegranate (M) x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Hidden Items - Victors Hollow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Victors Hollow: Arena Gate Hidden Item 2 - Olive of Life (M) x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Hidden Items - Victors Hollow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Victors Hollow: Arena Gate Hidden Item 3 - Lightning Amulet x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Hidden Items - Victors Hollow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Victors Hollow: The Arena Hidden Item - Ice Soulstone (L) x1",
+    "region": "Victors Hollow",
+    "category": [
+        "Hidden Items - Victors Hollow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Forest of No Return Chest 1 - Healing Grape Bunch x1",
+    "region": "Forest of No Return",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Forest of No Return Chest 2 - Inspiriting Plum Basket x1",
+    "region": "Forest of No Return",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Forest of No Return Chest 3 - Elemental Glaive x1",
+    "region": "Forest of No Return",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Forest of No Return Chest 4 - Silent Bandana x1",
+    "region": "Forest of No Return",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Forest of No Return Chest 5 - Shadow Soulstone (L) x1",
+    "region": "Forest of No Return",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Forest of No Return Chest 6 - Vivifying Stone x1",
+    "region": "Forest of No Return",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Forest of No Return - Defeat Devourer of Men",
+    "region": "Forest of No Return",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests",
+        "Dungeon",
+        "SideStory"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Victors Hollow: The Arena - Defeat Gustav",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Dungeons - Woodlands"
+    ],
+    "requires": ""
   },
   {
     "name": "Undertow Cove Chest 1 - Healing Grape Bunch x1",
@@ -5042,7 +5238,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-1 - The Battle of Hornburg",
+    "name": "Olberic's Journal - I-1 - The Battle of Hornburg",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5051,7 +5247,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-2 - A Friend's Betrayal",
+    "name": "Olberic's Journal - I-2 - A Friend's Betrayal",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5060,7 +5256,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-3 - Always the Same Dream",
+    "name": "Olberic's Journal - I-3 - Always the Same Dream",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5069,7 +5265,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-4 - Keeping the Peace",
+    "name": "Olberic's Journal - I-4 - Keeping the Peace",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5078,7 +5274,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-5 - The Headman's Behest",
+    "name": "Olberic's Journal - I-5 - The Headman's Behest",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5087,7 +5283,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-6 - Training Day (I)",
+    "name": "Olberic's Journal - I-6 - Training Day (I)",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5096,7 +5292,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-7 - Training Day (II)",
+    "name": "Olberic's Journal - I-7 - Training Day (II)",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5105,7 +5301,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-8 - Someone to Protect",
+    "name": "Olberic's Journal - I-8 - Someone to Protect",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5114,7 +5310,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-9 - Under Attack",
+    "name": "Olberic's Journal - I-9 - Under Attack",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5123,7 +5319,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-10 - Bandits Begone",
+    "name": "Olberic's Journal - I-10 - Bandits Begone",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5132,7 +5328,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-11 - Philip's Abduction",
+    "name": "Olberic's Journal - I-11 - Philip's Abduction",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5141,7 +5337,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-12 - Den of Villainy",
+    "name": "Olberic's Journal - I-12 - Den of Villainy",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5150,7 +5346,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-13 - Gaston's Challenge",
+    "name": "Olberic's Journal - I-13 - Gaston's Challenge",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5159,7 +5355,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-14 - The Unbending Blade",
+    "name": "Olberic's Journal - I-14 - The Unbending Blade",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5168,7 +5364,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-15 - Adventure Calls",
+    "name": "Olberic's Journal - I-15 - Adventure Calls",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5177,7 +5373,7 @@
     "requires": ""
   },
   {
-    "name": "Olberic's Journal - 1-16 - A Fond Farewell",
+    "name": "Olberic's Journal - I-16 - A Fond Farewell",
     "region": "Olberic - Chapter 1",
     "category": [
         "Story Progression - Olberic",
@@ -5191,6 +5387,195 @@
     "category": [
         "Story Progression - Olberic",
         "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-1 - Seekers of Glory",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-2 - To the Victor",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-3 - A Formidable Foe (I)",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-4 - A Formidable Foe (II)",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-5 - Buccaneer's Bane",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-6 - Battle with Victorino",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-7 - Onward to Glory",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-8 - Let the Battles Begin",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-9 - Why He Swings His Blade",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-10 - The First Battle",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-11 - Battle with Joshua",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-12 - An Auspicious Start",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-13 - The King Awaits",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-14 - Archibold the Crusher",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-15 - Onward to the Final Showdown",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-16 - The Black Knight's Resolve",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-17 - Battle with Gustav",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-18 - A Champion Is Crowned",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-19 - Erhardt's Past and Present",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-20 - Erhardt's Blade",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Olberic's Journal - II-21 - Journeying On",
+    "region": "Olberic - Chapter 2",
+    "category": [
+        "Story Progression - Olberic",
+        "Story"
     ],
     "requires": ""
   },

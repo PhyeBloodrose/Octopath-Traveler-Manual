@@ -366,7 +366,7 @@
         "Maw of the Ice Dragon",
         "Northreach"
     ],
-    "requires": "|Frostlands Map Piece:3| OR |Frostlands Tier 3 Map|"
+    "requires": "(|Frostlands Map Piece:3| OR |Frostlands Tier 3 Map|) AND |Chapter 3|"
   },
   "Northreach": {
     "connects_to": [],
@@ -427,7 +427,7 @@
         "Forest of Purgation",
         "Wispermill"
     ],
-    "requires": "|Flatlands Map Piece:3| OR |Flatlands Tier 3 Map|"
+    "requires": "(|Flatlands Map Piece:3| OR |Flatlands Tier 3 Map|) AND |Chapter 3|"
   },
   "Shrine of the Starseer": {
     "connects_to": [
@@ -496,7 +496,7 @@
         "Grandport",
         "Loch of the Lost King"
     ],
-    "requires": "|Coastlands Map Piece:3| OR |Coastlands Tier 3 Map|"
+    "requires": "(|Coastlands Map Piece:3| OR |Coastlands Tier 3 Map|) AND |Chapter 3|"
   },
   "Grandport": {
     "connects_to": [],
@@ -563,7 +563,7 @@
         "Shrine of the Runeblade",
         "Everhold Tunnels"
     ],
-    "requires": "|Highlands Map Piece:3| OR |Highlands Tier 3 Map|"
+    "requires": "(|Highlands Map Piece:3| OR |Highlands Tier 3 Map|) AND |Chapter 3|"
   },
   "Shrine of the Runeblade": {
     "connects_to": [
@@ -633,7 +633,7 @@
         "Marsalim",
         "Marsalim Catacombs"
     ],
-    "requires": "|Sunlands Map Piece:3| OR |Sunlands Tier 3 Map|"
+    "requires": "(|Sunlands Map Piece:3| OR |Sunlands Tier 3 Map|) AND |Chapter 3|"
   },
   "Marsalim": {
     "connects_to": [],
@@ -701,7 +701,7 @@
         "Refuge Ruins",
         "Riverford"
     ],
-    "requires": "|Riverlands Map Piece:3| OR |Riverlands Tier 3 Map|"
+    "requires": "(|Riverlands Map Piece:3| OR |Riverlands Tier 3 Map|) AND |Chapter 3|"
   },
   "Shrine of the Warbringer": {
     "connects_to": [
@@ -780,7 +780,7 @@
         "Riverlands Tier 3",
         "Dragonsong Fane"
     ],
-    "requires": "|Cliftlands Map Piece:3| OR |Cliftlands Tier 3 Map|"
+    "requires": "(|Cliftlands Map Piece:3| OR |Cliftlands Tier 3 Map|) AND |Chapter 3|"
   },
   "Orewell": {
     "connects_to": [],
@@ -846,7 +846,7 @@
         "Moldering Ruins",
         "Duskbarrow"
     ],
-    "requires": "|Woodlands Map Piece:3| OR |Woodlands Tier 3 Map|"
+    "requires": "(|Woodlands Map Piece:3| OR |Woodlands Tier 3 Map|) AND |Chapter 3|"
   },
   "Shrine of the Archmagus": {
     "connects_to": [
