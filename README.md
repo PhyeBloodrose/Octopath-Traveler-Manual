@@ -22,8 +22,7 @@ You can enable as little or as many goals as you wish. The goal button will only
 - High Level - If enabled will allow for locations that are above level 50 to be available if possible.
 - Randomized Job Skills - Will add the Job Skills into the pool when enabled and as checks to be unlocked. 
 - Randomized Job Support Skills - Will add the Job Support Skills into the pool when enabled and as checks to be unlocked.
-- Randomized Weapons - If enabled, one of each weapon will be added into the multiworld. Do as you wish with them, restrict yourself from using them until you own them or use something that can generate it into your game!
-- Randomized Accessories - If enabled, one of each accessory will be added into the multiworld. Do as you wish with them, restrict yourself from using them until you own them or use something that can generate it into your game!
+- Randomized Items - If enabled, one of each item will be added into the multiworld. Do as you wish with them, restrict yourself from using them until you own them or use something that can generate it into your game!
 - Progressive Lands - If enabled you'll unlock the various lands' tiers progressively 1 to 3. If disabled each Tier has its own Map Piece.
 - Solo Run - Only ever have one Traveler while doing their Chapters. This option only works for goals which doesn't require you to defeat Galdera.
 - Death Link - When you receive a death link, just reset the game. A game over is always followed by start from last save point anyway! Whenever you game over, you send a death link in the client.

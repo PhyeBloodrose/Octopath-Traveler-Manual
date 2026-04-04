@@ -168,6 +168,79 @@
             "default": false,
             "group": "Additional Items"
         },
+        "shields": {
+            "description": [
+                "If enabled, adds one of each of the various shields into the pool of items.",
+                "Most shields are considered as filler items",
+                "The highest tier shields you can buy at shops and up to Battle-tested are considered useful.",
+                "Battle-tested Shield will be considered as Progression."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "headgears": {
+            "description": [
+                "If enabled, adds one of each of the various headgears into the pool of items.",
+                "Most headgears are considered as filler items",
+                "The highest tier headgears you can buy at shops and up to the highest sell value are considered useful.",
+                "The highest sell value Headgear will be considered as Progression."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "bodyarmors": {
+            "description": [
+                "If enabled, adds one of each of the various body armors into the pool of items.",
+                "Most body armors are considered as filler items",
+                "The highest tier body armors you can buy at shops and up to the highest sell value are considered useful.",
+                "The highest sell value Body Armor will be considered as Progression."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "consumables": {
+            "description": [
+                "If enabled, adds one of each consumable into the pool of items.",
+                "Most consumables are considered as filler items.",
+                "Some of the consumables are considered as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "nuts": {
+            "description": [
+                "If enabled, adds one of each nut into the pool of items.",
+                "The base nuts are considered as filler items.",
+                "(M) Nuts are considered as useful items.",
+                "(L) Nuts are considered as progression items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "sellables": {
+            "description": [
+                "If enabled, adds one of each sellable item into the pool of items.",
+                "Most sellables are considered as filler items.",
+                "Sellables that fetches a high to exorbitant prices if sold are treated as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "materials": {
+            "description": [
+                "If enabled, adds one of each material into the pool of items.",
+                "These are all considered as filler items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
         "expanded_chapters": {
             "description": [
                 "When enabled, each Traveler's Chapter includes a check for each story beat as seen in the journal."

@@ -98,6 +98,27 @@
     "Weapons - Staves": {
         "yaml_option": [ "weapons" ]
     },
+    "Armors - Shields": {
+        "yaml_option": [ "shields" ]
+    },
+    "Armors - Headgears": {
+        "yaml_option": [ "headgears" ]
+    },
+    "Armors - Body": {
+        "yaml_option": [ "bodyarmors" ]
+    },
+    "Items - Consumables": {
+        "yaml_option": [ "consumables" ]
+    },
+    "Items - Nuts": {
+        "yaml_option": [ "nuts" ]
+    },
+    "Items - Sellables": {
+        "yaml_option": [ "sellables" ]
+    },
+    "Items - Materials": {
+        "yaml_option": [ "materials" ]
+    },
     "Dungeon": {
         "yaml_option": [ "dungeons" ],
         "hidden": true

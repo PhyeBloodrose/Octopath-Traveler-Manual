@@ -3825,6 +3825,1638 @@
   },
   {
     "count": 1,
+    "name": "Buckler",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Round Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sturdy Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kite Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Plate Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Elusive Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Elemental Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spiked Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tower Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Adamantine Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gustav's Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Knight's Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Leviathan Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gargantuan Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Force Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Forbidden Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mikk and Makk's Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Battle-tested Shield",
+    "category": [
+        "Armors - Shields"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ordinary Hat",
+    "category": [
+        "Armors - Headgears"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Robe",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Leather Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Leather Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Traditional Dancer Garb",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Linen Robe",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wind Attire",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bronze Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bronze Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Peacebringer's Garb",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sturdy Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Black Attire",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fur Robe",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sturdy Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spiked Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Snowy Cape",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Charm Robe",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spiked Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Falcon Garb",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Obsidian Garb",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Grand Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Elemental Robe",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Grand Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Exotic Garb",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fur Coat",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rainbow Robe",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Elemental Heavy Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silent Cape",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Imperial Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Elemental Light Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Platinum Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Primeval Robe",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Imperial Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Vendetta Coat",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Platinum Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Robe of the Dragon Princess",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ardante Attire",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Princess's Coat",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "High House's Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Confessional Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sorcerer's Robe",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ethereal Dancer Garb",
+    "category": [
+        "Armors - Body"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dragon's Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dragonscale Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Robe of the Flame",
+    "category": [
+        "Armors - Body"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Crystal Vest",
+    "category": [
+        "Armors - Body"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Crystal Armor",
+    "category": [
+        "Armors - Body"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Healing Grape",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Healing Grape (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Healing Grape Bunch",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Inspiriting Plum",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Inspiriting Plum (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Inspiriting Plum Basket",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Energizing Pomegranate",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Energizing Pomegranate (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Energizing Pomegranate (L)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Refreshing Jam",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Revitalizing Jam",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Olive of Life",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Olive of Life (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Olive of Life (L)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Herb of Healing",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Herb of Clamor",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Herb of Light",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Herb of Clarity",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Herb of Awakening",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Herb of Valor",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Herb of Revival",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Soulstone",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Soulstone (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Soulstone (L)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Soulstone",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Soulstone (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Soulstone (L)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Thunder Soulstone",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Thunder Soulstone (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Thunder Soulstone (L)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wind Soulstone",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wind Soulstone (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wind Soulstone (L)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Light Soulstone",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Light Soulstone (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Light Soulstone (L)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow Soulstone",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow Soulstone (M)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow Soulstone (L)",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Candy",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tree Nut",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poysenberry",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pseudo Cider",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Red Apple",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bottled Breath",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Monster Perfume",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ali's Bread",
+    "category": [
+        "Items - Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Joshua's Poem",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Herb-of-grace Potion",
+    "category": [
+        "Items - Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Nourishing Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Nourishing Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Nourishing Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Invigorating Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Invigorating Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Invigorating Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fortifying Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fortifying Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fortifying Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tough Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tough Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tough Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Magic Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magic Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Magic Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Resistant Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Resistant Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Resistant Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sharp Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sharp Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sharp Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Slippery Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Slippery Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Slippery Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Critical Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Critical Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Critical Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Light Nut",
+    "category": [
+        "Items - Nuts"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Light Nut (M)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Light Nut (L)",
+    "category": [
+        "Items - Nuts"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bone",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dirty Ball of Cloth",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fish Tooth",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Glass Marble",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mysterious Seed",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Scrap of Rope",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Weathered Boots",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Necklace",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Handkerchief",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hip Flask",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mysterious Ore",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Empty Coin Pouch",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Feather Duster",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Portrait with a Kiss",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pseudo Gold Ore",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Glossy Gold Coin",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cloth Map",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rusty Cup",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Stuffed Toy",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tagged Collar",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hairbrush",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Large Feather",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Small Cup",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Coin Pouch",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Copper Lantern",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Clock",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Odds and Ends",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dubious Gold Ore",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Introduction to Adventuring",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Old Coin",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy Coin Pouch",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Copper-filled Pouch",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rare Stone",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fool's Gold Ore",
+    "category": [
+        "Items - Sellables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Timepiece",
+    "category": [
+        "Items - Sellables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Silver-filled Pouch",
+    "category": [
+        "Items - Sellables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Curious Antique",
+    "category": [
+        "Items - Sellables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dazzling Artwork",
+    "category": [
+        "Items - Sellables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cat's Eye",
+    "category": [
+        "Items - Sellables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Commemorative Coin",
+    "category": [
+        "Items - Sellables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Soothing Seed",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Soothing Dust",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Purifying Seed",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Purifying Dust",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Injurious Seed",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Injurious Dust",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ruinous Seed",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ruinous Dust",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Noxroot",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sleepweed",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Addlewort",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Essence of Grape",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Essence of Plum",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Essence of Pomegranate",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Olive Bloom",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Curious Bloom",
+    "category": [
+        "Items - Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
     "name": "Proof of Victory - Defeated Galdera",
     "category": [
         "Proof of Victory",
