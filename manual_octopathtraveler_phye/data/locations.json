@@ -1048,6 +1048,377 @@
     "requires": ""
   },
   {
+    "name": "Moonstruck Coast Chest 1 - Healing Grape (M) x1",
+    "region": "Coastlands Tier 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Moonstruck Coast Chest 2 - Copper-filled Pouch x1",
+    "region": "Coastlands Tier 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Moonstruck Coast Chest 3 - Articulate Stone x1",
+    "region": "Coastlands Tier 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Moonstruck Coast Chest 4 - Inspiriting Plum x1",
+    "region": "Coastlands Tier 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "West Goldshore Coast Chest 1 - Energizing Pomegranate x1",
+    "region": "Coastlands Tier 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "West Goldshore Coast Chest 2 - Bottle of Blinding Dust x1",
+    "region": "Coastlands Tier 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "West Goldshore Coast Chest 3 - Herb of Valor x1",
+    "region": "Coastlands Tier 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "West Goldshore Coast Chest 4 - Thunder Soulstone (M) x1",
+    "region": "Coastlands Tier 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Captains' Bane Chest 1 - Olive of Life (M) x1",
+    "region": "Captains' Bane",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Captains' Bane Chest 2 - Healing Grape Bunch x1",
+    "region": "Captains' Bane",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Captains' Bane Chest 3 - Energizing Pomegranate (L) x1",
+    "region": "Captains' Bane",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Captains' Bane Chest 4 - Refreshing Jam x1",
+    "region": "Captains' Bane",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Captains' Bane Chest 5 - Articulate Stone x1",
+    "region": "Captains' Bane",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Captains' Bane Chest 6 - Hedgehog Spear x1",
+    "region": "Captains' Bane",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Captains' Bane - Defeat Leviathan",
+    "region": "Captains' Bane",
+    "category": [
+        "Dungeons - Coastlands",
+        "SideStory",
+        "Dungeon"
+    ],
+    "requires": "|Goldshore| AND |Purchase_Steal|"
+  },
+  {
+    "name": "Goldshore Chest 1 - Inspiriting Plum x1",
+    "region": "Goldshore",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goldshore Chest 2 - Thunder Soulstone (M) x1",
+    "region": "Goldshore",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goldshore Chest 3 - Olive of Life x1",
+    "region": "Goldshore",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goldshore Manor District Chest 1 - $4500",
+    "region": "Goldshore",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goldshore Manor District Chest 2 - Herb of Clamor x1",
+    "region": "Goldshore",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goldshore Manor District Chest 3 - Energizing Pomegranate (M) x1",
+    "region": "Goldshore",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goldshore Cathedral Chest 1 - Olive of Life x1",
+    "region": "Goldshore",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goldshore Cathedral Chest 2 - Herb of Light x1",
+    "region": "Goldshore",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goldshore Cathedral Chest 3 - Inspiriting Plum Basket x1",
+    "region": "Goldshore",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Goldshore Hidden Item 1 - Thunder Soulstone (L) x1",
+    "region": "Goldshore",
+    "category": [
+        "Hidden Items - Goldshore",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Goldshore Hidden Item 2 - Copper-filled Pouch x1",
+    "region": "Goldshore",
+    "category": [
+        "Hidden Items - Goldshore",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Goldshore Hidden Item 3 - Healing Grape Bunch x1",
+    "region": "Goldshore",
+    "category": [
+        "Hidden Items - Goldshore",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Goldshore Manor District Hidden Item 1 - Odds and Ends x1",
+    "region": "Goldshore",
+    "category": [
+        "Hidden Items - Goldshore",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|",
+    "hint_entrance": "The Hidden Item can be found outside the tavern."
+  },
+  {
+    "name": "Goldshore Manor District Hidden Item 1 - Healing Grape (M) x1",
+    "region": "Goldshore",
+    "category": [
+        "Hidden Items - Goldshore",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "Goldshore Manor District Hidden Item 2 - Silver Axe x1",
+    "region": "Goldshore",
+    "category": [
+        "Hidden Items - Goldshore",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Goldshore Manor District Hidden Item 3 - Wind Soulstone (L) x1",
+    "region": "Goldshore",
+    "category": [
+        "Hidden Items - Goldshore",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Goldshore Cathedral Hidden Item - Energizing Pomegranate (M) x1",
+    "region": "Goldshore",
+    "category": [
+        "Hidden Items - Goldshore",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Road to the Caves of Azure Chest 1 - Heavy Coin Pouch x1",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to the Caves of Azure Chest 2 - Energizing Pomegranate x1",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to the Caves of Azure Chest 3 - Purifying Seed x1",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Azure Chest 1 - Falcon Garb x1",
+    "region": "Caves of Azure",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Caves of Azure Chest 2 - Spiked Armor x1",
+    "region": "Caves of Azure",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Caves of Azure Chest 3 - Purifying Dust x1",
+    "region": "Caves of Azure",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Azure Chest 4 - Ruinous Dust x1",
+    "region": "Caves of Azure",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Azure - Defeat Vanessa",
+    "region": "Caves of Azure",
+    "category": [
+        "Dungeons - Coastlands"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Untouched Sanctum Chest 1 - Inspiriting Plum x1",
     "region": "Untouched Sanctum",
     "category": [
@@ -4029,7 +4400,7 @@
         "SideStory",
         "Dungeon"
     ],
-    "requires": "|Purchase_Steal| AND |Captains' Bain|"
+    "requires": "|Purchase_Steal| AND |Captains' Bane|"
   },
   {
     "name": "Goldshore Side Story - In Search of Father (II)",
@@ -6215,7 +6586,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-1 - Keep Your Coin",
+    "name": "Alfyn's Journal - I-1 - Keep Your Coin",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6224,7 +6595,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-2 - Before Mother's Grave",
+    "name": "Alfyn's Journal - I-2 - Before Mother's Grave",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6233,7 +6604,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-3 - A Grave Wound",
+    "name": "Alfyn's Journal - I-3 - A Grave Wound",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6242,7 +6613,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-4 - In Search of Answers",
+    "name": "Alfyn's Journal - I-4 - In Search of Answers",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6251,7 +6622,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-5 - Diagnosing the Disease",
+    "name": "Alfyn's Journal - I-5 - Diagnosing the Disease",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6260,7 +6631,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-6 - Leave It to Alfyn",
+    "name": "Alfyn's Journal - I-6 - Leave It to Alfyn",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6269,7 +6640,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-7 - The Blotted Viper",
+    "name": "Alfyn's Journal - I-7 - The Blotted Viper",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6278,7 +6649,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-8 - The Beast Falls",
+    "name": "Alfyn's Journal - I-8 - The Beast Falls",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6287,7 +6658,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-9 - Zeph's Anxiety",
+    "name": "Alfyn's Journal - I-9 - Zeph's Anxiety",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6296,7 +6667,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-10 - Alfyn Returns",
+    "name": "Alfyn's Journal - I-10 - Alfyn Returns",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6305,7 +6676,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-11 - A Restless Heart",
+    "name": "Alfyn's Journal - I-11 - A Restless Heart",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6314,7 +6685,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-12 - That Which Truly Matters",
+    "name": "Alfyn's Journal - I-12 - That Which Truly Matters",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6323,7 +6694,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-13 - The Traveling Apothecary",
+    "name": "Alfyn's Journal - I-13 - The Traveling Apothecary",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6332,7 +6703,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-14 - Zeph's Encouragement",
+    "name": "Alfyn's Journal - I-14 - Zeph's Encouragement",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6341,7 +6712,7 @@
     "requires": ""
   },
   {
-    "name": "Alfyn's Journal - 1-15 - Setting Out",
+    "name": "Alfyn's Journal - I-15 - Setting Out",
     "region": "Alfyn - Chapter 1",
     "category": [
         "Story Progression - Alfyn",
@@ -6355,6 +6726,114 @@
     "category": [
         "Story Progression - Alfyn",
         "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-1 - Rumor About Town",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-2 - A Fellow Apothecary",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-3 - Inquiring About Town",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-4 - Vanessa, Healer of the Sick",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-5 - Seashells by the Seashore",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-6 - A Vile Epidemic",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-7 - A Mother's Prayer",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-8 - The Truth Comes to Light",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-9 - Vanessa, the False Apothecary",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-10 - Cutting off Her Supply",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-11 - A True Apothecary",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Alfyn's Journal - II-12 - Journeying On",
+    "region": "Alfyn - Chapter 2",
+    "category": [
+        "Story Progression - Alfyn",
+        "Story"
     ],
     "requires": ""
   },

@@ -224,7 +224,8 @@
   },
   "Alfyn - Chapter 2": {
     "connects_to": [
-        "Alfyn - Chapter 3"
+        "Alfyn - Chapter 3",
+        "Caves of Azure"
     ],
     "requires": "(|Alfyn| OR (|Alfyn (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Alfyn Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Goldshore|"
   },
@@ -477,7 +478,7 @@
     "connects_to": [
         "Shrine of the Trader",
         "Coastlands Tier 3",
-        "Captains' Bain",
+        "Captains' Bane",
         "Goldshore"
     ],
     "requires": "|Coastlands Map Piece:2| OR |Coastlands Tier 2 Map|"
@@ -492,9 +493,13 @@
     "connects_to": [],
     "requires": "|Goldshore Pass|"
   },
-  "Captains' Bain": {
+  "Captains' Bane": {
     "connects_to": [],
-    "requires": "|Captains' Bain Dungeon Map| AND |Chapter 3|"
+    "requires": "|Captains' Bane Dungeon Map| AND |Chapter 3|"
+  },
+  "Caves of Azure": {
+    "connects_to": [],
+    "requires": ""
   },
   "Coastlands Tier 3": {
     "connects_to": [
