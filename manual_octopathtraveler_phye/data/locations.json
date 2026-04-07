@@ -506,7 +506,337 @@
     "requires": "|Hoarfrost Grotto| AND |Scrutinize_Inquire|"
   },
   {
-    "name": "Atlasdam Palace Chest 1 - Healing Grapes x1",
+    "name": "Western Stillsnow Wilds Chest 1 - Herb of Revival x1",
+    "region": "Frostlands Tier 2",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Stillsnow Wilds Chest 2 - Ice Soulstone (M) x1",
+    "region": "Frostlands Tier 2",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Stillsnow Wilds Chest 3 - Healing Grape (M) x1",
+    "region": "Frostlands Tier 2",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Stillsnow Wilds Chest 4 - Energizing Pomegranate (M) x1",
+    "region": "Frostlands Tier 2",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tomb of the Imperator Chest 1 - Wakeful Stone x1",
+    "region": "Tomb of the Imperator",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Tomb of the Imperator Chest 2 - Olive of Life (M) x1",
+    "region": "Tomb of the Imperator",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tomb of the Imperator Chest 3 - Healing Grape Bunch x1",
+    "region": "Tomb of the Imperator",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tomb of the Imperator Chest 4 - Inspiriting Plum (M) x1",
+    "region": "Tomb of the Imperator",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tomb of the Imperator Chest 5 - Refreshing Jam x1",
+    "region": "Tomb of the Imperator",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tomb of the Imperator Chest 6 - Silver-filled Pouch x1",
+    "region": "Tomb of the Imperator",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tomb of the Imperator Chest 7 - Gaolbreaker x1",
+    "region": "Tomb of the Imperator",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tomb of the Imperator - Defeat Behemoth",
+    "region": "Tomb of the Imperator",
+    "category": [
+        "Dungeons - Frostlands",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Stillsnow Chest 1 - Olive of Life x1",
+    "region": "Stillsnow",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Stillsnow Chest 2 - Shadow Soulstone (M) x1",
+    "region": "Stillsnow",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Stillsnow Chest 3 - Inspiriting Plum x1",
+    "region": "Stillsnow",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Stillsnow Chest 4 - Healing Grape (M) x1",
+    "region": "Stillsnow",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Stillsnow Chest 5 - Swordbreaker x1",
+    "region": "Stillsnow",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": "|Challenge_Provoke|"
+  },
+  {
+    "name": "Stillsnow Hidden Item 1 - Refreshing Jam x1",
+    "region": "Stillsnow",
+    "category": [
+        "Hidden Items - Stillsnow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Stillsnow Hidden Item 2 - Ice Soulstone (M) x1",
+    "region": "Stillsnow",
+    "category": [
+        "Hidden Items - Stillsnow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Stillsnow Hidden Item 3 - Silver-filled Pouch x1",
+    "region": "Stillsnow",
+    "category": [
+        "Hidden Items - Stillsnow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Stillsnow Hidden Item 4 - Soul Bow x1",
+    "region": "Stillsnow",
+    "category": [
+        "Hidden Items - Stillsnow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Stillsnow Hidden Item 5 - Olive Bloom x1",
+    "region": "Stillsnow",
+    "category": [
+        "Hidden Items - Stillsnow",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "Trail to the Whitewood Chest 1 - Olive of Life (M) x1",
+    "region": "Stillsnow",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": "|Chapter 3|"
+  },
+  {
+    "name": "Trail to the Whitewood Chest 2 - Inspiriting Plum Basket x1",
+    "region": "Stillsnow",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": "|Chapter 3|"
+  },
+  {
+    "name": "Road to the Obsidian Parlor Chest 1 - Olive of Life x1",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to the Obsidian Parlor Chest 2 - Dark Amulet x1",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Road to the Obsidian Parlor Chest 3 - Ice Soulstone (M) x1",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Chests - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Secret Path Chest 1 - Olive of Life x1",
+    "region": "Secret Path",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Secret Path Chest 2 - Olive of Life x1",
+    "region": "Secret Path",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Secret Path Chest 3 - Olive of Life x1",
+    "region": "Secret Path",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Secret Path Chest 4 - Olive of Life x1",
+    "region": "Secret Path",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Secret Path Chest 5 - Olive of Life x1",
+    "region": "Secret Path",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Secret Path Chest 6 - Olive of Life x1",
+    "region": "Secret Path",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Secret Path Chest 7 - Olive of Life x1",
+    "region": "Secret Path",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Secret Path Chest 8 - Olive of Life x1",
+    "region": "Secret Path",
+    "category": [
+        "Dungeons - Frostlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Obsidian Parlor - Defeat Rufus",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Dungeons - Frostlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Atlasdam Palace Chest 1 - Healing Grape x1",
     "region": "Atlasdam",
     "category": [
         "Chests - Flatlands",
@@ -5606,7 +5936,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-1 - The Mark of the Crow",
+    "name": "Primrose's Journal - I-1 - The Mark of the Crow",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5615,7 +5945,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-2 - A Life of Indignity",
+    "name": "Primrose's Journal - I-2 - A Life of Indignity",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5624,7 +5954,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-3 - A Vow of Vengeance",
+    "name": "Primrose's Journal - I-3 - A Vow of Vengeance",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5633,7 +5963,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-4 - Behind the Scenes",
+    "name": "Primrose's Journal - I-4 - Behind the Scenes",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5642,7 +5972,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-5 - Father and Daughter",
+    "name": "Primrose's Journal - I-5 - Father and Daughter",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5651,7 +5981,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-6 - A Harsh Lesson",
+    "name": "Primrose's Journal - I-6 - A Harsh Lesson",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5660,7 +5990,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-7 - Yusufa's Kindness",
+    "name": "Primrose's Journal - I-7 - Yusufa's Kindness",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5669,7 +5999,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-8 - In Search of Custom",
+    "name": "Primrose's Journal - I-8 - In Search of Custom",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5678,7 +6008,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-9 - Doing Her Job",
+    "name": "Primrose's Journal - I-9 - Doing Her Job",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5687,7 +6017,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-10 - The Left-hand Man",
+    "name": "Primrose's Journal - I-10 - The Left-hand Man",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5696,7 +6026,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-11 - A Meeting in the Shadows",
+    "name": "Primrose's Journal - I-11 - A Meeting in the Shadows",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5705,7 +6035,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-12 - Fight for Freedom",
+    "name": "Primrose's Journal - I-12 - Fight for Freedom",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5714,7 +6044,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-13 - Helgenish's Last Dance",
+    "name": "Primrose's Journal - I-13 - Helgenish's Last Dance",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5723,7 +6053,7 @@
     "requires": ""
   },
   {
-    "name": "Primrose's Journal - 1-14 - Setting Out",
+    "name": "Primrose's Journal - I-14 - Setting Out",
     "region": "Primrose - Chapter 1",
     "category": [
         "Story Progression - Primrose",
@@ -5737,6 +6067,123 @@
     "category": [
         "Story Progression - Primrose",
         "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-1 - Searching for Clues",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-2 - At the Tavern",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-3 - Reunion with Arianna",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-4 - Town of Hidden Pleasures",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-5 - A Stubborn Opponent",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-6 - Convincing the Coachman",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-7 - House Words",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-8 - A Carriage Ride",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-9 - The Obsidian Parlor",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-10 - The Lap of Luxury",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-11 - Rufus, the Left-hand Man",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-12 - Tidings from Home",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Primrose's Journal - II-13 - Journeying On",
+    "region": "Primrose - Chapter 2",
+    "category": [
+        "Story Progression - Primrose",
+        "Story"
     ],
     "requires": ""
   },
