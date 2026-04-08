@@ -282,7 +282,8 @@
   },
   "H'aanit - Chapter 2": {
     "connects_to": [
-        "H'aanit - Chapter 3"
+        "H'aanit - Chapter 3",
+        "The Spectrewood"
     ],
     "requires": "(|H'aanit the Hunter| OR (|H'aanit (Protagonist)| AND {YamlEnabled(solo_run)})) AND |H'aanit Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Stonegard|"
   },
@@ -571,6 +572,10 @@
   "Tomb of Kings": {
     "connects_to": [],
     "requires": "|Tomb of Kings Dungeon Map| AND |Chapter 2|"
+  },
+  "The Spectrewood": {
+    "connects_to": [],
+    "requires": ""
   },
   "Highlands Tier 3": {
     "connects_to": [
