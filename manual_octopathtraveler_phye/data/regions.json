@@ -253,7 +253,8 @@
   },
   "Therion - Chapter 2": {
     "connects_to": [
-        "Therion - Chapter 3"
+        "Therion - Chapter 3",
+        "Orlick's Manse"
     ],
     "requires": "(|Therion the Thief| OR (|Therion (Protagonist)| AND {YamlEnabled(solo_run)})) AND |Therion Chapter:2| AND (|@Traveler:2| OR {YamlEnabled(solo_run)}) AND |Noblecourt|"
   },
@@ -426,6 +427,10 @@
   "The Hollow Throne": {
     "connects_to": [],
     "requires": "|The Hollow Throne Dungeon Map| AND |Chapter 2|"
+  },
+  "Orlick's Manse": {
+    "connects_to": [],
+    "requires": ""
   },
   "Flatlands Tier 3": {
     "connects_to": [

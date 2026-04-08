@@ -958,6 +958,328 @@
     "requires": ""
   },
   {
+    "name": "Western Noblecourt Flats Chest 1 - Wind Amulet x1",
+    "region": "Flatlands Tier 2",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Noblecourt Flats Chest 2 - Healing Grape (M) x1",
+    "region": "Flatlands Tier 2",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Noblecourt Flats Chest 3 - Light Soulstone (M) x1",
+    "region": "Flatlands Tier 2",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Noblecourt Flats Chest 4 - $5000",
+    "region": "Flatlands Tier 2",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Western Noblecourt Flats Chest 5 - Energizing Pomegranate x1",
+    "region": "Flatlands Tier 2",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Hollow Throne Chest 1 - Antidote Stone x1",
+    "region": "The Hollow Throne",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Hollow Throne Chest 2 - Energizing Pomegranate (L) x1",
+    "region": "The Hollow Throne",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Hollow Throne Chest 3 - Revitalizing Jam x1",
+    "region": "The Hollow Throne",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Hollow Throne Chest 4 - $4000",
+    "region": "The Hollow Throne",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Hollow Throne Chest 5 - Argent Axe x1",
+    "region": "The Hollow Throne",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "The Hollow Throne Chest 6 - Olive of Life (M) x1",
+    "region": "The Hollow Throne",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Hollow Throne Chest 7 - Healing Grape (M) x1",
+    "region": "The Hollow Throne",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Hollow Throne Chest 8 - Moonblade x1",
+    "region": "The Hollow Throne",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Hollow Throne - Defeat the Throne Guardian",
+    "region": "The Hollow Throne",
+    "category": [
+        "Dungeons - Flatlands",
+        "Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Noblecourt Chest 1 - $10000",
+    "region": "Noblecourt",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief| AND |Challenge_Provoke|"
+  },
+  {
+    "name": "Noblecourt Chest 2 - Herb of Clamor x1",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Noblecourt Chest 1 - Olive of Life x1",
+    "region": "Noblecourt",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Noblecourt Chest 2 - Herb of Light x1",
+    "region": "Noblecourt",
+    "category": [
+        "Chests - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Noblecourt Hidden Item 1 - Thunder Soulstone (L) x1",
+    "region": "Noblecourt",
+    "category": [
+        "Hidden Items - Flatlands",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Noblecourt Hidden Item 2 - Curious Antique x1",
+    "region": "Noblecourt",
+    "category": [
+        "Hidden Items - Flatlands",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Noblecourt Hidden Item 3 - Heavy Coin Pouch x1",
+    "region": "Noblecourt",
+    "category": [
+        "Hidden Items - Flatlands",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "Noblecourt Hidden Item 4 - Energizing Pomegranate (M) x1",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Hidden Items - Flatlands",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "East Noblecourt Hidden Item 1 - Steel Axe x1",
+    "region": "Noblecourt",
+    "category": [
+        "Hidden Items - Flatlands",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "East Noblecourt Hidden Item 2 - Inspiriting Plum (M) x1",
+    "region": "Noblecourt",
+    "category": [
+        "Hidden Items - Flatlands",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "East Noblecourt Hidden Item 3 - Copper-filled Pouch x1",
+    "region": "Noblecourt",
+    "category": [
+        "Hidden Items - Flatlands",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "East Noblecourt Hidden Item 4 - Introduction to Adventuring x1",
+    "region": "Noblecourt",
+    "category": [
+        "Hidden Items - Flatlands",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire|"
+  },
+  {
+    "name": "East Noblecourt Hidden Item 5 - Rare Stone x1",
+    "region": "Primrose - Chapter 3",
+    "category": [
+        "Hidden Items - Flatlands",
+        "HiddenItem"
+    ],
+    "requires": "|Scrutinize_Inquire| AND |Theracio|"
+  },
+  {
+    "name": "Orlick's Manse Chest 1 - Healing Grape Bunch x1",
+    "region": "Orlick's Manse",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Orlick's Manse Chest 2 - Light Soulstone (M) x1",
+    "region": "Orlick's Manse",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Orlick's Manse Chest 3 - $3000",
+    "region": "Orlick's Manse",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Orlick's Manse Chest 4 - Olive of Life x1",
+    "region": "Orlick's Manse",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Orlick's Manse Chest 5 - Inspiriting Plum x1",
+    "region": "Orlick's Manse",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Orlick's Manse Chest 6 - Lightning Amulet x1",
+    "region": "Orlick's Manse",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Orlick's Manse Chest 7 - Refreshing Jam x1",
+    "region": "Orlick's Manse",
+    "category": [
+        "Dungeons - Flatlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Orlick's Manse - Defeat Orlick",
+    "region": "Orlick's Manse",
+    "category": [
+        "Dungeons - Flatlands"
+    ],
+    "requires": ""
+  },
+  {
     "name": "North Rippletide Coast Chest 1 - Fortifying Nut x1",
     "region": "Coastlands Tier 1",
     "category": [
@@ -6865,7 +7187,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-1 - Sweet Memories",
+    "name": "Therion's Journal - I-1 - Sweet Memories",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6874,7 +7196,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-2 - Darius",
+    "name": "Therion's Journal - I-2 - Darius",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6883,7 +7205,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-3 - Rumors of Ravus Manor",
+    "name": "Therion's Journal - I-3 - Rumors of Ravus Manor",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6892,7 +7214,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-4 - The Manor",
+    "name": "Therion's Journal - I-4 - The Manor",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6901,7 +7223,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-5 - Letter of Introduction",
+    "name": "Therion's Journal - I-5 - Letter of Introduction",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6910,7 +7232,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-6 - Among Thieves",
+    "name": "Therion's Journal - I-6 - Among Thieves",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6919,7 +7241,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-7 - Partners in Crime",
+    "name": "Therion's Journal - I-7 - Partners in Crime",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6928,7 +7250,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-8 - Like a Thief",
+    "name": "Therion's Journal - I-8 - Like a Thief",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6937,7 +7259,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-9 - The Direct Approach",
+    "name": "Therion's Journal - I-9 - The Direct Approach",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6946,7 +7268,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-10 - Heathcote",
+    "name": "Therion's Journal - I-10 - Heathcote",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6955,7 +7277,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-11 - The Fool's Bangle",
+    "name": "Therion's Journal - I-11 - The Fool's Bangle",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6964,7 +7286,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-12 - A Tale for the Tavern",
+    "name": "Therion's Journal - I-12 - A Tale for the Tavern",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6973,7 +7295,7 @@
     "requires": ""
   },
   {
-    "name": "Therion's Journal - 1-13 - It Takes a Thief",
+    "name": "Therion's Journal - I-13 - It Takes a Thief",
     "region": "Therion - Chapter 1",
     "category": [
         "Story Progression - Therion",
@@ -6987,6 +7309,132 @@
     "category": [
         "Story Progression - Therion",
         "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-1 - Search for the Ruby Dragonstone",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-2 - Orlick's Lab",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-3 - Tavern Talk",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-4 - Barham",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-5 - Oasis Water",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-6 - Wyvern Scale",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-7 - Crystal Ore",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-8 - Crystal Key",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-9 - Friends, Brothers, Partners",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-10 - The Password",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-11 - Locked Door",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-12 - Orlick",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-13 - The Spoils of Victory",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Therion's Journal - II-14 - The Next Stone",
+    "region": "Therion - Chapter 2",
+    "category": [
+        "Story Progression - Therion",
+        "Story"
     ],
     "requires": ""
   },
