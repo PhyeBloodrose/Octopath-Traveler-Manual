@@ -286,7 +286,7 @@
     "name": "Flamesgrace Hidden Item 1 - Inspiriting Plum (M) x1",
     "region": "Flamesgrace",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -295,7 +295,7 @@
     "name": "Flamesgrace Hidden Item 2 - Addlewort x1",
     "region": "Flamesgrace",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -304,7 +304,7 @@
     "name": "Flamesgrace Hidden Item 3 - Shadow Soulstone x1",
     "region": "Flamesgrace",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -313,7 +313,7 @@
     "name": "Flamesgrace Hidden Item 4 - Injurious Seed x1",
     "region": "Flamesgrace",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -322,7 +322,7 @@
     "name": "Flamesgrace Cathedral Entrance Hidden Item 1 - Ice Soulstone x1",
     "region": "Flamesgrace",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -331,7 +331,7 @@
     "name": "Flamesgrace Cathedral Entrance Hidden Item 2 - Empowering Earring x1",
     "region": "Flamesgrace",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -340,7 +340,7 @@
     "name": "Flamesgrace Cathedral Hidden Item 1 - Heavy Blade x1",
     "region": "Flamesgrace",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -349,7 +349,7 @@
     "name": "Flamesgrace Cathedral Hidden Item 2 - Copper-filled Pouch x1",
     "region": "Ophilia - Chapter 1",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -358,7 +358,7 @@
     "name": "Flamesgrace Cathedral Hidden Item 3 - Fortifying Nut x1",
     "region": "Ophilia - Chapter 1",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -367,7 +367,7 @@
     "name": "Flamesgrace Cathedral Hidden Item 4 - Olive of Life x1",
     "region": "Flamesgrace",
     "category": [
-        "Hidden Items - Flamesgrace",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -669,7 +669,7 @@
     "name": "Stillsnow Hidden Item 1 - Refreshing Jam x1",
     "region": "Stillsnow",
     "category": [
-        "Hidden Items - Stillsnow",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -678,7 +678,7 @@
     "name": "Stillsnow Hidden Item 2 - Ice Soulstone (M) x1",
     "region": "Stillsnow",
     "category": [
-        "Hidden Items - Stillsnow",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -687,7 +687,7 @@
     "name": "Stillsnow Hidden Item 3 - Silver-filled Pouch x1",
     "region": "Stillsnow",
     "category": [
-        "Hidden Items - Stillsnow",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -696,7 +696,7 @@
     "name": "Stillsnow Hidden Item 4 - Soul Bow x1",
     "region": "Stillsnow",
     "category": [
-        "Hidden Items - Stillsnow",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -705,7 +705,7 @@
     "name": "Stillsnow Hidden Item 5 - Olive Bloom x1",
     "region": "Stillsnow",
     "category": [
-        "Hidden Items - Stillsnow",
+        "Hidden Items - Frostlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
@@ -1596,7 +1596,7 @@
     "name": "Goldshore Hidden Item 1 - Thunder Soulstone (L) x1",
     "region": "Goldshore",
     "category": [
-        "Hidden Items - Goldshore",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -1605,7 +1605,7 @@
     "name": "Goldshore Hidden Item 2 - Copper-filled Pouch x1",
     "region": "Goldshore",
     "category": [
-        "Hidden Items - Goldshore",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -1614,7 +1614,7 @@
     "name": "Goldshore Hidden Item 3 - Healing Grape Bunch x1",
     "region": "Goldshore",
     "category": [
-        "Hidden Items - Goldshore",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -1623,7 +1623,7 @@
     "name": "Goldshore Manor District Hidden Item 1 - Odds and Ends x1",
     "region": "Goldshore",
     "category": [
-        "Hidden Items - Goldshore",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|",
@@ -1633,7 +1633,7 @@
     "name": "Goldshore Manor District Hidden Item 1 - Healing Grape (M) x1",
     "region": "Goldshore",
     "category": [
-        "Hidden Items - Goldshore",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
@@ -1642,7 +1642,7 @@
     "name": "Goldshore Manor District Hidden Item 2 - Silver Axe x1",
     "region": "Goldshore",
     "category": [
-        "Hidden Items - Goldshore",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -1651,7 +1651,7 @@
     "name": "Goldshore Manor District Hidden Item 3 - Wind Soulstone (L) x1",
     "region": "Goldshore",
     "category": [
-        "Hidden Items - Goldshore",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -1660,7 +1660,7 @@
     "name": "Goldshore Cathedral Hidden Item - Energizing Pomegranate (M) x1",
     "region": "Goldshore",
     "category": [
-        "Hidden Items - Goldshore",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -1956,7 +1956,7 @@
     "name": "Cobbleston Hidden Item 1 - Olive of Life x1",
     "region": "Cobbleston",
     "category": [
-        "Hidden Items - Cobbleston",
+        "Hidden Items - Highlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -1965,7 +1965,7 @@
     "name": "Cobbleston Hidden Item 2 - Candy x1",
     "region": "Olberic - Chapter 1",
     "category": [
-        "Hidden Items - Cobbleston",
+        "Hidden Items - Highlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -1974,7 +1974,7 @@
     "name": "Cobbleston Hidden Item 3 - War Lance x1",
     "region": "Cobbleston",
     "category": [
-        "Hidden Items - Cobbleston",
+        "Hidden Items - Highlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
@@ -1983,7 +1983,7 @@
     "name": "Cobbleston Hidden Item 4 - Arcane Bow x1",
     "region": "Cobbleston",
     "category": [
-        "Hidden Items - Cobbleston",
+        "Hidden Items - Highlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -1992,7 +1992,7 @@
     "name": "Cobbleston Hidden Item 5 - Purifying Seed x1",
     "region": "Cobbleston",
     "category": [
-        "Hidden Items - Cobbleston",
+        "Hidden Items - Highlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2036,6 +2036,15 @@
   {
     "name": "South Cobbleston Gap Chest 5 - Herb of Awakening x1",
     "region": "Highlands Tier 1",
+    "category": [
+        "Chests - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Stonegard Pass Chest 1 - Light Soulstone x1",
+    "region": "Highlands Tier 2",
     "category": [
         "Chests - Highlands",
         "Chests"
@@ -2168,7 +2177,7 @@
     "name": "Sunshade Hidden Item 1 - Silver-filled Pouch x1",
     "region": "Sunshade",
     "category": [
-        "Hidden Items - Sunshade",
+        "Hidden Items - Sunlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2177,7 +2186,7 @@
     "name": "Sunshade Hidden Item 2 - Healing Grape (M) x1",
     "region": "Sunshade",
     "category": [
-        "Hidden Items - Sunshade",
+        "Hidden Items - Sunlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2186,7 +2195,7 @@
     "name": "Sunshade Hidden Item 3 - Olive of Life (M) x1",
     "region": "Primrose - Chapter 1",
     "category": [
-        "Hidden Items - Sunshade",
+        "Hidden Items - Sunlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2195,7 +2204,7 @@
     "name": "Sunshade Tavern Hidden Item 1 - Nourishing Nut x1",
     "region": "Sunshade",
     "category": [
-        "Hidden Items - Sunshade",
+        "Hidden Items - Sunlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2204,7 +2213,7 @@
     "name": "Sunshade Tavern Hidden Item 2 - Arcane Glaive x1",
     "region": "Sunshade",
     "category": [
-        "Hidden Items - Sunshade",
+        "Hidden Items - Sunlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2587,7 +2596,7 @@
     "name": "Saintsbridge Hidden Item 1 - Inspiriting Plum x1",
     "region": "Saintsbridge",
     "category": [
-        "Hidden Items - Saintsbridge",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2596,7 +2605,7 @@
     "name": "Saintsbridge Hidden Item 2 - Refreshing Jam x1",
     "region": "Saintsbridge",
     "category": [
-        "Hidden Items - Saintsbridge",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|",
@@ -2606,7 +2615,7 @@
     "name": "Saintsbridge Hidden Item 3 - Odds and Ends x1",
     "region": "Saintsbridge",
     "category": [
-        "Hidden Items - Saintsbridge",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|",
@@ -2616,7 +2625,7 @@
     "name": "Saintsbridge Hidden Item 4 - Ice Soulstone (M) x1",
     "region": "Saintsbridge",
     "category": [
-        "Hidden Items - Saintsbridge",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2625,7 +2634,7 @@
     "name": "Saintsbridge: Upstream Hidden Item 1 - Healing Grape (M) x1",
     "region": "Saintsbridge",
     "category": [
-        "Hidden Items - Saintsbridge",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2634,7 +2643,7 @@
     "name": "Saintsbridge: Upstream Hidden Item 2 - $3000",
     "region": "Saintsbridge",
     "category": [
-        "Hidden Items - Saintsbridge",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2643,7 +2652,7 @@
     "name": "Saintsbridge Cathedral Hidden Item 1 - Inspiriting Plum (M) x1",
     "region": "Saintsbridge",
     "category": [
-        "Hidden Items - Saintsbridge",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2652,7 +2661,7 @@
     "name": "Saintsbridge Cathedral Hidden Item 2 - Copper-filled Pouch x1",
     "region": "Saintsbridge",
     "category": [
-        "Hidden Items - Saintsbridge",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2777,7 +2786,7 @@
     "name": "Clearbrook Hidden Item 1 - Essence of Pomegranate x1",
     "region": "Alfyn - Chapter 1",
     "category": [
-        "Hidden Items - Clearbrook",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2786,7 +2795,7 @@
     "name": "Clearbrook Hidden Item 2 - Silver Axe x1",
     "region": "Clearbrook",
     "category": [
-        "Hidden Items - Clearbrook",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2795,7 +2804,7 @@
     "name": "Clearbrook Hidden Item 3 - Resistant Nut x1",
     "region": "Alfyn - Chapter 1",
     "category": [
-        "Hidden Items - Clearbrook",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2804,7 +2813,7 @@
     "name": "Clearbrook Hidden Item 4 - Addlewort x1",
     "region": "Alfyn - Chapter 1",
     "category": [
-        "Hidden Items - Clearbrook",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -2813,16 +2822,16 @@
     "name": "Clearbrook Hidden Item 5 - Essence of Plum x1",
     "region": "Clearbrook",
     "category": [
-        "Hidden Items - Clearbrook",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
   },
   {
     "name": "West Clearbrook Traverse Hidden Item 1 - Giant Egg x1",
-    "region": "Clearbrook",
+    "region": "Riverlands Tier 1",
     "category": [
-        "Hidden Items - Clearbrook",
+        "Hidden Items - Riverlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire| AND |Therion the Thief|"
@@ -3037,7 +3046,7 @@
     "name": "Bolderfall Hidden Item 1 - Falcon Dagger x1",
     "region": "Bolderfall",
     "category": [
-        "Hidden Items - Bolderfall",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
@@ -3046,7 +3055,7 @@
     "name": "Ravus Manor Gate Hidden Item 1 - War Spear x1",
     "region": "Bolderfall",
     "category": [
-        "Hidden Items - Bolderfall",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3055,7 +3064,7 @@
     "name": "Ravus Manor Gate Hidden Item 2 - Dirty Ball of Cloth x1",
     "region": "Bolderfall",
     "category": [
-        "Hidden Items - Bolderfall",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3064,7 +3073,7 @@
     "name": "Ravus Manor Gate Hidden Item 3 - Weathered Boots x1",
     "region": "Bolderfall",
     "category": [
-        "Hidden Items - Bolderfall",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3073,7 +3082,7 @@
     "name": "Ravus Manor Gate Hidden Item 4 - Elusive Shield x1",
     "region": "Bolderfall",
     "category": [
-        "Hidden Items - Bolderfall",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3232,7 +3241,7 @@
     "name": "Quarrycrest Hidden Item 1 - Fire Soulstone (L) x1",
     "region": "Quarrycrest",
     "category": [
-        "Hidden Items - Quarrycrest",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke| AND |Chapter 3|"
@@ -3241,7 +3250,7 @@
     "name": "Quarrycrest Hidden Item 2 - Pseudo Gold Ore x1",
     "region": "Quarrycrest",
     "category": [
-        "Hidden Items - Quarrycrest",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3250,7 +3259,7 @@
     "name": "Quarrycrest Mines Hidden Item 1 - Refreshing Jam x1",
     "region": "Quarrycrest",
     "category": [
-        "Hidden Items - Quarrycrest",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3259,7 +3268,7 @@
     "name": "Quarrycrest Mines Hidden Item 2 - Olive of Life (M) x1",
     "region": "Quarrycrest",
     "category": [
-        "Hidden Items - Quarrycrest",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3268,7 +3277,7 @@
     "name": "Quarrycrest Mines Hidden Item 3 - Fool's Gold Ore x1",
     "region": "Quarrycrest",
     "category": [
-        "Hidden Items - Quarrycrest",
+        "Hidden Items - Cliftlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3526,7 +3535,7 @@
     "name": "Atlasdam Palace Hidden Item 1 - Healing Grape x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3535,7 +3544,7 @@
     "name": "Atlasdam Palace Hidden Item 2 - Buckler x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3544,7 +3553,7 @@
     "name": "Atlasdam Palace Hidden Item 3 - Olive of Life x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3553,7 +3562,7 @@
     "name": "Atlasdam Palace Hidden Item 4 - Small Cup x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3562,7 +3571,7 @@
     "name": "Atlasdam Palace Gate Hidden Item 1 - Odds and Ends x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3571,7 +3580,7 @@
     "name": "Atlasdam Palace Gate Hidden Item 2 - Light Soulstone x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3580,7 +3589,7 @@
     "name": "Atlasdam Palace Gate Hidden Item 3 - Inspiriting Plum (M) x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3589,7 +3598,7 @@
     "name": "Atlasdam Palace Gate Hidden Item 4 - Large Feather x1",
     "region": "Cyrus - Chapter 1",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3598,7 +3607,7 @@
     "name": "Atlasdam Hidden Item 1 - Empty Coin Pouch x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3607,7 +3616,7 @@
     "name": "Atlasdam Hidden Item 2 - Light Soulstone (M) x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3616,7 +3625,7 @@
     "name": "Atlasdam Hidden Item 3 - Nourishing Nut x1",
     "region": "Atlasdam",
     "category": [
-        "Hidden Items - Atlasdam",
+        "Hidden Items - Flatlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3625,7 +3634,7 @@
     "name": "Rippletide Hidden Item 1 - Healing Grape (M) x1",
     "region": "Rippletide",
     "category": [
-        "Hidden Items - Rippletide",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3634,7 +3643,7 @@
     "name": "Rippletide Hidden Item 2 - Articulate Stone x1",
     "region": "Rippletide",
     "category": [
-        "Hidden Items - Rippletide",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3643,7 +3652,7 @@
     "name": "Rippletide Hidden Item 3 - Essence of Grape x1",
     "region": "Rippletide",
     "category": [
-        "Hidden Items - Rippletide",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3652,7 +3661,7 @@
     "name": "Rippletide Hidden Item 4 - Thunder Soulstone (L) x1",
     "region": "Tressa - Chapter 1",
     "category": [
-        "Hidden Items - Rippletide",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3661,7 +3670,7 @@
     "name": "Rippletide Hidden Item 5 - Sleepweed x1",
     "region": "Tressa - Chapter 1",
     "category": [
-        "Hidden Items - Rippletide",
+        "Hidden Items - Coastlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3920,7 +3929,7 @@
     "name": "S'warkii Hidden Item 1 - $1000",
     "region": "S'warkii",
     "category": [
-        "Hidden Items - S'warkii",
+        "Hidden Items - Woodlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire| AND |Challenge_Provoke|"
@@ -3929,7 +3938,7 @@
     "name": "S'warkii Hidden Item 2 - Ice Soulstone x1",
     "region": "H'aanit - Chapter 1",
     "category": [
-        "Hidden Items - S'warkii",
+        "Hidden Items - Woodlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -3938,7 +3947,7 @@
     "name": "S'warkii Hidden Item 3 - Olive of Life x1",
     "region": "S'warkii",
     "category": [
-        "Hidden Items - S'warkii",
+        "Hidden Items - Woodlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -4157,7 +4166,7 @@
     "name": "Victors Hollow Hidden Item 1 - Refreshing Jam x1",
     "region": "Victors Hollow",
     "category": [
-        "Hidden Items - Victors Hollow",
+        "Hidden Items - Woodlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -4166,7 +4175,7 @@
     "name": "Victors Hollow Hidden Item 2 - Inspiriting Plum (M) x1",
     "region": "Victors Hollow",
     "category": [
-        "Hidden Items - Victors Hollow",
+        "Hidden Items - Woodlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -4175,7 +4184,7 @@
     "name": "Victors Hollow: Arena Gate Hidden Item 1 - Energizing Pomegranate (M) x1",
     "region": "Victors Hollow",
     "category": [
-        "Hidden Items - Victors Hollow",
+        "Hidden Items - Woodlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -4184,7 +4193,7 @@
     "name": "Victors Hollow: Arena Gate Hidden Item 2 - Olive of Life (M) x1",
     "region": "Victors Hollow",
     "category": [
-        "Hidden Items - Victors Hollow",
+        "Hidden Items - Woodlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -4193,7 +4202,7 @@
     "name": "Victors Hollow: Arena Gate Hidden Item 3 - Lightning Amulet x1",
     "region": "Victors Hollow",
     "category": [
-        "Hidden Items - Victors Hollow",
+        "Hidden Items - Woodlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"
@@ -4202,7 +4211,7 @@
     "name": "Victors Hollow: The Arena Hidden Item - Ice Soulstone (L) x1",
     "region": "Victors Hollow",
     "category": [
-        "Hidden Items - Victors Hollow",
+        "Hidden Items - Woodlands",
         "HiddenItem"
     ],
     "requires": "|Scrutinize_Inquire|"

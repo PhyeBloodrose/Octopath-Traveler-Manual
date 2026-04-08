@@ -8,7 +8,7 @@ You'll have to gather map pieces or maps to leave your starting town, and to ent
 These are randomized by default: Weapon Types, Element Types, Jobs, Travelers, Travel Chapters, Settlement Passes and Maps.
 
 ## Goal Options
-- Defeat anyone's Chapter 4
+- Complete anyone's Chapter 4
 - Defeat Galdera
 
 You can enable as little or as many goals as you wish. The goal button will only be able to be checked whenever you have achieved ALL victory conditions.
