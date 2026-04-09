@@ -83,7 +83,8 @@
   },
   "Ophilia - Chapter 3": {
     "connects_to": [
-        "Ophilia - Chapter 4"
+        "Ophilia - Chapter 4",
+        "Seaside Grotto"
     ],
     "requires": "|Ophilia Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Goldshore|"
   },
@@ -504,6 +505,10 @@
     "requires": "|Captains' Bane Dungeon Map| AND |Chapter 3|"
   },
   "Caves of Azure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Seaside Grotto": {
     "connects_to": [],
     "requires": ""
   },

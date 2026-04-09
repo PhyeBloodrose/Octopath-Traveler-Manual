@@ -1741,6 +1741,130 @@
     "requires": ""
   },
   {
+    "name": "Road to the Seaside Grotto Chest 1 - Thunder Soulstone (M) x1",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to the Seaside Grotto Chest 2 - Ice Amulet x1",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to the Seaside Grotto Chest 3 - Bottle of Poison Dust x1",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to the Seaside Grotto Chest 4 - Healing Grape Bunch x1",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Road to the Seaside Grotto Chest 5 - Herb of Awakening x1",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Chests - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Seaside Grotto Chest 1 - Inspiriting Plum Basket x1",
+    "region": "Seaside Grotto",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Seaside Grotto Chest 2 - Refreshing Jam x1",
+    "region": "Seaside Grotto",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Seaside Grotto Chest 3 - Grand Helm x1",
+    "region": "Seaside Grotto",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Seaside Grotto Chest 4 - Energizing Pomegranate (M) x1",
+    "region": "Seaside Grotto",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Seaside Grotto Chest 5 - Olive of Life x1",
+    "region": "Seaside Grotto",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Seaside Grotto Chest 6 - Inspiriting Plum (M) x1",
+    "region": "Seaside Grotto",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Seaside Grotto Chest 7 - Silver-filled Pouch x1",
+    "region": "Seaside Grotto",
+    "category": [
+        "Dungeons - Coastlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Seaside Grotto - Defeat the Mystery Man",
+    "region": "Seaside Grotto",
+    "category": [
+        "Dungeons - Coastlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Seaside Grotto - Defeat the Shady Figure",
+    "region": "Seaside Grotto",
+    "category": [
+        "Dungeons - Coastlands"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Untouched Sanctum Chest 1 - Inspiriting Plum x1",
     "region": "Untouched Sanctum",
     "category": [
@@ -4054,7 +4178,15 @@
     "requires": ""
   },
   {
-    "name": "Caves of Maiya - Defeat Makk and Mikk",
+    "name": "Caves of Maiya - Defeat Mikk",
+    "region": "Caves of Maiya",
+    "category": [
+        "Dungeons - Coastlands"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caves of Maiya - Defeat Makk",
     "region": "Caves of Maiya",
     "category": [
         "Dungeons - Coastlands"
@@ -5032,7 +5164,7 @@
   },
   {
     "name": "Goldshore Side Story - In Search of Father (II)",
-    "region": "Goldshore",
+    "region": "Coastlands Tier 2",
     "category": [
         "Side Stories - Coastlands",
         "SideStory"
@@ -5968,6 +6100,150 @@
     "category": [
         "Story Progression - Ophilia",
         "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-1 - Meeting Mattias, Redux",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-2 - Bishop Donovan",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-3 - In Search of a Child",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-4 - A Letter",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-5 - Guiding a Boy",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-6 - A Father's Dilemma",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-7 - Investigating the Threat",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-8 - True Belief",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-9 - Suspicious Persons",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-10 - The Savior",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-11 - An Irreplaceable Treasure",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-12 - Performing the Kindling",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-13 - Burning Strong",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-14 - An Uncomfortable Reunion",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-15 - Tragic Tidings",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ophilia's Journal - III-16 - In Search of the Savior",
+    "region": "Ophilia - Chapter 3",
+    "category": [
+        "Story Progression - Ophilia",
+        "Story"
     ],
     "requires": ""
   },
