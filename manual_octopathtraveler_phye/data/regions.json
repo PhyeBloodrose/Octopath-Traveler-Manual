@@ -113,7 +113,8 @@
   },
   "Cyrus - Chapter 3": {
     "connects_to": [
-        "Cyrus - Chapter 4"
+        "Cyrus - Chapter 4",
+        "Yvon's Birthplace"
     ],
     "requires": "|Cyrus Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Stonegard|"
   },
@@ -146,7 +147,8 @@
   },
   "Tressa - Chapter 3": {
     "connects_to": [
-        "Tressa - Chapter 4"
+        "Tressa - Chapter 4",
+        "The Forgotten Grotto"
     ],
     "requires": "|Tressa Chapter:3| AND (|@Traveler:3| OR {YamlEnabled(solo_run)}) AND |Victors Hollow|"
   },
@@ -582,6 +584,10 @@
     "connects_to": [],
     "requires": ""
   },
+  "Yvon's Birthplace": {
+    "connects_to": [],
+    "requires": ""
+  },
   "Highlands Tier 3": {
     "connects_to": [
         "Everhold",
@@ -864,6 +870,10 @@
   "Forest of No Return": {
     "connects_to": [],
     "requires": "|Forest of No Return Dungeon Map| AND |Chapter 4|"
+  },
+  "The Forgotten Grotto": {
+    "connects_to": [],
+    "requires": ""
   },
   "Woodlands Tier 3": {
     "connects_to": [

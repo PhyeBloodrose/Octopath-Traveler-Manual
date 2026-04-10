@@ -2473,6 +2473,95 @@
     "requires": ""
   },
   {
+    "name": "Yvon's Birthplace Chest 1 - Bone x1",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yvon's Birthplace Chest 2 - Inspiriting Plum x1",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yvon's Cellar Chest 1 - Light Soulstone (L) x1",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yvon's Cellar Chest 2 - $12000",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yvon's Cellar Chest 3 - Bright Stone x1",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yvon's Cellar Chest 4 - Energizing Pomegranate (M) x1",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yvon's Cellar Chest 5 - Fire Soulstone (M) x1",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yvon's Cellar Chest 6 - Sturdy Quartz Rod x1",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "Yvon's Cellar Chest 7 - Inspiriting Plum Basket x1",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yvon's Cellar - Defeat Yvon",
+    "region": "Yvon's Birthplace",
+    "category": [
+        "Dungeons - Highlands"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Eastern Sunshade Sands Chest 1 - Healing Grape x1",
     "region": "Sunlands Tier 1",
     "category": [
@@ -4724,6 +4813,112 @@
     "requires": ""
   },
   {
+    "name": "Path to the Forgotten Grotto Chest 1 - Olive of Life x1",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Forgotten Grotto Chest 2 - Shadow Soulstone (M) x1",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Path to the Forgotten Grotto Chest 3 - Healing Grape x1",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Chests - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Forgotten Grotto Chest 1 - Herb of Light x1",
+    "region": "The Forgotten Grotto",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Forgotten Grotto Chest 2 - Healing Grape Bunch x1",
+    "region": "The Forgotten Grotto",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Forgotten Grotto Chest 3 - Inspiriting Plum Basket x1",
+    "region": "The Forgotten Grotto",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Forgotten Grotto Chest 4 - Energizing Pomegranate (L) x1",
+    "region": "The Forgotten Grotto",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Forgotten Grotto Chest 5 - Sledgehammer x1",
+    "region": "The Forgotten Grotto",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": "|Therion the Thief|"
+  },
+  {
+    "name": "The Forgotten Grotto Chest 6 - $15000",
+    "region": "The Forgotten Grotto",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Forgotten Grotto Chest 7 - Olive of Life (M) x1",
+    "region": "The Forgotten Grotto",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Forgotten Grotto Chest 8 - Vivifying Stone x1",
+    "region": "The Forgotten Grotto",
+    "category": [
+        "Dungeons - Woodlands",
+        "Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Forgotten Grotto - Defeat Venomtooth Tiger",
+    "region": "The Forgotten Grotto",
+    "category": [
+        "Dungeons - Woodlands"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Undertow Cove Chest 1 - Healing Grape Bunch x1",
     "region": "Undertow Cove",
     "category": [
@@ -6518,6 +6713,132 @@
     "requires": ""
   },
   {
+    "name": "Cyrus's Journal - III-1 - Cyrus's Investigation",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-2 - Visiting Dominic",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-3 - Process of Deduction",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-4 - A Curious Client",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-5 - Followed",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-6 - A Trap Door!",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-7 - The Headmaster's Snare",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-8 - A Room with No Exit",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-9 - A Helping Hand",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-10 - Scholarly Pursuit",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-11 - Yvon's Transformation",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-12 - Yvon's Ugly End",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-13 - Back at the Inn",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cyrus's Journal - III-14 - Journeying On",
+    "region": "Cyrus - Chapter 3",
+    "category": [
+        "Story Progression - Cyrus",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
     "name": "Cyrus's Chapter 3 Complete",
     "region": "Cyrus - Chapter 3",
     "category": [
@@ -6820,6 +7141,168 @@
     "category": [
         "Story Progression - Tressa",
         "StoryNot"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-1 - A Treasure Map",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-2 - An Old Friend",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-3 - Edbart's Shield",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-4 - A Fair Trade",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-5 - Leon and Baltazar",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-6 - A Race on the Raging Tides",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-7 - Baltazar's Victory",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-8 - A Final Wager",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-9 - The Victor",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-10 - Baltazar's Treasure",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-11 - A Treasure Hunt",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-12 - Poisonous",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-13 - Eldrite",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-14 - A Letter",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-15 - The Most Precious Treasure",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-16 - Leon's Answer",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-17 - The Merchant Ship Captain",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tressa's Journal - III-18 - To the Auction!",
+    "region": "Tressa - Chapter 3",
+    "category": [
+        "Story Progression - Tressa",
+        "Story"
     ],
     "requires": ""
   },
